@@ -1,0 +1,80 @@
+/*CUSTOM BACKGROUND*/
+
+.registration-screen{
+	background-image: url('../images/platyplus/banner-bg.jpg') !important;
+	background-position: center;
+	background-size: 100% auto;
+	background-repeat: repeat;
+}
+
+.registration-header{
+	background: #1b1b1b;
+}
+
+.registration-header .resetlink{
+	color: #ffffff;
+	font-weight: bold;
+}
+
+.window__header .title, .window__header .text{
+	text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.30) !important;
+}
+
+.table{
+	border: 2px solid #135f7a;
+}
+
+.table th{
+	background: #135f7a;
+}
+
+.total-price{
+	background: #135f7a;
+}
+
+.custom-radio a, .custom-checkbox a{
+	color: #135f7a;
+}
+
+.custom-radio input:checked + .label:after{
+	background-color: #135f7a;
+}
+
+.custom-radio input:checked + .label, .custom-checkbox input:checked + .label{
+	border: 2px solid #135f7a;
+	border-left: 48px solid #135f7a;
+}
+
+.btn:hover{
+	background: #135f7a;
+}
+
+.custom-select select:hover{
+	background: #135f7a;
+}
+
+.window--selection__item:hover .select, .window--selection__item:active .select{
+	background: #135f7a;
+}
+
+
+.custom-checkbox input:checked + .label:after{
+	background-image: url('../images/platyplus/checkmark-custom.svg');
+	opacity: 1;
+}
+
+.footer .poweredby{
+	color: #ffffff;
+}
+
+.footer .poweredby a{
+	color: #ffffff;
+}
+
+.footer .poweredby a:hover{
+	color: #ffffff;
+}
+
+.img-rounded{
+	border: 1px solid #dddddd;
+}

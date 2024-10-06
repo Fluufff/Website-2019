@@ -1,0 +1,1142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<title>Flüüfff 2019 - Wow, It's Made!</title>
+	<meta name="description" content="Welcome to the Flüüfff construction zone! Join us in the 3th edition of Belgium's Furry Convention, a convention dedicated to anthropomorphic characters!" />
+	<meta property="og:title" content="Flüüfff 2019 - Wow, It's Made!" />
+	<meta property="og:type" content="website" />
+	<meta property="og:description" content="Welcome to the Flüüfff construction zone! Join us in the 3th edition of Belgium's Furry Convention, a convention dedicated to anthropomorphic characters!" />
+	<meta property="og:url" content="https://2019.fluufff.org/about?lang=fr_FR" />
+	<meta property="og:site_name" content="Flüüfff 2019 - Wow, It's Made!" />
+	<meta property="og:image" content="https://2019.fluufff.org/website/assets/images/og/open-graph.jpg">
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="Flüüfff 2019 - Wow, It's Made!" />
+	<meta name="twitter:description" content="Welcome to the Flüüfff construction zone! Join us in the 3th edition of Belgium's Furry Convention, a convention dedicated to anthropomorphic characters!" />
+	<meta name="twitter:image" content="https://2019.fluufff.org/website/assets/images/og/open-graph.jpg" />
+	<meta itemprop="name" content="Flüüfff 2019 - Wow, It's Made!" />
+	<meta itemprop="description" content="Welcome to the Flüüfff construction zone! Join us in the 3th edition of Belgium's Furry Convention, a convention dedicated to anthropomorphic characters!" />
+	<meta name="robots" content="index,follow,noodp,noydir" />
+	<meta http-equiv="Content-Language" content="en" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta http-equiv="Expires" content="never" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+	<meta name="format-detection" content="telephone=no" />
+	<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" />
+	<link href="https://fonts.googleapis.com/css?family=Lato|Muli|Carter+One" rel="stylesheet">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://2019.fluufff.org/website/assets/css/reset.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="https://2019.fluufff.org/website/assets/css/style.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="https://2019.fluufff.org/website/assets/css/aos.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="https://2019.fluufff.org/website/assets/css/tiny-slider.css" type="text/css" media="all" />
+	<link rel="apple-touch-icon" sizes="180x180" href="https://2019.fluufff.org/website/assets/images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="https://2019.fluufff.org/website/assets/images/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="https://2019.fluufff.org/website/assets/images/favicons/favicon-16x16.png">
+	<link rel="manifest" href="https://2019.fluufff.org/website/assets/images/favicons/site.webmanifest">
+	<link rel="mask-icon" href="https://2019.fluufff.org/website/assets/images/favicons/safari-pinned-tab.svg" color="#5bbad5">
+	<link rel="shortcut icon" href="https://2019.fluufff.org/website/assets/images/favicons/favicon.ico">
+	<meta name="apple-mobile-web-app-title" content="Flüüfff 2019 - Wow, It's Made!">
+	<meta name="application-name" content="Flüüfff 2019 - Wow, It's Made!">
+	<meta name="msapplication-config" content="https://2019.fluufff.org/website/assets/images/favicons/browserconfig.xml">
+	<meta name="theme-color" content="#1d2435">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+	<!-- <script src="https://2019.fluufff.org/website/assets/scripts/masonry.pkgd.min.js"></script> -->
+	<script src="https://2019.fluufff.org/website/assets/scripts/lazysizes.min.js" async=""></script>
+	<!-- <script src="https://2019.fluufff.org/website/assets/scripts/tweenmax.min.js"></script> -->
+	<script src="https://2019.fluufff.org/website/assets/scripts/tiny-slider.js"></script>
+	<script src="https://2019.fluufff.org/website/assets/scripts/smooth-scroll.js"></script>
+	<!-- <script src="https://2019.fluufff.org/website/assets/scripts/aos.js"></script> -->
+</head>
+<body>
+	<header class="header ">
+		<a href="https://2019.fluufff.org/" title="Back to homepage" class="resetlink logo">
+			<img src="https://2019.fluufff.org/website/assets/images/logos/logo-light.svg" alt="">
+		</a>
+		<div class="hamburger" onclick="hamburgerToggle(this)">
+			<div class="bar1"></div>
+			<div class="bar2"></div>
+			<div class="bar3"></div>
+		</div>
+		<nav>
+			<ul class="nav">
+				<li class="nav__item">
+					<a href="https://2019.fluufff.org/about" title="À propos" class="resetlink text white uppercase fs--16">
+						À propos					</a>
+				</li>
+				<li class="nav__item">
+					<a href="https://2019.fluufff.org/events" title="Programme" class="resetlink text white uppercase fs--16">
+						Programme					</a>
+				</li>
+				<li class="nav__item">
+					<a href="https://2019.fluufff.org/venue" title="Localisation" class="resetlink text white uppercase fs--16">
+						Localisation					</a>
+				</li>
+				<li class="nav__item">
+					<a href="https://2019.fluufff.org/tickets" title="Tarifs" class="resetlink text white uppercase fs--16">
+						Tickets					</a>
+				</li>
+				<li class="nav__item">
+					<a href="https://2019.fluufff.org/faq" title="FAQ" class="resetlink text white uppercase fs--16">
+						FAQ					</a>
+				</li>
+				<li class="nav__item">
+					<a href="https://2019.fluufff.org/media" title="Médias" class="resetlink text white uppercase fs--16">
+						Médias					</a>
+				</li>
+				<!-- <li class="nav__item nav__item--special">
+					<a href="https://2019.fluufff.org/register" title="Register" class="resetlink text blue bold uppercase fs--16">
+						Inscription					</a>
+				</li> -->
+				<li class="nav__item">
+					<a href="https://2019.fluufff.org/profile/login?from=register" title="Connexion" class="resetlink text white uppercase fs--16">
+						Connexion					</a>
+				</li>
+				<li class="nav__item nav__item--language">
+					<div class="language-select white">
+						<div class="current current-lang">
+							<i class="fas fa-globe"></i> <span>FR</span>
+						</div>
+						<div class="language-popup">
+							<a href="https://2019.fluufff.org/about?lang=en_GB" title="English" class="language-popup__item">EN</a>							<a href="https://2019.fluufff.org/about?lang=nl_BE" title="Nederlands (Be)" class="language-popup__item">NL</a>						</div>
+					</div>
+				</li>
+				<li class="nav__item nav__item--language--mobile white">
+<a href="https://2019.fluufff.org/about?lang=en_GB" title="English" class="resetlink">EN</a>|<a href="https://2019.fluufff.org/about?lang=nl_BE" title="Nederlands (Be)" class="resetlink">NL</a>|<a href="https://2019.fluufff.org/about?lang=fr_FR" title="Français" class="resetlink">FR</a>				</li>
+			</ul>
+		</nav>
+	</header>
+	<main>
+<section class=" section--shadow hero-banner hero-banner--about">
+	<div class="overlay">
+		<div class="content">
+			<h1 class="title carter white fs--60">
+				À propos de Flüüfff			</h1>
+			<p class="text white fs--16">
+				La Flüüfff est une convention furry, localisée en Belgique.			</p>
+			<p class="text white fs--16">
+				Ceci est la troisième édition de la convention. De plus en plus de participants viennent se joindre à cette fabuleuse aventure!			</p>
+			<p class="text white fs--16">
+				Cette année le thème de la convention est <strong lang="en" style="font-style: italic;">Wow, it's made!</strong>, un thème tournant autour de la créativité, l'inventivité et le bricolage!			</p>
+			<div class="button-container">
+				<a href="#fluufff" data-scroll class="resetlink button button--white" title="À propos de Flüüfff">
+					À propos de Flüüfff				</a>
+				<a href="#fandom" data-scroll class="resetlink button button--white" title="À propos du fandom">
+					À propos du fandom				</a>
+				<a href="#staff" data-scroll class="resetlink button button--white" title="Voir les membres du staff">
+					Staff				</a>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="section section--padding section--shadow section--with-sidebar" id="fluufff">
+	<div class="section-container--split">
+		<div class="content">
+			<div class="content-part">
+				<h2 class="title carter blue fs--30">
+					Flüüfff 2019				</h2>
+				<p class="text fs--16">
+<strong>Flüüfff 2019 est la troisième édition</strong> de la convention Flüüfff. Son but est de rassembler en un même endroit les furries et leurs amis pour partager un moment de camaraderie, d'amusement et de créativité (des valeurs dont notre communauté peut être fière). Mais vous n'avez pas besoin d'être un furry pour venir <strong>faire la fête avec nous</strong>!
+</p>
+<p class="text fs--16">
+Cette année le thème est <strong lang="en" style="font-type: italic;">"Wow, it‘s made!"</strong>, un hommage à la créativité, l'inventivité et le bricolage. Chacun d'entre nous a essayé au moins une fois dans sa vie de fabriquer quelque chose que ce soit ce gâteau qui a brûlé dans le four, un meuble suédois en kit ou le robot-aspirateur-arrosage automatiique que vous avez toujours rêvé de fabriquer (qui aurait pu imager que l'eau et l'électricité ne font pas bon ménage).
+</p>
+<p class="text fs--16">
+La convention s'étale sur <strong>5 jours</strong>, et propose différentes activités pour bien profiter de ses journées: une piste de dance, un coin loung, des jeux vidéos, des conférences, et bien d'autres choses à faire.
+</p>			</div>
+			<div class="content-part" id="fandom">
+				<h2 class="title carter blue fs--30">
+					Le Fandom Furry, qu'est-ce?				</h2>
+				<p class="text fs--16">
+	Le fandom furry est une <strong>communauté passionné par l'anthropomorphisme</strong> (des animaux avec des traits humains). Les personnes qui font parties du fandom sont nommés <strong>furries</strong>.
+</p>
+<p class="text fs--16">
+	Vous pouvez la comparer à d'autres communauté tels que les fans de Star Wars, de mangas et d'héroïc-fantasy. Le fandom furry se distingue par sa <strong>créativité</strong> mais est aussi connue pour avoir des <strong>membres très sociables</strong>!
+</p>
+<p class="text fs--16">
+  La majorité des furries créés leur propre personnage (appellé fursona), basé sur un animal. N'importe quelle espèces et créatures fantastiques peuvent être utilisées!
+</p>
+<p class="text fs--16">
+	Lors des sorties ou en convention, vous pouvez trouver des personnes en <strong>fursuit</strong>. Les fursuits sont des costumes basée sur le personnage créée par la personne.
+</p>
+<p class="text fs--16">
+	Que ce soit dans la communauté ou en convention, tout tourne autour de l'<strong>art</strong>, l'<strong>écriture</strong>, <strong>le jeu de rôles</strong>, <strong>la socialisation</strong> mais aussi <strong>concevoir et porter une fursuit</strong>. Une bonne partie des conventions et groupes furry organisent des évènements et collectes de dons pour diverses oeuvres de charité!
+</p>			</div>
+
+			<div class="content-part--special content-part--special-vzw section--blue">
+				<h3 class="title white fs--20">
+					La Flüüfff ASBL				</h3>
+				<div class="white text">
+				<p class="text white fs--16">
+Flüüfff ASBL est une Association Sans But Lucratif Belge ; elle porte le numéro d'entreprise 0662.498.716 (0662.498.716 (<a href="http://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?lang=fr&nummer=0662498716&actionLu=Search">vous pouvez en savoir plus sur la Banque Carrefour des Entreprises</a>). 
+</p>
+<address class="text white fs--16">
+Flüüfff, ASBL<br/>
+Rue Félicien Rops, 35B, boîte 01<br/>
+1070, Anderlecht<br/>
+Belgique
+</address>
+<p class="text white fs--16">
+Les administrateurs de l'ASBL sont Thierry Dognié, Jan Taverniers,  Meghann Poncin et Benoît Volckaert.
+</p>
+<p class="text white fs--16">
+Tous les revenus de la convention seront utilisés pour les équipements ou les services en vue d'améliorer la prochaine édition ou ils seront reversés à une œuvre de charité.
+</p>				</div>
+				<div class="button-container">
+					<a href="#staff" data-scroll class="resetlink button button--white" title="Check out the staffmembers">
+						Jetez un coup d’œil à notre équipe de volontaires!					</a>
+					<a href="#staff-join" data-scroll class="resetlink button button--white" title="Help us out">
+						Nous aider					</a>
+				</div>
+			</div>
+
+		</div>
+		<div class="section-sidebar">
+			<a href="https://2019.fluufff.org/faq" class="teaser-button" title="Check out the events!" style="background-image: url('https://2019.fluufff.org//website/assets/images/about/faq-teaser.png')">
+				<span class="overlay">
+					<span class="overlay-text">
+						Foire Aux Questions					</span>
+				</span>
+			</a>
+			<div class="sidebar-info">
+				<h3 class="title carter blue fs--18">
+					Qui est donc ce castor ?				</h3>
+				<p class="text fs--16">
+					<p>
+C'est Sir Floats-a-Lot, notre mascotte !
+</p>
+<p>
+Il est amical et plein de ressources. Donnez-lui n'importe quels matériaux, et il mettra son cœur à l'ouvrage pour en faire quelque chose de sympa.
+</p>				</p>
+				<img src="https://2019.fluufff.org/website/assets/images/about/beaver.png" alt="" class="image beaver-image">
+			</div>
+			<a href="https://2019.fluufff.org/events" class="teaser-button" title="Check out the events!" style="background-image: url('https://2019.fluufff.org/website/assets/images/about/events-teaser.png')">
+				<span class="overlay">
+					<span class="overlay-text">
+						Demandez le programme!					</span>
+				</span>
+			</a>
+
+		</div>
+	</div>
+</section>
+
+<div class="atmos-banner atmos-banner--button atmos-banner--16-9" style="background-image: url('https://2019.fluufff.org/website/assets/images/about/about-atmos.jpg');">
+		<a href="https://2019.fluufff.org/media" class="resetlink link-button link-button--white fs--16 m-t-24" title="Countdown">
+			<span>En savoir plus sur l'édition précédente</span><i class="fas fa-arrow-right"></i>
+		</a>
+</div>
+
+
+
+<section class="section section--blue section--padding section--shadow--both" style="z-index: 2;" id="staff">
+	<h2 class="title white carter center fs--40">
+		Notre équipe	</h2>
+
+		<div class="staff-part">
+		<h3 class="title white carter fs--24">
+			Board Member		</h3>
+		<div class="staff-overview">
+		<div class="staff-overview__item staff-overview__item--StanLuckBun">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver12.png');" >
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					StanLuckBun				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+					President				</span>
+			</div>
+		</div>
+		<div class="staff-overview__item staff-overview__item--Faelan">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver33.png');" >
+				<div class="bio">
+					<p class="text white fs--14">
+						I also showed up					</p>
+				</div>
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					Faelan				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+					Vice-President				</span>
+			</div>
+		</div>
+		<div class="staff-overview__item staff-overview__item--Tach">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver32.png');" >
+				<div class="bio">
+					<p class="text white fs--14">
+						What are you looking at? I just live here!					</p>
+				</div>
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					Tach				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+					Secretary				</span>
+			</div>
+		</div>
+		<div class="staff-overview__item staff-overview__item--Gigi">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver55.png');" >
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					Gigi				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+					Treasurer				</span>
+			</div>
+		</div>
+		<div class="staff-overview__item staff-overview__item--Laddian">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver35.png');" >
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					Laddian				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+					Hotel relations				</span>
+			</div>
+		</div>
+		</div>
+	</div>
+		<div class="staff-part">
+		<h3 class="title white carter fs--24">
+			Website		</h3>
+		<div class="staff-overview">
+		<div class="staff-overview__item staff-overview__item--Tach">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver32.png');" >
+				<div class="bio">
+					<p class="text white fs--14">
+						What are you looking at? I just live here!					</p>
+				</div>
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					Tach				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+					Head & Back-end developer				</span>
+			</div>
+		</div>
+		<div class="staff-overview__item staff-overview__item--Niki">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver83.png');" >
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					Niki				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+					Deputy				</span>
+			</div>
+		</div>
+		<div class="staff-overview__item staff-overview__item--Hypi The Fox">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver36.png');" >
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					Hypi The Fox				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+					SEO, Front-end & design				</span>
+			</div>
+		</div>
+		<div class="staff-overview__item staff-overview__item--Kasil">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver52.png');" >
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					Kasil				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+					Server, emails				</span>
+			</div>
+		</div>
+		<div class="staff-overview__item staff-overview__item--Furexa">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver1.png');" >
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					Furexa				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+					App				</span>
+			</div>
+		</div>
+		</div>
+	</div>
+		<div class="staff-part">
+		<h3 class="title white carter fs--24">
+			ConOps		</h3>
+		<div class="staff-overview">
+		<div class="staff-overview__item staff-overview__item--Tach">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver32.png');" >
+				<div class="bio">
+					<p class="text white fs--14">
+						What are you looking at? I just live here!					</p>
+				</div>
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					Tach				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+					Head				</span>
+			</div>
+		</div>
+		<div class="staff-overview__item staff-overview__item--SkyFox">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver82.png');" >
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					SkyFox				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+					Deputy				</span>
+			</div>
+		</div>
+		<div class="staff-overview__item staff-overview__item--Narf">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver66.png');" >
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					Narf				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+									</span>
+			</div>
+		</div>
+		<div class="staff-overview__item staff-overview__item--keeba">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver119.png');" >
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					keeba				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+									</span>
+			</div>
+		</div>
+		<div class="staff-overview__item staff-overview__item--Youna">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver116.png');" >
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					Youna				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+									</span>
+			</div>
+		</div>
+		<div class="staff-overview__item staff-overview__item--Jaxhusky">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver118.png');" >
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					Jaxhusky				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+									</span>
+			</div>
+		</div>
+		<div class="staff-overview__item staff-overview__item--DD">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver76.png');" >
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					Dunkin' Donuts				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+									</span>
+			</div>
+		</div>
+		<div class="staff-overview__item staff-overview__item--Leith">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver1.png');" >
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					Leith				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+									</span>
+			</div>
+		</div>
+		<div class="staff-overview__item staff-overview__item--Alexei (Mr. samoyed)">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver1.png');" >
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					Alexei (Mr. samoyed)				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+									</span>
+			</div>
+		</div>
+		</div>
+	</div>
+		<div class="staff-part">
+		<h3 class="title white carter fs--24">
+			Entertainment		</h3>
+		<div class="staff-overview">
+		<div class="staff-overview__item staff-overview__item--StanLuckBun">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver12.png');" >
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					StanLuckBun				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+					Head				</span>
+			</div>
+		</div>
+		<div class="staff-overview__item staff-overview__item--Vex">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver56.png');" >
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					Vex				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+					Deputy				</span>
+			</div>
+		</div>
+		<div class="staff-overview__item staff-overview__item--Tach">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver32.png');" >
+				<div class="bio">
+					<p class="text white fs--14">
+						What are you looking at? I just live here!					</p>
+				</div>
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					Tach				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+					Stan's little helper				</span>
+			</div>
+		</div>
+		<div class="staff-overview__item staff-overview__item--Jules">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver115.png');" >
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					Jules				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+									</span>
+			</div>
+		</div>
+		<div class="staff-overview__item staff-overview__item--Kasil">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver52.png');" >
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					Kasil				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+									</span>
+			</div>
+		</div>
+		<div class="staff-overview__item staff-overview__item--Nimalen">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver0.png');" >
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					Nimalen				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+									</span>
+			</div>
+		</div>
+		<div class="staff-overview__item staff-overview__item--Kanosint">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver50.png');" >
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					Kanosint				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+									</span>
+			</div>
+		</div>
+		<div class="staff-overview__item staff-overview__item--Oreo">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver127.png');" >
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					Oreo				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+									</span>
+			</div>
+		</div>
+		</div>
+	</div>
+		<div class="staff-part">
+		<h3 class="title white carter fs--24">
+			Registration		</h3>
+		<div class="staff-overview">
+		<div class="staff-overview__item staff-overview__item--Faelan">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver33.png');" >
+				<div class="bio">
+					<p class="text white fs--14">
+						I also showed up					</p>
+				</div>
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					Faelan				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+					Head				</span>
+			</div>
+		</div>
+		<div class="staff-overview__item staff-overview__item--Akylian">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver58.png');" >
+				<div class="bio">
+					<p class="text white fs--14">
+						Greetings! 
+My name is Akylian, and I'll be your resident avian for the evening.
+
+An avid alliteratory aficionado, always admiring any and all attempts at alliteration.
+Only on occasion obviously.					</p>
+				</div>
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					Akylian				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+					Deputy				</span>
+			</div>
+		</div>
+		<div class="staff-overview__item staff-overview__item--Tach">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver32.png');" >
+				<div class="bio">
+					<p class="text white fs--14">
+						What are you looking at? I just live here!					</p>
+				</div>
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					Tach				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+					Support (French, English)				</span>
+			</div>
+		</div>
+		<div class="staff-overview__item staff-overview__item--Tanuki">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver120.png');" >
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					Tanuki				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+					Check-in				</span>
+			</div>
+		</div>
+		<div class="staff-overview__item staff-overview__item--Jenky">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver37.png');" >
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					Jenky				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+					Check-in				</span>
+			</div>
+		</div>
+		</div>
+	</div>
+		<div class="staff-part">
+		<h3 class="title white carter fs--24">
+			Fursuit Affairs		</h3>
+		<div class="staff-overview">
+		<div class="staff-overview__item staff-overview__item--Orthank">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver48.png');" >
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					Orthank				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+					Head				</span>
+			</div>
+		</div>
+		<div class="staff-overview__item staff-overview__item--Hell Charm">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver41.png');" >
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					Hell Charm				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+									</span>
+			</div>
+		</div>
+		</div>
+	</div>
+		<div class="staff-part">
+		<h3 class="title white carter fs--24">
+			Photo		</h3>
+		<div class="staff-overview">
+		<div class="staff-overview__item staff-overview__item--MakiboX">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver51.png');" >
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					MakiboX				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+					Head				</span>
+			</div>
+		</div>
+		<div class="staff-overview__item staff-overview__item--Auroz">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver93.png');" >
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					Auroz				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+									</span>
+			</div>
+		</div>
+		<div class="staff-overview__item staff-overview__item--Peachy">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver117.png');" >
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					Peachy				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+									</span>
+			</div>
+		</div>
+		<div class="staff-overview__item staff-overview__item--VulcanWolfy">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver111.png');" >
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					VulcanWolfy				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+									</span>
+			</div>
+		</div>
+		<div class="staff-overview__item staff-overview__item--FoxiesCuties">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver91.png');" >
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					FoxiesCuties				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+									</span>
+			</div>
+		</div>
+		<div class="staff-overview__item staff-overview__item--Skygejager">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver1.png');" >
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					Skygejager				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+									</span>
+			</div>
+		</div>
+		</div>
+	</div>
+		<div class="staff-part">
+		<h3 class="title white carter fs--24">
+			Bar		</h3>
+		<div class="staff-overview">
+		<div class="staff-overview__item staff-overview__item--Amaroq">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver69.png');" >
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					Amaroq				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+					Head				</span>
+			</div>
+		</div>
+		<div class="staff-overview__item staff-overview__item--Tanuki">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver120.png');" >
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					Tanuki				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+									</span>
+			</div>
+		</div>
+		<div class="staff-overview__item staff-overview__item--Hell Charm">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver41.png');" >
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					Hell Charm				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+									</span>
+			</div>
+		</div>
+		<div class="staff-overview__item staff-overview__item--Nimalen">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver0.png');" >
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					Nimalen				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+									</span>
+			</div>
+		</div>
+		<div class="staff-overview__item staff-overview__item--Vrydi">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver1.png');" >
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					Vrydi				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+									</span>
+			</div>
+		</div>
+		<div class="staff-overview__item staff-overview__item--Zannak">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver0.png');" >
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					Zannak				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+									</span>
+			</div>
+		</div>
+		<div class="staff-overview__item staff-overview__item--DD">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver76.png');" >
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					Dunkin' Donuts				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+									</span>
+			</div>
+		</div>
+		<div class="staff-overview__item staff-overview__item--Kanosint">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver50.png');" >
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					Kanosint				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+									</span>
+			</div>
+		</div>
+		<div class="staff-overview__item staff-overview__item--Fill">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver1.png');" >
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					Fill				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+									</span>
+			</div>
+		</div>
+		<div class="staff-overview__item staff-overview__item--Damien LeBlanc">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver1.png');" >
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					Damien LeBlanc				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+									</span>
+			</div>
+		</div>
+		<div class="staff-overview__item staff-overview__item--Vexare">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver110.png');" >
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					Vexare				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+									</span>
+			</div>
+		</div>
+		<div class="staff-overview__item staff-overview__item--Yacóron">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver125.png');" >
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					Yacóron				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+									</span>
+			</div>
+		</div>
+		<div class="staff-overview__item staff-overview__item--Wikke">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver1.png');" >
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					Wikke				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+									</span>
+			</div>
+		</div>
+		</div>
+	</div>
+		<div class="staff-part">
+		<h3 class="title white carter fs--24">
+			Stage crew		</h3>
+		<div class="staff-overview">
+		<div class="staff-overview__item staff-overview__item--StarFoxCoon">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver64.png');" >
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					StarFoxCoon				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+					Head				</span>
+			</div>
+		</div>
+		<div class="staff-overview__item staff-overview__item--Tanuki">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver120.png');" >
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					Tanuki				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+									</span>
+			</div>
+		</div>
+		<div class="staff-overview__item staff-overview__item--Kanso">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver47.png');" >
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					Kanso				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+									</span>
+			</div>
+		</div>
+		<div class="staff-overview__item staff-overview__item--Tinker">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver54.png');" >
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					Tinker				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+									</span>
+			</div>
+		</div>
+		</div>
+	</div>
+		<div class="staff-part">
+		<h3 class="title white carter fs--24">
+			Decoration		</h3>
+		<div class="staff-overview">
+		<div class="staff-overview__item staff-overview__item--Laddian">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver35.png');" >
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					Laddian				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+					Head 				</span>
+			</div>
+		</div>
+		<div class="staff-overview__item staff-overview__item--Jenky">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver37.png');" >
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					Jenky				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+									</span>
+			</div>
+		</div>
+		<div class="staff-overview__item staff-overview__item--Dawn">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver27.png');" >
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					Dawn				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+									</span>
+			</div>
+		</div>
+		<div class="staff-overview__item staff-overview__item--Kanosint">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver50.png');" >
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					Kanosint				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+									</span>
+			</div>
+		</div>
+		<div class="staff-overview__item staff-overview__item--Zepto">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver13.png');" >
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					Zepto				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+									</span>
+			</div>
+		</div>
+		</div>
+	</div>
+		<div class="staff-part">
+		<h3 class="title white carter fs--24">
+			Dealers' Den		</h3>
+		<div class="staff-overview">
+		<div class="staff-overview__item staff-overview__item--Zepto">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver13.png');" >
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					Zepto				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+					Head				</span>
+			</div>
+		</div>
+		<div class="staff-overview__item staff-overview__item--Vexare">
+			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver110.png');" >
+			</div>
+			<div class="tag">
+				<span class="text fs--18">
+					Vexare				</span>
+				<span class="text text--no-paragraph fs--14 staff-function">
+									</span>
+			</div>
+		</div>
+		</div>
+	</div>
+</section>
+
+
+<div class="atmos-banner atmos-banner--button atmos-banner--16-9" id="staff-join" style="background-image: url('https://2019.fluufff.org/website/assets/images/sections/about/atmos-banner.jpg');">
+		<p class="text fs--18 white center">
+			Vous avez toujours voulu être un barman, un agent de sécurité, ou un technicien son & lumières? Rejoignez notre groupe de volontaires!		</p>
+		<a href="https://2019.fluufff.org/media" class="resetlink link-button link-button--white fs--16 m-t-24" title="Devenir volontaire">
+			<span>Devenir volontaire</span><i class="fas fa-arrow-right"></i>
+		</a>
+</div>
+		</main>
+		<footer class="footer">
+			<div class="footer__upper">
+				<div class="bannerslider-wrapper">
+				<div class="bannerslider">
+					
+					<a href="https://gdakon.org" target="_blank" title="Gdakon">
+						<img class="bannerslider__item" src="https://2019.fluufff.org/website/assets/images/exchange/gdakon.jpg" alt="0">
+					</a>
+
+					
+					<a href="https://furvester.org" target="_blank" title="Furvester">
+						<img class="bannerslider__item" src="https://2019.fluufff.org/website/assets/images/exchange/furvester.svg" alt="1">
+					</a>
+
+					
+					<a href="https://www.furrnion.org/" target="_blank" title="Furnion">
+						<img class="bannerslider__item" src="https://2019.fluufff.org/website/assets/images/exchange/furnion.gif" alt="2">
+					</a>
+
+					
+					<a href="https://animus.finfur.net/" target="_blank" title="Finfur Animus">
+						<img class="bannerslider__item" src="https://2019.fluufff.org/website/assets/images/exchange/finfur.png" alt="3">
+					</a>
+
+					
+					<a href="https://eurofurence.org" target="_blank" title="Eurofurence">
+						<img class="bannerslider__item" src="https://2019.fluufff.org/website/assets/images/exchange/eurofurence.gif" alt="4">
+					</a>
+
+					
+				</div>
+				</div>
+				<!-- <div class="footer__flex">
+					<a class="title" title="Back to homepage" href="https://2019.fluufff.org/">
+						<img height="60px" width="130px" alt="Flüüfff" src="https://2019.fluufff.org/website/assets/images/logos/logo-light.svg" />
+					</a>
+
+				</div> -->
+					<div class="bannerContainer">
+					<!-- Tach was here
+						<div id="slider">
+							<div id="mask">
+								<ul>
+									<li id="slidr0" class="animate0">
+										<a href="https://gdakon.org" target="_blank">
+											<img class="bannersize" src="https://2019.fluufff.org/website/assets/images/exchange/gdakon.jpg" alt="0">
+										</a>
+										<div class="tooltip">
+											<a href="https://gdakon.org" target="_blank">
+												<div class="imageboxx">
+													0												</div>
+											</a>
+										</div>
+									</li>
+									<li id="slidr1" class="animate1">
+										<a href="https://furvester.org" target="_blank">
+											<img class="bannersize" src="https://2019.fluufff.org/website/assets/images/exchange/furvester.svg" alt="1">
+										</a>
+										<div class="tooltip">
+											<a href="https://furvester.org" target="_blank">
+												<div class="imageboxx">
+													1												</div>
+											</a>
+										</div>
+									</li>
+									<li id="slidr2" class="animate2">
+										<a href="https://www.furrnion.org/" target="_blank">
+											<img class="bannersize" src="https://2019.fluufff.org/website/assets/images/exchange/furnion.gif" alt="2">
+										</a>
+										<div class="tooltip">
+											<a href="https://www.furrnion.org/" target="_blank">
+												<div class="imageboxx">
+													2												</div>
+											</a>
+										</div>
+									</li>
+									<li id="slidr3" class="animate3">
+										<a href="https://animus.finfur.net/" target="_blank">
+											<img class="bannersize" src="https://2019.fluufff.org/website/assets/images/exchange/finfur.png" alt="3">
+										</a>
+										<div class="tooltip">
+											<a href="https://animus.finfur.net/" target="_blank">
+												<div class="imageboxx">
+													3												</div>
+											</a>
+										</div>
+									</li>
+									<li id="slidr4" class="animate4">
+										<a href="https://eurofurence.org" target="_blank">
+											<img class="bannersize" src="https://2019.fluufff.org/website/assets/images/exchange/eurofurence.gif" alt="4">
+										</a>
+										<div class="tooltip">
+											<a href="https://eurofurence.org" target="_blank">
+												<div class="imageboxx">
+													4												</div>
+											</a>
+										</div>
+									</li>
+								</ul>
+							</div>
+							<div class="progress-bar"></div>
+						</div>
+					-->
+					</div>
+					<div class="footer-nav">
+						<div class="footer-nav--left">
+							<a target="_blank" href="https://twitter.com/FluufffCon" class="resetlink white fs--14 link" title="Twitter">
+								<i class="fab fa-twitter"></i> Twitter
+							</a>
+							<a target="_blank" href="http://www.furaffinity.net/user/fluufff/" class="resetlink white fs--14 link" title="Furaffinity">
+								<i class="fas fa-paw"></i> Furaffinity
+							</a>
+							<a target="_blank" href="https://www.facebook.com/fluufff/" class="resetlink white fs--14 link" title="Facebook">
+								<i class="fab fa-facebook-f"></i> Facebook
+							</a>
+							<a target="_blank" href="https://beta.furrynetwork.com/fluufff/" class="resetlink white fs--14 link" title="Furry Network">
+								<i class="fas fa-paw"></i> Furry Network
+							</a>
+							<a target="_blank" href="https://web.telegram.org/#/im?p=@fluufff_announcements" class="resetlink white fs--14 link" title="Telegram">
+								<i class="fab fa-telegram-plane"></i> Telegram
+							</a>
+						</div>
+						<div class="footer-nav--right">
+							<a href="https://2019.fluufff.org/events" class="resetlink white fs--14 link" title="Programme">
+								Programme							</a>
+							<a href="https://2019.fluufff.org/countdown" class="resetlink white fs--14 link" title="Compte à rebours">
+								Compte à rebours							</a>
+							<a href="https://2019.fluufff.org/register/terms" class="resetlink white fs--14 link" title="Règlement">
+								Règlement							</a>
+						<!-- <a href="https://2019.fluufff.org/othercons" class="resetlink white fs--14 link" title="Autres conventions">
+							Autres conventions						</a>
+						<a href="https://2019.fluufff.org/credits" class="resetlink white fs--14 link" title="Crédits">
+							Crédits						</a> -->
+						<a href="https://2018.fluufff.org" class="resetlink white fs--14 link" title="Site web de 2018">
+							Flüüfff 2018						</a>
+						<a href="https://2017.fluufff.org" class="resetlink white fs--14 link" title="Site web de 2017">
+							Flüüfff 2017						</a>
+					</div>
+				</div>
+			</div>
+			<div class="footer__lower">
+				<span class=" white">
+					&copy;2024 - Flüüfff ABSL - Tous droits réservés. | <a href="https://2019.fluufff.org/register/terms#privacy" target="_blank" class="resetlink text--white">Vie privée</a>					| <a href="https://2019.fluufff.org/register/terms#terms" target="_blank" class="resetlink text--white">Termes et conditions</a>					| <a href="https://2019.fluufff.org/profile/contact" class="resetlink text--white">Nous contacter</a>				</span>
+				<span class=" white text--right">
+					Design par <a target="_blank" href="https://twitter.com/HypiTheFox" title="Hypi The Fox">Hypi</a> et castors réalisés par <a target="_blank" href="https://twitter.com/DiscordianD" title="Zepto">Zepto</a>.<br/>
+				</span>
+			</div>
+
+		</footer>
+		<script src="https://2019.fluufff.org/website/assets/scripts/app.js"></script>
+	</body>
+	</html>

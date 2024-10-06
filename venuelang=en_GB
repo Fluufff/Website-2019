@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<title>Flüüfff 2019 - Wow, It's Made!</title>
+	<meta name="description" content="Welcome to the Flüüfff construction zone! Join us in the 3th edition of Belgium's Furry Convention, a convention dedicated to anthropomorphic characters!" />
+	<meta property="og:title" content="Flüüfff 2019 - Wow, It's Made!" />
+	<meta property="og:type" content="website" />
+	<meta property="og:description" content="Welcome to the Flüüfff construction zone! Join us in the 3th edition of Belgium's Furry Convention, a convention dedicated to anthropomorphic characters!" />
+	<meta property="og:url" content="https://2019.fluufff.org/venue?lang=en_GB" />
+	<meta property="og:site_name" content="Flüüfff 2019 - Wow, It's Made!" />
+	<meta property="og:image" content="https://2019.fluufff.org/website/assets/images/og/open-graph.jpg">
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="Flüüfff 2019 - Wow, It's Made!" />
+	<meta name="twitter:description" content="Welcome to the Flüüfff construction zone! Join us in the 3th edition of Belgium's Furry Convention, a convention dedicated to anthropomorphic characters!" />
+	<meta name="twitter:image" content="https://2019.fluufff.org/website/assets/images/og/open-graph.jpg" />
+	<meta itemprop="name" content="Flüüfff 2019 - Wow, It's Made!" />
+	<meta itemprop="description" content="Welcome to the Flüüfff construction zone! Join us in the 3th edition of Belgium's Furry Convention, a convention dedicated to anthropomorphic characters!" />
+	<meta name="robots" content="index,follow,noodp,noydir" />
+	<meta http-equiv="Content-Language" content="en" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta http-equiv="Expires" content="never" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+	<meta name="format-detection" content="telephone=no" />
+	<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" />
+	<link href="https://fonts.googleapis.com/css?family=Lato|Muli|Carter+One" rel="stylesheet">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://2019.fluufff.org/website/assets/css/reset.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="https://2019.fluufff.org/website/assets/css/style.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="https://2019.fluufff.org/website/assets/css/aos.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="https://2019.fluufff.org/website/assets/css/tiny-slider.css" type="text/css" media="all" />
+	<link rel="apple-touch-icon" sizes="180x180" href="https://2019.fluufff.org/website/assets/images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="https://2019.fluufff.org/website/assets/images/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="https://2019.fluufff.org/website/assets/images/favicons/favicon-16x16.png">
+	<link rel="manifest" href="https://2019.fluufff.org/website/assets/images/favicons/site.webmanifest">
+	<link rel="mask-icon" href="https://2019.fluufff.org/website/assets/images/favicons/safari-pinned-tab.svg" color="#5bbad5">
+	<link rel="shortcut icon" href="https://2019.fluufff.org/website/assets/images/favicons/favicon.ico">
+	<meta name="apple-mobile-web-app-title" content="Flüüfff 2019 - Wow, It's Made!">
+	<meta name="application-name" content="Flüüfff 2019 - Wow, It's Made!">
+	<meta name="msapplication-config" content="https://2019.fluufff.org/website/assets/images/favicons/browserconfig.xml">
+	<meta name="theme-color" content="#1d2435">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+	<!-- <script src="https://2019.fluufff.org/website/assets/scripts/masonry.pkgd.min.js"></script> -->
+	<script src="https://2019.fluufff.org/website/assets/scripts/lazysizes.min.js" async=""></script>
+	<!-- <script src="https://2019.fluufff.org/website/assets/scripts/tweenmax.min.js"></script> -->
+	<script src="https://2019.fluufff.org/website/assets/scripts/tiny-slider.js"></script>
+	<script src="https://2019.fluufff.org/website/assets/scripts/smooth-scroll.js"></script>
+	<!-- <script src="https://2019.fluufff.org/website/assets/scripts/aos.js"></script> -->
+</head>
+<body>
+	<header class="header ">
+		<a href="https://2019.fluufff.org/" title="Back to homepage" class="resetlink logo">
+			<img src="https://2019.fluufff.org/website/assets/images/logos/logo-light.svg" alt="">
+		</a>
+		<div class="hamburger" onclick="hamburgerToggle(this)">
+			<div class="bar1"></div>
+			<div class="bar2"></div>
+			<div class="bar3"></div>
+		</div>
+		<nav>
+			<ul class="nav">
+				<li class="nav__item">
+					<a href="https://2019.fluufff.org/about" title="About" class="resetlink text white uppercase fs--16">
+						About					</a>
+				</li>
+				<li class="nav__item">
+					<a href="https://2019.fluufff.org/events" title="Events" class="resetlink text white uppercase fs--16">
+						Events					</a>
+				</li>
+				<li class="nav__item">
+					<a href="https://2019.fluufff.org/venue" title="Venue" class="resetlink text white uppercase fs--16">
+						Venue					</a>
+				</li>
+				<li class="nav__item">
+					<a href="https://2019.fluufff.org/tickets" title="Prices" class="resetlink text white uppercase fs--16">
+						Tickets					</a>
+				</li>
+				<li class="nav__item">
+					<a href="https://2019.fluufff.org/faq" title="FAQ" class="resetlink text white uppercase fs--16">
+						FAQ					</a>
+				</li>
+				<li class="nav__item">
+					<a href="https://2019.fluufff.org/media" title="Media" class="resetlink text white uppercase fs--16">
+						Media					</a>
+				</li>
+				<!-- <li class="nav__item nav__item--special">
+					<a href="https://2019.fluufff.org/register" title="Register" class="resetlink text blue bold uppercase fs--16">
+						Register					</a>
+				</li> -->
+				<li class="nav__item">
+					<a href="https://2019.fluufff.org/profile/login?from=register" title="Login" class="resetlink text white uppercase fs--16">
+						Login					</a>
+				</li>
+				<li class="nav__item nav__item--language">
+					<div class="language-select white">
+						<div class="current current-lang">
+							<i class="fas fa-globe"></i> <span>EN</span>
+						</div>
+						<div class="language-popup">
+							<a href="https://2019.fluufff.org/venue?lang=nl_BE" title="Nederlands (Be)" class="language-popup__item">NL</a>							<a href="https://2019.fluufff.org/venue?lang=fr_FR" title="Français" class="language-popup__item">FR</a>						</div>
+					</div>
+				</li>
+				<li class="nav__item nav__item--language--mobile white">
+<a href="https://2019.fluufff.org/venue?lang=en_GB" title="English" class="resetlink">EN</a>|<a href="https://2019.fluufff.org/venue?lang=nl_BE" title="Nederlands (Be)" class="resetlink">NL</a>|<a href="https://2019.fluufff.org/venue?lang=fr_FR" title="Français" class="resetlink">FR</a>				</li>
+			</ul>
+		</nav>
+	</header>
+	<main>
+<section class=" section--shadow hero-banner hero-banner--hotel">
+	<div class="overlay">
+		<div class="content">
+			<h1 class="title carter white fs--60">
+				The hotel			</h1>
+			<p class="text white fs--16">
+				Just outside of the city, nestled between the dunes and the Zeebos (a lovely park between forest and sea), the Duinse Polders is a calm and well-equipped vacation center with an easy access and lovely surroundings.			</p>
+			<div class="button-container">
+				<a href="#travel" data-scroll class="resetlink button button--white" title="Travel instructions">
+					Travel instructions				</a>
+				<a href="#packs" data-scroll class="resetlink button button--white" title="Residential pack">
+					Residential packs				</a>
+			</div>
+
+		</div>
+	</div>
+</section>
+<section id="info" class="section section--padding hotel-info">
+	<div class="flex-container">
+		<div class="flex-half">
+			<h2 class="title fs--40 carter blue">
+				Corsendonk Duinse Polders			</h2>
+						<p class="text fs--18">
+				Corsendonk Duinse Polders is a club-hotel located at the seashore next to a protected natural area. It is of easy access by tram and not far from the center of Blankenberge. It is also the place were all the fun is going to happen! In case you come by car, there is a parking free for all the hotel guests.
+			</p>
+			<p class="text fs--18">
+				The hotel staff will happily welcome you and help you (most of the staff speaks Dutch, English, French and/or German).
+			</p>
+			<p class="text fs--18">
+				If you want to stay a bit longer, its convenient location will make your visit of Blankenberge more enjoyable.
+			</p>
+			<p class="text fs--18 blue bold">
+				A. Ruzettelaan 195, Blankenberge<br/>GPS: 51°19'12.9"N 3°09'13.7"E
+			</p>			<a href="#travel" data-scroll class="resetlink button button--blue fs--18 m-t-24" title="Travel instructions">
+				How do I get there?			</a>
+			<a href="#tourism" data-scroll class="resetlink button button--blue fs--18" title="Tourism">
+				Tourism			</a>
+
+		</div>
+	</div>
+</section>
+
+<section id="travel" style="z-index: 2" class="section section--padding section--padding--small section--blue section--shadow--both travel-instructions">
+	<h2 class="title fs--40 carter center white m-b-48">
+		Travel Instructions	</h2>
+	<div class="section-container section-container--split section-container--split--3">
+		<div class="left border-box border-box--no-flex center">
+			<div>
+				<i class="fas fa-plane fs--30 white m-b-12"></i>
+				<h2 class="title white carter fs--26 m-b-24">
+					By plane				</h2>
+			</div>
+						<p class="text white fs--16">
+				When arriving, it's quite a walk to the luggage collection zone. Keep that in mind!			</p>
+			<p class="text white fs--16">
+				Go to the <strong>Brussels Airport-Zaventem</strong> station.			</p>
+			<p class="text white fs--16">
+				Take the <strong>IC train to Brussels-Zuid (Brussels-Midi)</strong> station (direction Gent Sint-Pieters).			</p>
+			<p class="text white fs--16">
+				From there, take the <strong>IC train to Blankenberge</strong> (last station).			</p>
+			<p class="italic text white fs--16">
+				All travel instructions and actual timetables for the trainsystem (depending on your location) can be found on the <a target="_blank" href="https://www.belgiantrain.be/en/" title="Belgian Train">Belgian Train</a> website.			</p>
+			<p class="text white fs--16">
+				On arrival, it's either a 20 minute walk or you can take the tram from Blankenberge station to Corsendonk Duinse Polders station.
+			</p>		</div>
+		<div class="mid border-box border-box--no-flex center">
+			<i class="fas fa-subway fs--30 white m-b-12"></i>
+			<h2 class="title white carter fs--26 m-b-24">
+				By train			</h2>
+						<p class="text white fs--16">
+				Go to the <strong>Blankenberge station</strong> (last station).
+			</p>
+			<p class="text white fs--16">
+				When traveling by highspeed trains, like <strong>Thalys</strong>, <strong>SNCF</strong> or <strong>ICE</strong>, step off at the <strong>Brussels-Zuid (Brussels-Midi) station</strong> and then take the <strong>IC train to Blankenberge</strong> (last station).			</p>
+			<p class="italic text white fs--16">
+				All travel instructions and actual timetables for the trainsystem (depending on your location) can be found on the <a target="_blank" href="https://www.belgiantrain.be/en/" title="Belgian Train">Belgian Train</a> website.			</p>
+			<p class="text white fs--16">
+				On arrival, it's either a 20 minute walk or you can take the tram from Blankenberge station to Corsendonk Duinse Polders station.
+			</p>		</div>
+		<div class="right border-box border-box--no-flex center">
+			<i class="fas fa-car fs--30 white m-b-12"></i>
+			<h2 class="title white carter fs--26 m-b-24">
+				By car			</h2>
+						<p class="text white fs--16">
+				There is a big <strong>free parking</strong> for all attendees of fluufff. You can find it when entering the domain and turning left. The parkings on the right are not for the attendees.
+			</p>
+			<p class="text white fs--16">
+				Be sure to check Google Maps for possible traffic jams on the highways!
+			</p>
+			<p class="text white fs--16">
+				Set your GPS to <br/><strong>A. Ruzettelaan 195, Blankenberge</strong>.
+			</p>
+			<p class="text white fs--16 italic">
+				Be carefull! Belgium has tons of speeding cameras and quite complicated traffic rules! Be sure to check the most recent rules, especially about speed limits!
+			</p>		</div>
+	</div>
+</section>
+
+<section id="packs" class="section section--padding hotel-info hotel-info-2">
+	<div class="flex-container">
+		<div class="flex-half">
+			<h2 class="title fs--30 carter blue">
+				Residential pack			</h2>
+			<p class="text fs--16">
+				The residential pack, includes:			</p>
+			<ul class="list text fs--16">
+				<li class="list__item">
+					<strong>Breakfast buffet</strong> à volonté: a big buffet of fruits, toast, sandwiches and hot beverages. (all days except wednessday)				</li>
+				<li class="list__item">
+					<strong>Dinner buffet</strong> à volonté: a buffet with choice of vegetables, 2 kind of dishes, soft drinks and hot beverages. (all days except sunday)				</li>
+				<li class="list__item">
+					<strong>A spot in a bedroom</strong>: a spot in a bedrooms equipped with a mini-fridge, tv, wifi, a personal toilet and bathroom (shower) and a desk.				</li>
+			</ul>
+			<p class="text fs--16">
+				For people with a <strong>non-residential</strong> ticket, the hotel offers the possibility to register for breakfast and dinner buffet. Just go to the reception.			</p>
+			<p class="text fs--16">
+				If you want to eat lunch in the hotel, you can also register in advance. If you want to try other local restaurants or the famous 'frituurs', the Belgian snackbars, just contact the convention staff to give some tips or travel instructions!			</p>
+			<a href="#tourism" data-scroll class="resetlink button button--blue fs--18 m-t-24" title="Tourism">
+				Tourism			</a>
+			<a href="https://2019.fluufff.org/tickets" class="resetlink button button--blue fs--18 m-t-24" title="Events">
+				Tickets			</a>
+		</div>
+	</div>
+</section>
+
+<section id="tourism">
+	<div class="atmos-banner atmos-banner--button atmos-banner--tourism section--shadow--both" style=" background-image: url('https://2019.fluufff.org/website/assets/images/hotel/tourism-1.jpg');">
+		<p class="text fs--18 white center">
+			At only 700m of the hotel, there's the <strong>Sealife Center</strong>! <br/>A small zoo for sea creatures and a rescue centre for seals!		</p>
+		<a href="https://www.visitsealife.com/blankenberge/en/" class="resetlink link-button link-button--white fs--16 m-t-24" title="Sealife Blankenberge">			<span>Discover Sealife Center</span><i class="fas fa-arrow-right"></i>		</a>	</div>
+	<div class="atmos-banner atmos-banner--button atmos-banner--tourism" style=" background-image: url('https://2019.fluufff.org/website/assets/images/hotel/tourism-3.jpg');">
+		<p class="text fs--18 white center">
+			Ever wanted to do minigolf, but under black lights? <br/>Discover this cool minigolf!		</p>
+		<a href="http://sportland.be/#nl/goolfy-black-light-mini-golf" class="resetlink link-button link-button--white fs--16 m-t-24" title="Goolfy, mini-golf in Blankenberge">			<span>Discover Goolfy</span><i class="fas fa-arrow-right"></i>		</a>	</div>
+	<div class="atmos-banner atmos-banner--button atmos-banner--tourism" style=" background-image: url('https://2019.fluufff.org/website/assets/images/hotel/tourism-2.jpg');">
+		<p class="text fs--18 white center">
+			The hotel is located not that far from the center of Blankenberge! <br/>(easily accessible by tram)		</p>
+		<a href="https://www.visit-blankenberge.be/en" class="resetlink link-button link-button--white fs--16 m-t-24" title="Visit Blankenberge">			<span>Discover Blankenberge</span><i class="fas fa-arrow-right"></i>		</a>	</div>
+</section>
+		</main>
+		<footer class="footer">
+			<div class="footer__upper">
+				<div class="bannerslider-wrapper">
+				<div class="bannerslider">
+					
+					<a href="https://eurofurence.org" target="_blank" title="Eurofurence">
+						<img class="bannerslider__item" src="https://2019.fluufff.org/website/assets/images/exchange/eurofurence.gif" alt="0">
+					</a>
+
+					
+					<a href="https://www.furrnion.org/" target="_blank" title="Furnion">
+						<img class="bannerslider__item" src="https://2019.fluufff.org/website/assets/images/exchange/furnion.gif" alt="1">
+					</a>
+
+					
+					<a href="https://furvester.org" target="_blank" title="Furvester">
+						<img class="bannerslider__item" src="https://2019.fluufff.org/website/assets/images/exchange/furvester.svg" alt="2">
+					</a>
+
+					
+					<a href="https://animus.finfur.net/" target="_blank" title="Finfur Animus">
+						<img class="bannerslider__item" src="https://2019.fluufff.org/website/assets/images/exchange/finfur.png" alt="3">
+					</a>
+
+					
+					<a href="https://gdakon.org" target="_blank" title="Gdakon">
+						<img class="bannerslider__item" src="https://2019.fluufff.org/website/assets/images/exchange/gdakon.jpg" alt="4">
+					</a>
+
+					
+				</div>
+				</div>
+				<!-- <div class="footer__flex">
+					<a class="title" title="Back to homepage" href="https://2019.fluufff.org/">
+						<img height="60px" width="130px" alt="Flüüfff" src="https://2019.fluufff.org/website/assets/images/logos/logo-light.svg" />
+					</a>
+
+				</div> -->
+					<div class="bannerContainer">
+					<!-- Tach was here
+						<div id="slider">
+							<div id="mask">
+								<ul>
+									<li id="slidr0" class="animate0">
+										<a href="https://eurofurence.org" target="_blank">
+											<img class="bannersize" src="https://2019.fluufff.org/website/assets/images/exchange/eurofurence.gif" alt="0">
+										</a>
+										<div class="tooltip">
+											<a href="https://eurofurence.org" target="_blank">
+												<div class="imageboxx">
+													0												</div>
+											</a>
+										</div>
+									</li>
+									<li id="slidr1" class="animate1">
+										<a href="https://www.furrnion.org/" target="_blank">
+											<img class="bannersize" src="https://2019.fluufff.org/website/assets/images/exchange/furnion.gif" alt="1">
+										</a>
+										<div class="tooltip">
+											<a href="https://www.furrnion.org/" target="_blank">
+												<div class="imageboxx">
+													1												</div>
+											</a>
+										</div>
+									</li>
+									<li id="slidr2" class="animate2">
+										<a href="https://furvester.org" target="_blank">
+											<img class="bannersize" src="https://2019.fluufff.org/website/assets/images/exchange/furvester.svg" alt="2">
+										</a>
+										<div class="tooltip">
+											<a href="https://furvester.org" target="_blank">
+												<div class="imageboxx">
+													2												</div>
+											</a>
+										</div>
+									</li>
+									<li id="slidr3" class="animate3">
+										<a href="https://animus.finfur.net/" target="_blank">
+											<img class="bannersize" src="https://2019.fluufff.org/website/assets/images/exchange/finfur.png" alt="3">
+										</a>
+										<div class="tooltip">
+											<a href="https://animus.finfur.net/" target="_blank">
+												<div class="imageboxx">
+													3												</div>
+											</a>
+										</div>
+									</li>
+									<li id="slidr4" class="animate4">
+										<a href="https://gdakon.org" target="_blank">
+											<img class="bannersize" src="https://2019.fluufff.org/website/assets/images/exchange/gdakon.jpg" alt="4">
+										</a>
+										<div class="tooltip">
+											<a href="https://gdakon.org" target="_blank">
+												<div class="imageboxx">
+													4												</div>
+											</a>
+										</div>
+									</li>
+								</ul>
+							</div>
+							<div class="progress-bar"></div>
+						</div>
+					-->
+					</div>
+					<div class="footer-nav">
+						<div class="footer-nav--left">
+							<a target="_blank" href="https://twitter.com/FluufffCon" class="resetlink white fs--14 link" title="Twitter">
+								<i class="fab fa-twitter"></i> Twitter
+							</a>
+							<a target="_blank" href="http://www.furaffinity.net/user/fluufff/" class="resetlink white fs--14 link" title="Furaffinity">
+								<i class="fas fa-paw"></i> Furaffinity
+							</a>
+							<a target="_blank" href="https://www.facebook.com/fluufff/" class="resetlink white fs--14 link" title="Facebook">
+								<i class="fab fa-facebook-f"></i> Facebook
+							</a>
+							<a target="_blank" href="https://beta.furrynetwork.com/fluufff/" class="resetlink white fs--14 link" title="Furry Network">
+								<i class="fas fa-paw"></i> Furry Network
+							</a>
+							<a target="_blank" href="https://web.telegram.org/#/im?p=@fluufff_announcements" class="resetlink white fs--14 link" title="Telegram">
+								<i class="fab fa-telegram-plane"></i> Telegram
+							</a>
+						</div>
+						<div class="footer-nav--right">
+							<a href="https://2019.fluufff.org/events" class="resetlink white fs--14 link" title="Events">
+								Events							</a>
+							<a href="https://2019.fluufff.org/countdown" class="resetlink white fs--14 link" title="Countdown">
+								Countdown							</a>
+							<a href="https://2019.fluufff.org/register/terms" class="resetlink white fs--14 link" title="Policies">
+								Policies							</a>
+						<!-- <a href="https://2019.fluufff.org/othercons" class="resetlink white fs--14 link" title="Other cons">
+							Other cons						</a>
+						<a href="https://2019.fluufff.org/credits" class="resetlink white fs--14 link" title="Credits">
+							Credits						</a> -->
+						<a href="https://2018.fluufff.org" class="resetlink white fs--14 link" title="2018 website">
+							Flüüfff 2018						</a>
+						<a href="https://2017.fluufff.org" class="resetlink white fs--14 link" title="2017 website">
+							Flüüfff 2017						</a>
+					</div>
+				</div>
+			</div>
+			<div class="footer__lower">
+				<span class=" white">
+					&copy;2024 - Flüüfff ABSL - All rights reserved. | <a href="https://2019.fluufff.org/register/terms#privacy" target="_blank" class="resetlink text--white">Privacy</a>					| <a href="https://2019.fluufff.org/register/terms#terms" target="_blank" class="resetlink text--white">Terms and Conditions</a>					| <a href="https://2019.fluufff.org/profile/contact" class="resetlink text--white">Contact us</a>				</span>
+				<span class=" white text--right">
+					Design by <a target="_blank" href="https://twitter.com/HypiTheFox" title="Hypi The Fox">Hypi</a> and beavers by <a target="_blank" href="https://twitter.com/DiscordianD" title="Zepto">Zepto</a>.<br/>
+				</span>
+			</div>
+
+		</footer>
+		<script src="https://2019.fluufff.org/website/assets/scripts/app.js"></script>
+	</body>
+	</html>

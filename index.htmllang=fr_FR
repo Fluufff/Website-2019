@@ -1,0 +1,361 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<title>Flüüfff 2019 - Wow, It's Made!</title>
+	<meta name="description" content="Welcome to the Flüüfff construction zone! Join us in the 3th edition of Belgium's Furry Convention, a convention dedicated to anthropomorphic characters!" />
+	<meta property="og:title" content="Flüüfff 2019 - Wow, It's Made!" />
+	<meta property="og:type" content="website" />
+	<meta property="og:description" content="Welcome to the Flüüfff construction zone! Join us in the 3th edition of Belgium's Furry Convention, a convention dedicated to anthropomorphic characters!" />
+	<meta property="og:url" content="https://2019.fluufff.org/?lang=fr_FR" />
+	<meta property="og:site_name" content="Flüüfff 2019 - Wow, It's Made!" />
+	<meta property="og:image" content="https://2019.fluufff.org/website/assets/images/og/open-graph.jpg">
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="Flüüfff 2019 - Wow, It's Made!" />
+	<meta name="twitter:description" content="Welcome to the Flüüfff construction zone! Join us in the 3th edition of Belgium's Furry Convention, a convention dedicated to anthropomorphic characters!" />
+	<meta name="twitter:image" content="https://2019.fluufff.org/website/assets/images/og/open-graph.jpg" />
+	<meta itemprop="name" content="Flüüfff 2019 - Wow, It's Made!" />
+	<meta itemprop="description" content="Welcome to the Flüüfff construction zone! Join us in the 3th edition of Belgium's Furry Convention, a convention dedicated to anthropomorphic characters!" />
+	<meta name="robots" content="index,follow,noodp,noydir" />
+	<meta http-equiv="Content-Language" content="en" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta http-equiv="Expires" content="never" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+	<meta name="format-detection" content="telephone=no" />
+	<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" />
+	<link href="https://fonts.googleapis.com/css?family=Lato|Muli|Carter+One" rel="stylesheet">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://2019.fluufff.org/website/assets/css/reset.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="https://2019.fluufff.org/website/assets/css/style.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="https://2019.fluufff.org/website/assets/css/aos.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="https://2019.fluufff.org/website/assets/css/tiny-slider.css" type="text/css" media="all" />
+	<link rel="apple-touch-icon" sizes="180x180" href="https://2019.fluufff.org/website/assets/images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="https://2019.fluufff.org/website/assets/images/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="https://2019.fluufff.org/website/assets/images/favicons/favicon-16x16.png">
+	<link rel="manifest" href="https://2019.fluufff.org/website/assets/images/favicons/site.webmanifest">
+	<link rel="mask-icon" href="https://2019.fluufff.org/website/assets/images/favicons/safari-pinned-tab.svg" color="#5bbad5">
+	<link rel="shortcut icon" href="https://2019.fluufff.org/website/assets/images/favicons/favicon.ico">
+	<meta name="apple-mobile-web-app-title" content="Flüüfff 2019 - Wow, It's Made!">
+	<meta name="application-name" content="Flüüfff 2019 - Wow, It's Made!">
+	<meta name="msapplication-config" content="https://2019.fluufff.org/website/assets/images/favicons/browserconfig.xml">
+	<meta name="theme-color" content="#1d2435">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+	<!-- <script src="https://2019.fluufff.org/website/assets/scripts/masonry.pkgd.min.js"></script> -->
+	<script src="https://2019.fluufff.org/website/assets/scripts/lazysizes.min.js" async=""></script>
+	<!-- <script src="https://2019.fluufff.org/website/assets/scripts/tweenmax.min.js"></script> -->
+	<script src="https://2019.fluufff.org/website/assets/scripts/tiny-slider.js"></script>
+	<script src="https://2019.fluufff.org/website/assets/scripts/smooth-scroll.js"></script>
+	<!-- <script src="https://2019.fluufff.org/website/assets/scripts/aos.js"></script> -->
+</head>
+<body>
+	<header class="header header--home">
+		<a href="https://2019.fluufff.org/" title="Back to homepage" class="resetlink logo">
+			<img src="https://2019.fluufff.org/website/assets/images/logos/logo-light.svg" alt="">
+		</a>
+		<div class="hamburger" onclick="hamburgerToggle(this)">
+			<div class="bar1"></div>
+			<div class="bar2"></div>
+			<div class="bar3"></div>
+		</div>
+		<nav>
+			<ul class="nav">
+				<li class="nav__item">
+					<a href="https://2019.fluufff.org/about" title="À propos" class="resetlink text white uppercase fs--16">
+						À propos					</a>
+				</li>
+				<li class="nav__item">
+					<a href="https://2019.fluufff.org/events" title="Programme" class="resetlink text white uppercase fs--16">
+						Programme					</a>
+				</li>
+				<li class="nav__item">
+					<a href="https://2019.fluufff.org/venue" title="Localisation" class="resetlink text white uppercase fs--16">
+						Localisation					</a>
+				</li>
+				<li class="nav__item">
+					<a href="https://2019.fluufff.org/tickets" title="Tarifs" class="resetlink text white uppercase fs--16">
+						Tickets					</a>
+				</li>
+				<li class="nav__item">
+					<a href="https://2019.fluufff.org/faq" title="FAQ" class="resetlink text white uppercase fs--16">
+						FAQ					</a>
+				</li>
+				<li class="nav__item">
+					<a href="https://2019.fluufff.org/media" title="Médias" class="resetlink text white uppercase fs--16">
+						Médias					</a>
+				</li>
+				<!-- <li class="nav__item nav__item--special">
+					<a href="https://2019.fluufff.org/register" title="Register" class="resetlink text blue bold uppercase fs--16">
+						Inscription					</a>
+				</li> -->
+				<li class="nav__item">
+					<a href="https://2019.fluufff.org/profile/login?from=register" title="Connexion" class="resetlink text white uppercase fs--16">
+						Connexion					</a>
+				</li>
+				<li class="nav__item nav__item--language">
+					<div class="language-select white">
+						<div class="current current-lang">
+							<i class="fas fa-globe"></i> <span>FR</span>
+						</div>
+						<div class="language-popup">
+							<a href="https://2019.fluufff.org/?lang=en_GB" title="English" class="language-popup__item">EN</a>							<a href="https://2019.fluufff.org/?lang=nl_BE" title="Nederlands (Be)" class="language-popup__item">NL</a>						</div>
+					</div>
+				</li>
+				<li class="nav__item nav__item--language--mobile white">
+<a href="https://2019.fluufff.org/?lang=en_GB" title="English" class="resetlink">EN</a>|<a href="https://2019.fluufff.org/?lang=nl_BE" title="Nederlands (Be)" class="resetlink">NL</a>|<a href="https://2019.fluufff.org/?lang=fr_FR" title="Français" class="resetlink">FR</a>				</li>
+			</ul>
+		</nav>
+	</header>
+	<main>
+<section class="hero-banner hero-banner--home section--shadow">
+
+				<iframe type="text/html" width="720" height="405"
+		src="https://www.youtube-nocookie.com/embed/LOfbXMPKTxg?mute=1&autoplay=1&disablekb=1&fs=0&list=PL2xCbtDENJ1bmVUeWmYF1t2QKrYWoTVlO&listType=playlist&loop=1"
+		frameborder="0" controls="0" allowfullscreen="0" class="hero-banner-video"></iframe>
+				<div class="overlay">
+			<div class="content">
+				<h1 class="title carter white fs--60">
+					Wow, it's made!				</h1>
+
+				<span class="subtitle carter white fs--22 m-b-12">
+					Du 20 au 24 Novembre 2019				</span>
+				<p class="text white fs--16">
+					N'y a-t-il rien de plus amusant que de tout faire de ses propres mains ou avec l'aide de ses amis?				</p>
+				<p class="text white fs--16">
+					La Flüüfff 2019 sera l'opportunité de faire tout ça! Venez vous amuser avec nous, lier de nouvelles amitiés, brasser votre propre bière, bricoler des animatronics, et démontrez vos talents sur la piste de dance!				</p>
+				<p class="text white fs--16">
+					Nul besoin que ce soit parfait, ce qui compte c'est de célébrer la créativité et l'originalité de notre communauté. Mettez vos casques de sécurité et venez faire la fête non-stop!				</p>
+				<p class="text white fs--16">
+					- Sir Floats-A-Lot.				</p>
+				<span class="resetlink carter fs--18 register-button register-button--closed ">Les inscriptions ouvrent le 30 mars à 12:00 (UTC+1)</span>
+
+				<p class="text white fs--16 register-amount">
+					Nous avons maintenant <abbr title="236 participants confirmés, et 97 qui n'ont pas encore de ticket."><a href="https://2019.fluufff.org/attendees" class="resetlink"><span class=" bold yellow">236</span> participants confirmés</a></abbr>!<br/>
+(comprenant <abbr title="105 participants confirmés, et 31 qui n'ont pas encore de ticket"><span class=" bold yellow">105</span> fursuiteurs</abbr>!).				</p>
+			</div>
+		</div>
+		<div class="home-button-wrapper">
+				<span class="subtitle carter white fs--22 m-b-12">
+					Flüüfff 2019				</span>
+			<a href="#info" data-scroll title="More info" class="resetlink home-button carter blue fs--20 uppercase">
+				En savoir plus!			</a>
+		</div>
+</section>
+
+<section id="info" class="section section--padding section--text home-info">
+	<div class="section-container">
+		<h2 class="title fs--40 carter blue">
+			Flüüfff - Libérez votre imagination!		</h2>
+		<p class="text fs--18">
+			C'est une convention furry, située sur la côte Belge! Une convention furry est un évènement dédié à l'anthropomorphisme et un endroit où les furries et leurs amis peuvent se rassembler.		</p>
+		<p class="text fs--18">
+			La Flüüfff a lieu pendant 5 jours, le 20 Novembre jusqu'au 24 Novembre 2019.
+La convention se déroulera à l'hôtel Corsendonk Duinse Polders.		</p>
+		<a href="https://2019.fluufff.org/about" class="resetlink button button--blue fs--18 m-t-24" title="More about Flüüfff">
+			En savoir plus sur Flüüfff		</a>
+		<a href="https://2019.fluufff.org/events" class="resetlink button button--blue fs--18 m-t-24" title="Events">
+			Programme		</a>
+	</div>
+
+	<div class="banner__beaver" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver21.png');">
+	</div>
+</section>
+
+<section class="section section--padding section--padding--small section--blue section--shadow--both">
+	<div class="section-container section-container--split section-container--split--3">
+		<div class="left border-box center">
+			<h2 class="title white carter fs--26 m-b-24">
+				Date			</h2>
+			<div class="desc">
+			<p class="text white fs--16">
+Flüüfff 2019 commence le <strong>20 Novembre</strong> et se termine le <strong>24 Novembre</strong>.
+</p>			</div>
+			<a href="https://2019.fluufff.org/countdown" class="resetlink button button--white fs--16 m-t-24" title="Countdown">
+				Compte à rebours			</a>
+		</div>
+		<div class="mid border-box center">
+			<h2 class="title white carter fs--26 m-b-24">
+				Localisation			</h2>
+			<div class="desc">
+			<p class="text white fs--16">
+La convention a lieu à l'<strong>hôtel Corsendonk Duinse Polders</strong> à Blankenberge (Belgique).
+</p>
+<p class="text white fs--16">
+Le dîner et le petit déjeuner est inclus pour les tickets résidentiels
+</p>			</div>
+			<a href="https://2019.fluufff.org/venue" class="resetlink button button--white fs--16 m-t-24" title="Localisation">
+				Localisation			</a>
+		</div>
+		<div class="right border-box center">
+			<h2 class="title white carter fs--26 m-b-24">
+				Tarifs			</h2>
+			<div class="desc">
+			<p class="text white fs--16">
+Nous proposons différents types de tickets: tickets à la journée, tickets résidentiels et en option arrivée précoce/départ tardif.
+</p>			</div>
+			<a href="https://2019.fluufff.org/tickets" class="resetlink button button--white fs--16 m-t-24" title="Tarifs">
+				Tarifs			</a>
+		</div>
+	</div>
+</section>
+
+<div class="atmos-banner atmos-banner--button atmos-banner--16-9" style="background-image: url('https://2019.fluufff.org/website/assets/images/sections/home/atmos-group.jpg');">
+		<a href="https://2019.fluufff.org/media" class="resetlink link-button link-button--white fs--16 m-t-24" title="Countdown">
+			<span>En savoir plus sur l'édition précédente</span><i class="fas fa-arrow-right"></i>
+		</a>
+</div>
+		</main>
+		<footer class="footer">
+			<div class="footer__upper">
+				<div class="bannerslider-wrapper">
+				<div class="bannerslider">
+					
+					<a href="https://animus.finfur.net/" target="_blank" title="Finfur Animus">
+						<img class="bannerslider__item" src="https://2019.fluufff.org/website/assets/images/exchange/finfur.png" alt="0">
+					</a>
+
+					
+					<a href="https://www.furrnion.org/" target="_blank" title="Furnion">
+						<img class="bannerslider__item" src="https://2019.fluufff.org/website/assets/images/exchange/furnion.gif" alt="1">
+					</a>
+
+					
+					<a href="https://eurofurence.org" target="_blank" title="Eurofurence">
+						<img class="bannerslider__item" src="https://2019.fluufff.org/website/assets/images/exchange/eurofurence.gif" alt="2">
+					</a>
+
+					
+					<a href="https://furvester.org" target="_blank" title="Furvester">
+						<img class="bannerslider__item" src="https://2019.fluufff.org/website/assets/images/exchange/furvester.svg" alt="3">
+					</a>
+
+					
+					<a href="https://gdakon.org" target="_blank" title="Gdakon">
+						<img class="bannerslider__item" src="https://2019.fluufff.org/website/assets/images/exchange/gdakon.jpg" alt="4">
+					</a>
+
+					
+				</div>
+				</div>
+				<!-- <div class="footer__flex">
+					<a class="title" title="Back to homepage" href="https://2019.fluufff.org/">
+						<img height="60px" width="130px" alt="Flüüfff" src="https://2019.fluufff.org/website/assets/images/logos/logo-light.svg" />
+					</a>
+
+				</div> -->
+					<div class="bannerContainer">
+					<!-- Tach was here
+						<div id="slider">
+							<div id="mask">
+								<ul>
+									<li id="slidr0" class="animate0">
+										<a href="https://animus.finfur.net/" target="_blank">
+											<img class="bannersize" src="https://2019.fluufff.org/website/assets/images/exchange/finfur.png" alt="0">
+										</a>
+										<div class="tooltip">
+											<a href="https://animus.finfur.net/" target="_blank">
+												<div class="imageboxx">
+													0												</div>
+											</a>
+										</div>
+									</li>
+									<li id="slidr1" class="animate1">
+										<a href="https://www.furrnion.org/" target="_blank">
+											<img class="bannersize" src="https://2019.fluufff.org/website/assets/images/exchange/furnion.gif" alt="1">
+										</a>
+										<div class="tooltip">
+											<a href="https://www.furrnion.org/" target="_blank">
+												<div class="imageboxx">
+													1												</div>
+											</a>
+										</div>
+									</li>
+									<li id="slidr2" class="animate2">
+										<a href="https://eurofurence.org" target="_blank">
+											<img class="bannersize" src="https://2019.fluufff.org/website/assets/images/exchange/eurofurence.gif" alt="2">
+										</a>
+										<div class="tooltip">
+											<a href="https://eurofurence.org" target="_blank">
+												<div class="imageboxx">
+													2												</div>
+											</a>
+										</div>
+									</li>
+									<li id="slidr3" class="animate3">
+										<a href="https://furvester.org" target="_blank">
+											<img class="bannersize" src="https://2019.fluufff.org/website/assets/images/exchange/furvester.svg" alt="3">
+										</a>
+										<div class="tooltip">
+											<a href="https://furvester.org" target="_blank">
+												<div class="imageboxx">
+													3												</div>
+											</a>
+										</div>
+									</li>
+									<li id="slidr4" class="animate4">
+										<a href="https://gdakon.org" target="_blank">
+											<img class="bannersize" src="https://2019.fluufff.org/website/assets/images/exchange/gdakon.jpg" alt="4">
+										</a>
+										<div class="tooltip">
+											<a href="https://gdakon.org" target="_blank">
+												<div class="imageboxx">
+													4												</div>
+											</a>
+										</div>
+									</li>
+								</ul>
+							</div>
+							<div class="progress-bar"></div>
+						</div>
+					-->
+					</div>
+					<div class="footer-nav">
+						<div class="footer-nav--left">
+							<a target="_blank" href="https://twitter.com/FluufffCon" class="resetlink white fs--14 link" title="Twitter">
+								<i class="fab fa-twitter"></i> Twitter
+							</a>
+							<a target="_blank" href="http://www.furaffinity.net/user/fluufff/" class="resetlink white fs--14 link" title="Furaffinity">
+								<i class="fas fa-paw"></i> Furaffinity
+							</a>
+							<a target="_blank" href="https://www.facebook.com/fluufff/" class="resetlink white fs--14 link" title="Facebook">
+								<i class="fab fa-facebook-f"></i> Facebook
+							</a>
+							<a target="_blank" href="https://beta.furrynetwork.com/fluufff/" class="resetlink white fs--14 link" title="Furry Network">
+								<i class="fas fa-paw"></i> Furry Network
+							</a>
+							<a target="_blank" href="https://web.telegram.org/#/im?p=@fluufff_announcements" class="resetlink white fs--14 link" title="Telegram">
+								<i class="fab fa-telegram-plane"></i> Telegram
+							</a>
+						</div>
+						<div class="footer-nav--right">
+							<a href="https://2019.fluufff.org/events" class="resetlink white fs--14 link" title="Programme">
+								Programme							</a>
+							<a href="https://2019.fluufff.org/countdown" class="resetlink white fs--14 link" title="Compte à rebours">
+								Compte à rebours							</a>
+							<a href="https://2019.fluufff.org/register/terms" class="resetlink white fs--14 link" title="Règlement">
+								Règlement							</a>
+						<!-- <a href="https://2019.fluufff.org/othercons" class="resetlink white fs--14 link" title="Autres conventions">
+							Autres conventions						</a>
+						<a href="https://2019.fluufff.org/credits" class="resetlink white fs--14 link" title="Crédits">
+							Crédits						</a> -->
+						<a href="https://2018.fluufff.org" class="resetlink white fs--14 link" title="Site web de 2018">
+							Flüüfff 2018						</a>
+						<a href="https://2017.fluufff.org" class="resetlink white fs--14 link" title="Site web de 2017">
+							Flüüfff 2017						</a>
+					</div>
+				</div>
+			</div>
+			<div class="footer__lower">
+				<span class=" white">
+					&copy;2024 - Flüüfff ABSL - Tous droits réservés. | <a href="https://2019.fluufff.org/register/terms#privacy" target="_blank" class="resetlink text--white">Vie privée</a>					| <a href="https://2019.fluufff.org/register/terms#terms" target="_blank" class="resetlink text--white">Termes et conditions</a>					| <a href="https://2019.fluufff.org/profile/contact" class="resetlink text--white">Nous contacter</a>				</span>
+				<span class=" white text--right">
+					Design par <a target="_blank" href="https://twitter.com/HypiTheFox" title="Hypi The Fox">Hypi</a> et castors réalisés par <a target="_blank" href="https://twitter.com/DiscordianD" title="Zepto">Zepto</a>.<br/>
+				</span>
+			</div>
+
+		</footer>
+		<script src="https://2019.fluufff.org/website/assets/scripts/app.js"></script>
+	</body>
+	</html>

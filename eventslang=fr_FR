@@ -1,0 +1,2463 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<title>Flüüfff 2019 - Wow, It's Made!</title>
+	<meta name="description" content="Welcome to the Flüüfff construction zone! Join us in the 3th edition of Belgium's Furry Convention, a convention dedicated to anthropomorphic characters!" />
+	<meta property="og:title" content="Flüüfff 2019 - Wow, It's Made!" />
+	<meta property="og:type" content="website" />
+	<meta property="og:description" content="Welcome to the Flüüfff construction zone! Join us in the 3th edition of Belgium's Furry Convention, a convention dedicated to anthropomorphic characters!" />
+	<meta property="og:url" content="https://2019.fluufff.org/events?lang=fr_FR" />
+	<meta property="og:site_name" content="Flüüfff 2019 - Wow, It's Made!" />
+	<meta property="og:image" content="https://2019.fluufff.org/website/assets/images/og/open-graph.jpg">
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="Flüüfff 2019 - Wow, It's Made!" />
+	<meta name="twitter:description" content="Welcome to the Flüüfff construction zone! Join us in the 3th edition of Belgium's Furry Convention, a convention dedicated to anthropomorphic characters!" />
+	<meta name="twitter:image" content="https://2019.fluufff.org/website/assets/images/og/open-graph.jpg" />
+	<meta itemprop="name" content="Flüüfff 2019 - Wow, It's Made!" />
+	<meta itemprop="description" content="Welcome to the Flüüfff construction zone! Join us in the 3th edition of Belgium's Furry Convention, a convention dedicated to anthropomorphic characters!" />
+	<meta name="robots" content="index,follow,noodp,noydir" />
+	<meta http-equiv="Content-Language" content="en" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta http-equiv="Expires" content="never" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+	<meta name="format-detection" content="telephone=no" />
+	<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" />
+	<link href="https://fonts.googleapis.com/css?family=Lato|Muli|Carter+One" rel="stylesheet">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://2019.fluufff.org/website/assets/css/reset.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="https://2019.fluufff.org/website/assets/css/style.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="https://2019.fluufff.org/website/assets/css/aos.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="https://2019.fluufff.org/website/assets/css/tiny-slider.css" type="text/css" media="all" />
+	<link rel="apple-touch-icon" sizes="180x180" href="https://2019.fluufff.org/website/assets/images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="https://2019.fluufff.org/website/assets/images/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="https://2019.fluufff.org/website/assets/images/favicons/favicon-16x16.png">
+	<link rel="manifest" href="https://2019.fluufff.org/website/assets/images/favicons/site.webmanifest">
+	<link rel="mask-icon" href="https://2019.fluufff.org/website/assets/images/favicons/safari-pinned-tab.svg" color="#5bbad5">
+	<link rel="shortcut icon" href="https://2019.fluufff.org/website/assets/images/favicons/favicon.ico">
+	<meta name="apple-mobile-web-app-title" content="Flüüfff 2019 - Wow, It's Made!">
+	<meta name="application-name" content="Flüüfff 2019 - Wow, It's Made!">
+	<meta name="msapplication-config" content="https://2019.fluufff.org/website/assets/images/favicons/browserconfig.xml">
+	<meta name="theme-color" content="#1d2435">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+	<!-- <script src="https://2019.fluufff.org/website/assets/scripts/masonry.pkgd.min.js"></script> -->
+	<script src="https://2019.fluufff.org/website/assets/scripts/lazysizes.min.js" async=""></script>
+	<!-- <script src="https://2019.fluufff.org/website/assets/scripts/tweenmax.min.js"></script> -->
+	<script src="https://2019.fluufff.org/website/assets/scripts/tiny-slider.js"></script>
+	<script src="https://2019.fluufff.org/website/assets/scripts/smooth-scroll.js"></script>
+	<!-- <script src="https://2019.fluufff.org/website/assets/scripts/aos.js"></script> -->
+</head>
+<body>
+	<header class="header ">
+		<a href="https://2019.fluufff.org/" title="Back to homepage" class="resetlink logo">
+			<img src="https://2019.fluufff.org/website/assets/images/logos/logo-light.svg" alt="">
+		</a>
+		<div class="hamburger" onclick="hamburgerToggle(this)">
+			<div class="bar1"></div>
+			<div class="bar2"></div>
+			<div class="bar3"></div>
+		</div>
+		<nav>
+			<ul class="nav">
+				<li class="nav__item">
+					<a href="https://2019.fluufff.org/about" title="À propos" class="resetlink text white uppercase fs--16">
+						À propos					</a>
+				</li>
+				<li class="nav__item">
+					<a href="https://2019.fluufff.org/events" title="Programme" class="resetlink text white uppercase fs--16">
+						Programme					</a>
+				</li>
+				<li class="nav__item">
+					<a href="https://2019.fluufff.org/venue" title="Localisation" class="resetlink text white uppercase fs--16">
+						Localisation					</a>
+				</li>
+				<li class="nav__item">
+					<a href="https://2019.fluufff.org/tickets" title="Tarifs" class="resetlink text white uppercase fs--16">
+						Tickets					</a>
+				</li>
+				<li class="nav__item">
+					<a href="https://2019.fluufff.org/faq" title="FAQ" class="resetlink text white uppercase fs--16">
+						FAQ					</a>
+				</li>
+				<li class="nav__item">
+					<a href="https://2019.fluufff.org/media" title="Médias" class="resetlink text white uppercase fs--16">
+						Médias					</a>
+				</li>
+				<!-- <li class="nav__item nav__item--special">
+					<a href="https://2019.fluufff.org/register" title="Register" class="resetlink text blue bold uppercase fs--16">
+						Inscription					</a>
+				</li> -->
+				<li class="nav__item">
+					<a href="https://2019.fluufff.org/profile/login?from=register" title="Connexion" class="resetlink text white uppercase fs--16">
+						Connexion					</a>
+				</li>
+				<li class="nav__item nav__item--language">
+					<div class="language-select white">
+						<div class="current current-lang">
+							<i class="fas fa-globe"></i> <span>FR</span>
+						</div>
+						<div class="language-popup">
+							<a href="https://2019.fluufff.org/events?lang=en_GB" title="English" class="language-popup__item">EN</a>							<a href="https://2019.fluufff.org/events?lang=nl_BE" title="Nederlands (Be)" class="language-popup__item">NL</a>						</div>
+					</div>
+				</li>
+				<li class="nav__item nav__item--language--mobile white">
+<a href="https://2019.fluufff.org/events?lang=en_GB" title="English" class="resetlink">EN</a>|<a href="https://2019.fluufff.org/events?lang=nl_BE" title="Nederlands (Be)" class="resetlink">NL</a>|<a href="https://2019.fluufff.org/events?lang=fr_FR" title="Français" class="resetlink">FR</a>				</li>
+			</ul>
+		</nav>
+	</header>
+	<main>
+<section class=" section--shadow hero-banner hero-banner--events">
+	<div class="nav-buttons">
+		<button class="prevButton fs--22"><i class="fas fa-arrow-left"></i></button>
+		<button class="nextButton fs--22"><i class="fas fa-arrow-right"></i></button>
+	</div>
+	<div class="eventslider">
+		<div style="background-image: url('https://2019.fluufff.org/website/assets/images/events/talent_show.jpg')" class="bg-image">
+			<div class="overlay">
+				<div class="content">
+					<h1 class="title carter white fs--60">
+						Talent Show					</h1>
+					<p class="text white fs--16">Les Furries peuvent souvent se montrer très créatif! Ne manquez pas le Talent Show pour voir quels sont les talents de vos amis à poils!</p>					<div class="button-container">
+						<a href="#events" data-scroll class="resetlink button button--white" title="Découvrir le programme">
+							Programme						</a>
+						<a href="#fursuitlounge" data-scroll class="resetlink button button--white" title="Horaire">
+							Fursuit Lounge						</a>
+						<a href="#dd" data-scroll class="resetlink button button--white" title="Dealers' Den">
+							Dealers' Den						</a>
+						<a href="#bar" data-scroll class="resetlink button button--white" title="Bar">
+							Bar						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div style="background-image: url('https://2019.fluufff.org/website/assets/images/events/DDR.jpg')" class="bg-image">
+			<div class="overlay">
+				<div class="content">
+					<h1 class="title carter white fs--60">
+						DDR Night					</h1>
+					<p class="text white fs--16">Les Furries peuvent dancer! Vous en doutez? Allez donc le vérifier par vous même!</p>					<div class="button-container">
+						<a href="#events" data-scroll class="resetlink button button--white" title="Découvrir le programme">
+							Programme						</a>
+						<a href="#fursuitlounge" data-scroll class="resetlink button button--white" title="Horaire">
+							Fursuit Lounge						</a>
+						<a href="#dd" data-scroll class="resetlink button button--white" title="Dealers' Den">
+							Dealers' Den						</a>
+						<a href="#bar" data-scroll class="resetlink button button--white" title="Bar">
+							Bar						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div style="background-image: url('https://2019.fluufff.org/website/assets/images/events/furgiants_rampage.jpg')" class="bg-image">
+			<div class="overlay">
+				<div class="content">
+					<h1 class="title carter white fs--60">
+						Furgiants Rampage					</h1>
+					<p class="text white fs--16">Les Furries cassent tous ce qu'ils touchent, surtout quand se sont des géants et qu'ils débarquent dans une ville de carton.</p>					<div class="button-container">
+						<a href="#events" data-scroll class="resetlink button button--white" title="Découvrir le programme">
+							Programme						</a>
+						<a href="#fursuitlounge" data-scroll class="resetlink button button--white" title="Horaire">
+							Fursuit Lounge						</a>
+						<a href="#dd" data-scroll class="resetlink button button--white" title="Dealers' Den">
+							Dealers' Den						</a>
+						<a href="#bar" data-scroll class="resetlink button button--white" title="Bar">
+							Bar						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div style="background-image: url('https://2019.fluufff.org/website/assets/images/events/dance.jpg')" class="bg-image">
+			<div class="overlay">
+				<div class="content">
+					<h1 class="title carter white fs--60">
+						Dance					</h1>
+					<p class="text white fs--16">
+				Eclatez vous à la Dance où les DJ joueront leurs meilleures sélections musicale.
+</p>
+<p class="text white fs--16">
+				Que vous aimiez la House, le Hardcore, le Drum and Bass, le Dubstep ou la Techno, notre DJ vous jouera la musique que vous aimez!
+</p>					<div class="button-container">
+						<a href="#events" data-scroll class="resetlink button button--white" title="Découvrir le programme">
+							Programme						</a>
+						<a href="#fursuitlounge" data-scroll class="resetlink button button--white" title="Horaire">
+							Fursuit Lounge						</a>
+						<a href="#dd" data-scroll class="resetlink button button--white" title="Dealers' Den">
+							Dealers' Den						</a>
+						<a href="#bar" data-scroll class="resetlink button button--white" title="Bar">
+							Bar						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+
+<section class="section section--padding section--padding--small section--with-sidebar">
+	<div class="events-overview-part">
+<div class="events-overview-part"><h2 class="day fs--30 carter upper center">November 20</h2>
+<div class="table-responsive"><table class="eventTable">
+<thead>
+<tr>
+<th>Time</th>
+<th >Mainstage</th>
+<th >Panel Room</th>
+<th >Restaurant</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td id="eventTime:1574235000"><span>7:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="4" colspan="1" class="IsEvent" id="eventId:34">
+<a href="https://2019.fluufff.org/events#description:67">Breakfast</a>
+<span class="attend"><a href="https://2019.fluufff.org/profile/events/attend/34?from=events&amp;for=1574235000" title="Attend" class="empty_star">☆</a></span></td>
+</tr>
+<tr>
+<td id="eventTime:1574236800"><span>8:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574238600"><span>8:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574240400"><span>9:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574242200"><span>9:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574244000"><span>10:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574245800"><span>10:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574247600"><span>11:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574249400"><span>11:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574251200"><span>12:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574253000"><span>12:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574254800"><span>13:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574256600"><span>13:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574258400"><span>14:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574260200"><span>14:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574262000"><span>15:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574263800"><span>15:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574265600"><span>16:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574267400"><span>16:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574269200"><span>17:00</span></td>
+<td rowspan="2" colspan="1" class="IsEvent" id="eventId:3">
+<a href="https://2019.fluufff.org/events#description:16">Opening Ceremony</a>
+<span class="attend"><a href="https://2019.fluufff.org/profile/events/attend/3?from=events&amp;for=1574269200" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574271000"><span>17:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574272800"><span>18:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="3" colspan="1" class="IsEvent" id="eventId:35">
+<a href="https://2019.fluufff.org/events#description:66">Dinner</a>
+<span class="attend"><a href="https://2019.fluufff.org/profile/events/attend/35?from=events&amp;for=1574272800" title="Attend" class="empty_star">☆</a></span></td>
+</tr>
+<tr>
+<td id="eventTime:1574274600"><span>18:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574276400"><span>19:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574278200"><span>19:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574280000"><span>20:00</span></td>
+<td rowspan="2" colspan="1" class="IsEvent" id="eventId:1">
+<a href="https://2019.fluufff.org/events#description:58">"My First Furcon"</a>
+<span class="attend"><a href="https://2019.fluufff.org/profile/events/attend/1?from=events&amp;for=1574280000" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574281800"><span>20:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574283600"><span>21:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574285400"><span>21:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="6" colspan="1" class="IsEvent" id="eventId:4">
+<a href="https://2019.fluufff.org/events#description:56">Mad Science Escape</a>
+<span class="attend"><a href="https://2019.fluufff.org/profile/events/attend/4?from=events&amp;for=1574285400" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574287200"><span>22:00</span></td>
+<td rowspan="3" colspan="1" class="IsEvent" id="eventId:5">
+<a href="https://2019.fluufff.org/events#description:62">Fursuit Acting 2.1</a>
+<span class="attend"><a href="https://2019.fluufff.org/profile/events/attend/5?from=events&amp;for=1574287200" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574289000"><span>22:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574290800"><span>23:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574292600"><span>23:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574294400"><span>0:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+</tbody>
+</table>
+</div></div><div class="events-overview-part"><h2 class="day fs--30 carter upper center">November 21</h2>
+<div class="table-responsive"><table class="eventTable">
+<thead>
+<tr>
+<th>Time</th>
+<th >Mainstage</th>
+<th >Panel Room</th>
+<th >Restaurant</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td id="eventTime:1574321400"><span>7:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="4" colspan="1" class="IsEvent" id="eventId:36">
+<a href="https://2019.fluufff.org/events#description:67">Breakfast</a>
+<span class="attend"><a href="https://2019.fluufff.org/profile/events/attend/36?from=events&amp;for=1574321400" title="Attend" class="empty_star">☆</a></span></td>
+</tr>
+<tr>
+<td id="eventTime:1574323200"><span>8:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574325000"><span>8:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574326800"><span>9:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574328600"><span>9:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574330400"><span>10:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574332200"><span>10:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="3" colspan="1" class="IsEvent" id="eventId:6">
+<a href="https://2019.fluufff.org/events#description:45">Basic Fursuit Electronics : Motors, moveables and more</a>
+<span class="attend"><a href="https://2019.fluufff.org/profile/events/attend/6?from=events&amp;for=1574332200" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574334000"><span>11:00</span></td>
+<td rowspan="1" colspan="1" class="IsEvent" id="eventId:11">
+<a href="https://2019.fluufff.org/events#description:30">FurGiants Rampage</a>
+<span class="attend"><a href="https://2019.fluufff.org/profile/events/attend/11?from=events&amp;for=1574334000" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574335800"><span>11:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574337600"><span>12:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574339400"><span>12:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574341200"><span>13:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="3" colspan="1" class="IsEvent" id="eventId:7">
+<a href="https://2019.fluufff.org/events#description:18">Snack Exchange</a>
+<span class="attend"><a href="https://2019.fluufff.org/profile/events/attend/7?from=events&amp;for=1574341200" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574343000"><span>13:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574344800"><span>14:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574346600"><span>14:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574348400"><span>15:00</span></td>
+<td rowspan="3" colspan="1" class="IsEvent" id="eventId:12">
+<a href="https://2019.fluufff.org/events#description:53">How to Fox</a>
+<span class="attend"><a href="https://2019.fluufff.org/profile/events/attend/12?from=events&amp;for=1574348400" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574350200"><span>15:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574352000"><span>16:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574353800"><span>16:30</span></td>
+<td rowspan="3" colspan="1" class="IsEvent" id="eventId:13">
+<a href="https://2019.fluufff.org/events#description:49">Fursuit Charades</a>
+<span class="attend"><a href="https://2019.fluufff.org/profile/events/attend/13?from=events&amp;for=1574353800" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574355600"><span>17:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574357400"><span>17:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574359200"><span>18:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="3" colspan="1" class="IsEvent" id="eventId:37">
+<a href="https://2019.fluufff.org/events#description:66">Dinner</a>
+<span class="attend"><a href="https://2019.fluufff.org/profile/events/attend/37?from=events&amp;for=1574359200" title="Attend" class="empty_star">☆</a></span></td>
+</tr>
+<tr>
+<td id="eventTime:1574361000"><span>18:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574362800"><span>19:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574364600"><span>19:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574366400"><span>20:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="6" colspan="1" class="IsEvent" id="eventId:9">
+<a href="https://2019.fluufff.org/events#description:43">Game Night and Fright 1</a>
+<span class="attend"><a href="https://2019.fluufff.org/profile/events/attend/9?from=events&amp;for=1574366400" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574368200"><span>20:30</span></td>
+<td rowspan="3" colspan="1" class="IsEvent" id="eventId:14">
+<a href="https://2019.fluufff.org/events#description:10">Fursuit Games</a>
+<span class="attend"><a href="https://2019.fluufff.org/profile/events/attend/14?from=events&amp;for=1574368200" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574370000"><span>21:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574371800"><span>21:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574373600"><span>22:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574375400"><span>22:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+</tbody>
+</table>
+</div></div><div class="events-overview-part"><h2 class="day fs--30 carter upper center">November 22</h2>
+<div class="table-responsive"><table class="eventTable">
+<thead>
+<tr>
+<th>Time</th>
+<th >Mainstage</th>
+<th >Panel Room</th>
+<th >Outside</th>
+<th >Lounge and VideoGames Room</th>
+<th >Restaurant</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td id="eventTime:1574407800"><span>7:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="4" colspan="1" class="IsEvent" id="eventId:38">
+<a href="https://2019.fluufff.org/events#description:67">Breakfast</a>
+<span class="attend"><a href="https://2019.fluufff.org/profile/events/attend/38?from=events&amp;for=1574407800" title="Attend" class="empty_star">☆</a></span></td>
+</tr>
+<tr>
+<td id="eventTime:1574409600"><span>8:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574411400"><span>8:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574413200"><span>9:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574415000"><span>9:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574416800"><span>10:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="4" colspan="1" class="IsEvent" id="eventId:18">
+<a href="https://2019.fluufff.org/events#description:57">MotorFurs Meet</a>
+<span class="attend"><a href="https://2019.fluufff.org/profile/events/attend/18?from=events&amp;for=1574416800" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574418600"><span>10:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574420400"><span>11:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="3" colspan="1" class="IsEvent" id="eventId:2">
+<a href="https://2019.fluufff.org/events#description:44">Advanced Animatronics : Jaws</a>
+<span class="attend"><a href="https://2019.fluufff.org/profile/events/attend/2?from=events&amp;for=1574420400" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574422200"><span>11:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574424000"><span>12:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574425800"><span>12:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574427600"><span>13:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574429400"><span>13:30</span></td>
+<td rowspan="1" colspan="1" class="IsEvent" id="eventId:15">
+<a href="https://2019.fluufff.org/events#description:12">Group Picture</a>
+<span class="attend"><a href="https://2019.fluufff.org/profile/events/attend/15?from=events&amp;for=1574429400" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574431200"><span>14:00</span></td>
+<td rowspan="3" colspan="1" class="IsEvent" id="eventId:16">
+<a href="https://2019.fluufff.org/events#description:11">Fursuit Walk</a>
+<span class="attend"><a href="https://2019.fluufff.org/profile/events/attend/16?from=events&amp;for=1574431200" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="3" colspan="1" class="IsEvent" id="eventId:19">
+<a href="https://2019.fluufff.org/events#description:11">Fursuit Walk</a>
+<span class="attend"><a href="https://2019.fluufff.org/profile/events/attend/19?from=events&amp;for=1574431200" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574433000"><span>14:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574434800"><span>15:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574436600"><span>15:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574438400"><span>16:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574440200"><span>16:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="4" colspan="1" class="IsEvent" id="eventId:17">
+<a href="https://2019.fluufff.org/events#description:59">Qualitea time</a>
+<span class="attend"><a href="https://2019.fluufff.org/profile/events/attend/17?from=events&amp;for=1574440200" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574442000"><span>17:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574443800"><span>17:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574445600"><span>18:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="3" colspan="1" class="IsEvent" id="eventId:39">
+<a href="https://2019.fluufff.org/events#description:66">Dinner</a>
+<span class="attend"><a href="https://2019.fluufff.org/profile/events/attend/39?from=events&amp;for=1574445600" title="Attend" class="empty_star">☆</a></span></td>
+</tr>
+<tr>
+<td id="eventTime:1574447400"><span>18:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574449200"><span>19:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574451000"><span>19:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574452800"><span>20:00</span></td>
+<td rowspan="2" colspan="1" class="IsEvent" id="eventId:20">
+<a href="https://2019.fluufff.org/events#description:55">Know your Lemur</a>
+<span class="attend"><a href="https://2019.fluufff.org/profile/events/attend/20?from=events&amp;for=1574452800" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="3" colspan="1" class="IsEvent" id="eventId:21">
+<a href="https://2019.fluufff.org/events#description:52">How it's Made? : Fursuit Fabric</a>
+<span class="attend"><a href="https://2019.fluufff.org/profile/events/attend/21?from=events&amp;for=1574452800" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="4" colspan="1" class="IsEvent" id="eventId:25">
+<a href="https://2019.fluufff.org/events#description:61">Special Beers Meet n Greet</a>
+<span class="attend"><a href="https://2019.fluufff.org/profile/events/attend/25?from=events&amp;for=1574452800" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574454600"><span>20:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574456400"><span>21:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574458200"><span>21:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574460000"><span>22:00</span></td>
+<td rowspan="10" colspan="1" class="IsEvent" id="eventId:23">
+<a href="https://2019.fluufff.org/events#description:6">Dance</a>
+<span class="attend"><a href="https://2019.fluufff.org/profile/events/attend/23?from=events&amp;for=1574460000" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="4" colspan="1" class="IsEvent" id="eventId:22">
+<a href="https://2019.fluufff.org/events#description:51">Homebrew Wine Tasting</a>
+<span class="attend"><a href="https://2019.fluufff.org/profile/events/attend/22?from=events&amp;for=1574460000" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574461800"><span>22:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574463600"><span>23:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574465400"><span>23:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574467200"><span>0:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574469000"><span>0:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574470800"><span>1:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574472600"><span>1:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574474400"><span>2:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574476200"><span>2:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+</tbody>
+</table>
+</div></div><div class="events-overview-part"><h2 class="day fs--30 carter upper center">November 23</h2>
+<div class="table-responsive"><table class="eventTable">
+<thead>
+<tr>
+<th>Time</th>
+<th >Mainstage</th>
+<th >Panel Room</th>
+<th >Restaurant</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td id="eventTime:1574496000"><span>8:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="4" colspan="1" class="IsEvent" id="eventId:40">
+<a href="https://2019.fluufff.org/events#description:67">Breakfast</a>
+<span class="attend"><a href="https://2019.fluufff.org/profile/events/attend/40?from=events&amp;for=1574496000" title="Attend" class="empty_star">☆</a></span></td>
+</tr>
+<tr>
+<td id="eventTime:1574497800"><span>8:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574499600"><span>9:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574501400"><span>9:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574503200"><span>10:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574505000"><span>10:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574506800"><span>11:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="7" colspan="1" class="IsEvent" id="eventId:29">
+<a href="https://2019.fluufff.org/events#description:4">Brew It Yourself</a>
+<span class="attend"><a href="https://2019.fluufff.org/profile/events/attend/29?from=events&amp;for=1574506800" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574508600"><span>11:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574510400"><span>12:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574512200"><span>12:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574514000"><span>13:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574515800"><span>13:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574517600"><span>14:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574519400"><span>14:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574521200"><span>15:00</span></td>
+<td rowspan="2" colspan="1" class="IsEvent" id="eventId:26">
+<a href="https://2019.fluufff.org/events#description:5">Closing Ceremony</a>
+<span class="attend"><a href="https://2019.fluufff.org/profile/events/attend/26?from=events&amp;for=1574521200" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574523000"><span>15:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574524800"><span>16:00</span></td>
+<td rowspan="3" colspan="1" class="IsEvent" id="eventId:44">
+<a href="https://2019.fluufff.org/events#description:68">Auction</a>
+<span class="attend"><a href="https://2019.fluufff.org/profile/events/attend/44?from=events&amp;for=1574524800" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574526600"><span>16:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574528400"><span>17:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574530200"><span>17:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574532000"><span>18:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="3" colspan="1" class="IsEvent" id="eventId:41">
+<a href="https://2019.fluufff.org/events#description:66">Dinner</a>
+<span class="attend"><a href="https://2019.fluufff.org/profile/events/attend/41?from=events&amp;for=1574532000" title="Attend" class="empty_star">☆</a></span></td>
+</tr>
+<tr>
+<td id="eventTime:1574533800"><span>18:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574535600"><span>19:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="3" colspan="1" class="IsEvent" id="eventId:30">
+<a href="https://2019.fluufff.org/events#description:60">Secret Art of Bean Juice (coffee)</a>
+<span class="attend"><a href="https://2019.fluufff.org/profile/events/attend/30?from=events&amp;for=1574535600" title="Attend" class="empty_star">☆</a></span></td>
+</tr>
+<tr>
+<td id="eventTime:1574537400"><span>19:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574539200"><span>20:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574541000"><span>20:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574542800"><span>21:00</span></td>
+<td rowspan="4" colspan="1" class="IsEvent" id="eventId:27">
+<a href="https://2019.fluufff.org/events#description:21">Talents Show</a>
+<span class="attend"><a href="https://2019.fluufff.org/profile/events/attend/27?from=events&amp;for=1574542800" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574544600"><span>21:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574546400"><span>22:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574548200"><span>22:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574550000"><span>23:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574551800"><span>23:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574553600"><span>0:00</span></td>
+<td rowspan="4" colspan="1" class="IsEvent" id="eventId:31">
+<a href="https://2019.fluufff.org/events#description:50">Game Night and Fright 2</a>
+<span class="attend"><a href="https://2019.fluufff.org/profile/events/attend/31?from=events&amp;for=1574553600" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574555400"><span>0:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574557200"><span>1:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574559000"><span>1:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+</tbody>
+</table>
+</div></div><div class="events-overview-part"><h2 class="day fs--30 carter upper center">November 24</h2>
+<div class="table-responsive"><table class="eventTable">
+<thead>
+<tr>
+<th>Time</th>
+<th >Panel Room</th>
+<th >Restaurant</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td id="eventTime:1574582400"><span>8:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="4" colspan="1" class="IsEvent" id="eventId:42">
+<a href="https://2019.fluufff.org/events#description:67">Breakfast</a>
+<span class="attend"><a href="https://2019.fluufff.org/profile/events/attend/42?from=events&amp;for=1574582400" title="Attend" class="empty_star">☆</a></span></td>
+</tr>
+<tr>
+<td id="eventTime:1574584200"><span>8:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574586000"><span>9:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574587800"><span>9:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574589600"><span>10:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574591400"><span>10:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574593200"><span>11:00</span></td>
+<td rowspan="2" colspan="1" class="IsEvent" id="eventId:32">
+<a href="https://2019.fluufff.org/events#description:48">Feedback Panel</a>
+<span class="attend"><a href="https://2019.fluufff.org/profile/events/attend/32?from=events&amp;for=1574593200" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574595000"><span>11:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574596800"><span>12:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574598600"><span>12:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574600400"><span>13:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574602200"><span>13:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574604000"><span>14:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574605800"><span>14:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574607600"><span>15:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574609400"><span>15:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574611200"><span>16:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574613000"><span>16:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574614800"><span>17:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574616600"><span>17:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574618400"><span>18:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="3" colspan="1" class="IsEvent" id="eventId:43">
+<a href="https://2019.fluufff.org/events#description:66">Dinner</a>
+<span class="attend"><a href="https://2019.fluufff.org/profile/events/attend/43?from=events&amp;for=1574618400" title="Attend" class="empty_star">☆</a></span></td>
+</tr>
+<tr>
+<td id="eventTime:1574620200"><span>18:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574622000"><span>19:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574623800"><span>19:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574625600"><span>20:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574627400"><span>20:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574629200"><span>21:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574631000"><span>21:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574632800"><span>22:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574634600"><span>22:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574636400"><span>23:00</span></td>
+<td rowspan="10" colspan="1" class="IsEvent" id="eventId:33">
+<a href="https://2019.fluufff.org/events#description:42">Dead Dog Party</a>
+<span class="attend"><a href="https://2019.fluufff.org/profile/events/attend/33?from=events&amp;for=1574636400" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574638200"><span>23:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574640000"><span>0:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574641800"><span>0:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574643600"><span>1:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574645400"><span>1:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574647200"><span>2:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574649000"><span>2:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574650800"><span>3:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1574652600"><span>3:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+</tbody>
+</table>
+</div></div></section>
+<section class="section section--padding section--padding--small section--blue section--shadow--both" id="events">
+	<div class="events-overview-part">
+		<div class="events-overview">
+			<div class="events-overview__item">
+				<div class="border-box">
+					<h2 class="title white carter fs--22 upper" id="description:58">
+						"My First Furcon"					</h2>
+					<div class="desc text white">
+						Furcons are incredibly fun, but sometimes also incredibly daunting. If you've never been to one before, it can cause a lot of anxiety. What can I expect? What will the people be like? What's the venue like? What should I pay attention to? How do I hug a fursuiter? No two furcons are the same, but they all have a few basic things in common. This panel is meant to help first-time con visitors (or veterans who want to check up on their basics) get through the week with as little obstacles and as many happy fluffy memories as possible.
+
+Hosted by Guynio					</div>
+					<img src="https://2019.fluufff.org/website/assets/images/logos/logo-light.svg" class="official">
+				</div>
+			</div>
+			<div class="events-overview__item">
+				<div class="border-box">
+					<h2 class="title white carter fs--22 upper" id="description:44">
+						Advanced Animatronics : Jaws					</h2>
+					<div class="desc text white">
+						This accessible panel delves deep into the science for what it takes to make a fursuit jaw that actually works right. If you are interested in making your own moveable jaw, this is your place to be.
+Floere will present some of his original research and also demonstrate functional prototypes. As this panel involves the words &quot;&quot;Floere&quot;&quot; and 
+&quot;&quot;prototypes&quot;&quot; in the same sentence, only the bravest should dare to sit on the first row(s) (room? building? continent?).
+Hosted by Floere					</div>
+					<img src="https://2019.fluufff.org/website/assets/images/logos/logo-light.svg" class="official">
+				</div>
+			</div>
+			<div class="events-overview__item">
+				<div class="border-box">
+					<h2 class="title white carter fs--22 upper" id="description:68">
+						Auction					</h2>
+					<div class="desc text white">
+						Art pieces from the Art Show and some collectibles from previous editions of Flüüfff will be auctioned off! More info in the Dealers Den.					</div>
+					<img src="https://2019.fluufff.org/website/assets/images/logos/logo-light.svg" class="official">
+				</div>
+			</div>
+			<div class="events-overview__item">
+				<div class="border-box">
+					<h2 class="title white carter fs--22 upper" id="description:45">
+						Basic Fursuit Electronics : Motors, moveables and more					</h2>
+					<div class="desc text white">
+						Want to change your expression at the touch of a button? Want to wag your tail, twitch your ears, and unfold your wings? 
+Adding a few motors to your costume can produce great effects! While the mechanisms are the subject of many good online tutorials, 
+the reliability and electrical sides are often handled frighteningly optimistic. That’s where this panel comes in: how to drive the motors 
+reliably, without setting yourself on fire. Hosted by Floere					</div>
+					<img src="https://2019.fluufff.org/website/assets/images/logos/logo-light.svg" class="official">
+				</div>
+			</div>
+			<div class="events-overview__item">
+				<div class="border-box">
+					<h2 class="title white carter fs--22 upper" id="description:67">
+						Breakfast					</h2>
+					<div class="desc text white">
+						Breakfast buffet included for all residential attendees.					</div>
+					<img src="https://2019.fluufff.org/website/assets/images/logos/logo-light.svg" class="official">
+				</div>
+			</div>
+			<div class="events-overview__item">
+				<div class="border-box">
+					<h2 class="title white carter fs--22 upper" id="description:4">
+						Brew It Yourself					</h2>
+					<div class="desc text white">
+						Back at it for its third year, the panel where we brew and taste Flüüfff&#039;s very own craftbeer with you!
+We try at least one new recipe each year and this time it&#039;s a barrel aged Flemish Red Ale.
+You&#039;re welcome to come and go if the duration of the panel intimidates you but don&#039;t worry, the tastings and hands on parts will keep it fun and interactive!					</div>
+					<img src="https://2019.fluufff.org/website/assets/images/logos/logo-light.svg" class="official">
+				</div>
+			</div>
+			<div class="events-overview__item">
+				<div class="border-box">
+					<h2 class="title white carter fs--22 upper" id="description:5">
+						Closing Ceremony					</h2>
+					<div class="desc text white">
+						End of the convention? SIKE! There is more fun to be had but now is a good time to already thank our amazing team and give you a little
+teaser of next year...					</div>
+					<img src="https://2019.fluufff.org/website/assets/images/logos/logo-light.svg" class="official">
+				</div>
+			</div>
+			<div class="events-overview__item">
+				<div class="border-box">
+					<h2 class="title white carter fs--22 upper" id="description:47">
+						CupHead Games (the)					</h2>
+					<div class="desc text white">
+						The cuphead games is a co-op speedrun of the game cuphead, choose your difficulty, defeat every boss on your way and defeat the Devil himself. Hosted by Loginner					</div>
+					<img src="https://2019.fluufff.org/website/assets/images/logos/logo-light.svg" class="official">
+				</div>
+			</div>
+			<div class="events-overview__item">
+				<div class="border-box">
+					<h2 class="title white carter fs--22 upper" id="description:6">
+						Dance					</h2>
+					<div class="desc text white">
+						Party hard at the dance where the DJ’s will be playing a nice selection of music.
+Whether you like House, Hardcore, Drum and bass, Dubstep, Techno or something else, our DJ’s have a beat to everybodies liking!					</div>
+					<img src="https://2019.fluufff.org/website/assets/images/logos/logo-light.svg" class="official">
+				</div>
+			</div>
+			<div class="events-overview__item">
+				<div class="border-box">
+					<h2 class="title white carter fs--22 upper" id="description:42">
+						Dead Dog Party					</h2>
+					<div class="desc text white">
+						Well sadly the con is almost over... You feel tired and are ready to go home... Nah, there is one more dance going on to give your last energy on the dancefloor with a wild variety of music, so come on down and at the end of this dance you'll really be a dead dog!					</div>
+					<img src="https://2019.fluufff.org/website/assets/images/logos/logo-light.svg" class="official">
+				</div>
+			</div>
+			<div class="events-overview__item">
+				<div class="border-box">
+					<h2 class="title white carter fs--22 upper" id="description:66">
+						Dinner					</h2>
+					<div class="desc text white">
+						Dinner buffet for residential attendees that have selected the option during registration. If you haven't selected it or attend Flüüfff with a day ticket, a pass can be purchased at the reception of the hotel (prices on the "Duinse Polders" hotel website).					</div>
+					<img src="https://2019.fluufff.org/website/assets/images/logos/logo-light.svg" class="official">
+				</div>
+			</div>
+			<div class="events-overview__item">
+				<div class="border-box">
+					<h2 class="title white carter fs--22 upper" id="description:48">
+						Feedback Panel					</h2>
+					<div class="desc text white">
+						A panel where you help us improve Flüüfff and get to meet some of its key members. A feedback form is also available in the lounge area. 					</div>
+					<img src="https://2019.fluufff.org/website/assets/images/logos/logo-light.svg" class="official">
+				</div>
+			</div>
+			<div class="events-overview__item">
+				<div class="border-box">
+					<h2 class="title white carter fs--22 upper" id="description:30">
+						FurGiants Rampage					</h2>
+					<div class="desc text white">
+						Furries destroy everything! Especially when they're giant and they enter a tiny (cardboard) city. 					</div>
+					<img src="https://2019.fluufff.org/website/assets/images/logos/logo-light.svg" class="official">
+				</div>
+			</div>
+			<div class="events-overview__item">
+				<div class="border-box">
+					<h2 class="title white carter fs--22 upper" id="description:62">
+						Fursuit Acting 2.1					</h2>
+					<div class="desc text white">
+						How can improve our fursuit acting? How to make our character live through our gestures and motions? Let&#039;s brainstorm together after a little presentation of some examples from well-known fursuiters. Hosted by Tach					</div>
+					<img src="https://2019.fluufff.org/website/assets/images/logos/logo-light.svg" class="official">
+				</div>
+			</div>
+			<div class="events-overview__item">
+				<div class="border-box">
+					<h2 class="title white carter fs--22 upper" id="description:49">
+						Fursuit Charades					</h2>
+					<div class="desc text white">
+						The classic game where the public has to guess which word is being acted.
+
+But with a twist: the actors must wear a fursuit, which makes it more fun and difficult. Hosted by Furexa					</div>
+					<img src="https://2019.fluufff.org/website/assets/images/logos/logo-light.svg" class="official">
+				</div>
+			</div>
+			<div class="events-overview__item">
+				<div class="border-box">
+					<h2 class="title white carter fs--22 upper" id="description:10">
+						Fursuit Games					</h2>
+					<div class="desc text white">
+						A popular and beloved part of any convention among suiters and audience. Suiters will engage in a friendly competition among various games that test their wits, skills and agility. Make sure to join if you want to partake in some fun fursuit friendly games!					</div>
+					<img src="https://2019.fluufff.org/website/assets/images/logos/logo-light.svg" class="official">
+				</div>
+			</div>
+			<div class="events-overview__item">
+				<div class="border-box">
+					<h2 class="title white carter fs--22 upper" id="description:11">
+						Fursuit Walk					</h2>
+					<div class="desc text white">
+						Right after the group picture, we invite you for a relaxing walk through the little path lost in the dunes. Amazing view on the pier and the sea and a good occasion to take pictures! Once again, check the communication channels in case the weather doesn’t agree with us.					</div>
+					<img src="https://2019.fluufff.org/website/assets/images/logos/logo-light.svg" class="official">
+				</div>
+			</div>
+			<div class="events-overview__item">
+				<div class="border-box">
+					<h2 class="title white carter fs--22 upper" id="description:43">
+						Game Night and Fright 1					</h2>
+					<div class="desc text white">
+						Come hang out as we play the famous hidden identity party game of villagers and those who hunt them. Try to deduce who is terrorising the town before it is too late! Hosted by Kano					</div>
+					<img src="https://2019.fluufff.org/website/assets/images/logos/logo-light.svg" class="official">
+				</div>
+			</div>
+			<div class="events-overview__item">
+				<div class="border-box">
+					<h2 class="title white carter fs--22 upper" id="description:50">
+						Game Night and Fright 2					</h2>
+					<div class="desc text white">
+						Come hang out as we play the famous hidden identity party game of villagers and those who hunt them. Try to deduce who is terrorising the town before it is too late! Hosted by Kano					</div>
+					<img src="https://2019.fluufff.org/website/assets/images/logos/logo-light.svg" class="official">
+				</div>
+			</div>
+			<div class="events-overview__item">
+				<div class="border-box">
+					<h2 class="title white carter fs--22 upper" id="description:12">
+						Group Picture					</h2>
+					<div class="desc text white">
+						It is a great furry convention tradition!
+The group picture will be taken inside this year, at the Mainstage. The picture will be taken at the announced time so we ask you all to already gather there at least 15min before if you want to be on it :)					</div>
+					<img src="https://2019.fluufff.org/website/assets/images/logos/logo-light.svg" class="official">
+				</div>
+			</div>
+			<div class="events-overview__item">
+				<div class="border-box">
+					<h2 class="title white carter fs--22 upper" id="description:51">
+						Homebrew Wine Tasting					</h2>
+					<div class="desc text white">
+						Do you make your own homebrew? Would you like to let others have a taste or are you interested in tasting people&#039;s creations? Then this panel is for you! Hosted by Kauri					</div>
+					<img src="https://2019.fluufff.org/website/assets/images/logos/logo-light.svg" class="official">
+				</div>
+			</div>
+			<div class="events-overview__item">
+				<div class="border-box">
+					<h2 class="title white carter fs--22 upper" id="description:52">
+						How it's Made? : Fursuit Fabric					</h2>
+					<div class="desc text white">
+						“How it’s made?” Fur fabrics. This panel is all about the production of fur fabric. Ever wondered how they make all those funky colors or how they produce such fluffy and soft fabric?  This panel features a small workshop and brief explanation about the production of fur fabric! Hosted by Fumps					</div>
+					<img src="https://2019.fluufff.org/website/assets/images/logos/logo-light.svg" class="official">
+				</div>
+			</div>
+			<div class="events-overview__item">
+				<div class="border-box">
+					<h2 class="title white carter fs--22 upper" id="description:53">
+						How to Fox					</h2>
+					<div class="desc text white">
+						DiscoFox is not a furryname out of the 80's, but a dance from Germany. It's like ballroom dancing, but less strict, easier to learn and full of potential for your own creativity, after you mastered the basics. 
+This panel is suitable for everyone, no dance experience needed!
+Feel free to come alone, with your partner, your best furry friend, your mother or even your whole squad, we will make sure to match you with a dancing partner. Can't wait to see you!
+					</div>
+					<img src="https://2019.fluufff.org/website/assets/images/logos/logo-light.svg" class="official">
+				</div>
+			</div>
+			<div class="events-overview__item">
+				<div class="border-box">
+					<h2 class="title white carter fs--22 upper" id="description:55">
+						Know your Lemur					</h2>
+					<div class="desc text white">
+						This panel will be a presentation of this unique group of primates living in Madagascar! You will learn a lot of facts about lemurs, how they 
+live, and how they are facing extinction!
+Lemurs are in great danger! And we want to help them... Hosted by the Lemur Warriors					</div>
+					<img src="https://2019.fluufff.org/website/assets/images/logos/logo-light.svg" class="official">
+				</div>
+			</div>
+			<div class="events-overview__item">
+				<div class="border-box">
+					<h2 class="title white carter fs--22 upper" id="description:56">
+						Mad Science Escape					</h2>
+					<div class="desc text white">
+						You are formally invited by the famous neurologist Mozgumer Koshka to the highly exclusive reveal of his latest prototype 
+Home Defender™ feline companions. Do not be alarmed, nothing could possibly go wrong; the title of this event is misinformed, surely.” 
+
+By coming to this panel, you agree to the terms and conditions and accept that Dr. Koshka cannot be held responsible for loss of life, 
+limb and/or sanity. An insurance to cover this is obligatory and available at the entrance.					</div>
+					<img src="https://2019.fluufff.org/website/assets/images/logos/logo-light.svg" class="official">
+				</div>
+			</div>
+			<div class="events-overview__item">
+				<div class="border-box">
+					<h2 class="title white carter fs--22 upper" id="description:57">
+						MotorFurs Meet					</h2>
+					<div class="desc text white">
+						Whether it&#039;s an old rusty classic or a shiny new sportscar, come and show it off at Flüüfff&#039;s very own motorfurs meet! Whether you&#039;re a fan of 
+cars, motor bikes or a home made vehicle, come and turbocharge your Flüüfff experience at this high-octane meet up! Hosted by Damien Leblanc					</div>
+					<img src="https://2019.fluufff.org/website/assets/images/logos/logo-light.svg" class="official">
+				</div>
+			</div>
+			<div class="events-overview__item">
+				<div class="border-box">
+					<h2 class="title white carter fs--22 upper" id="description:16">
+						Opening Ceremony					</h2>
+					<div class="desc text white">
+						"10.. 9.. 8.. 7.. 6.. 5.. wait wait wait! Is this thing on?
+Flüüfff 3 is about to start but we might have an itty bitty last minute detail to sort out. Not much, I swear. Bear with us, we're ALMOST ready!"
+					</div>
+					<img src="https://2019.fluufff.org/website/assets/images/logos/logo-light.svg" class="official">
+				</div>
+			</div>
+			<div class="events-overview__item">
+				<div class="border-box">
+					<h2 class="title white carter fs--22 upper" id="description:59">
+						Qualitea time					</h2>
+					<div class="desc text white">
+						Tea is not just 'flavoured water', it's a culture. Although we drink tea in British fashion, peoples from across the world have been drinking it for aeons (contrary to coffee). A (brief) history of the British tea culture will precede the tea tasting where you can expect an explanation on the pastries that are enjoyed with the tea and what a High Tea is. This is the first part of the panel which is meant for the people who are interested in the background of tea. Do you think this panel is your cup of tea? Feel free to join! During the second part of the panel the lower class is welcome for a cup of tea as well!					</div>
+					<img src="https://2019.fluufff.org/website/assets/images/logos/logo-light.svg" class="official">
+				</div>
+			</div>
+			<div class="events-overview__item">
+				<div class="border-box">
+					<h2 class="title white carter fs--22 upper" id="description:60">
+						Secret Art of Bean Juice (coffee)					</h2>
+					<div class="desc text white">
+						From Benevolant bean to Bean juice, Laddian will be presenting a roasting and grinding process for coffee beans, with some tasting of generally available and custom roasted beans, showing a process for how it's done bean roasting (with some fancy data monitoring and historisation)! Rhoasted by Laddian					</div>
+					<img src="https://2019.fluufff.org/website/assets/images/logos/logo-light.svg" class="official">
+				</div>
+			</div>
+			<div class="events-overview__item">
+				<div class="border-box">
+					<h2 class="title white carter fs--22 upper" id="description:18">
+						Snack Exchange					</h2>
+					<div class="desc text white">
+						Bring in your snacks and drinks and lets share some specialities of our home countries in this convivial and tasty event!
+Registration is mandatory to help us help. Please <a href="https://forms.gle/nRpfhC1RKyNGqfFa9">fill in this form</a>.					</div>
+					<img src="https://2019.fluufff.org/website/assets/images/logos/logo-light.svg" class="official">
+				</div>
+			</div>
+			<div class="events-overview__item">
+				<div class="border-box">
+					<h2 class="title white carter fs--22 upper" id="description:61">
+						Special Beers Meet n Greet					</h2>
+					<div class="desc text white">
+						Casual meet for special beer lovers and Untappd users. Bring some original and/or strange beers (craft or commercial) and let's share them! Glasses will be provided. Hosted by Stan
+					</div>
+					<img src="https://2019.fluufff.org/website/assets/images/logos/logo-light.svg" class="official">
+				</div>
+			</div>
+			<div class="events-overview__item">
+				<div class="border-box">
+					<h2 class="title white carter fs--22 upper" id="description:21">
+						Talents Show					</h2>
+					<div class="desc text white">
+						Do you have a (special) talent that very few know of? Please don&#039;t keep it to yourself and share it with us at the Talent show!
+Whether it’s singing, dancing, playing an instrument, telling jokes or any other talent, join the Talent Show and amaze the audience, the stage is yours! (<a href="https://forms.gle/GF5BxjE54jkq48gcA">This event requires you to register</a> so we know what acts there are and what materials you need to perform).
+					</div>
+					<img src="https://2019.fluufff.org/website/assets/images/logos/logo-light.svg" class="official">
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section class="section section--padding section--padding--small fursuitlounge" id="fursuitlounge">
+	<div class="flex-container">
+		<div class="flex-half">
+			<h2 class="title carter blue fs--30">
+				Fursuit Lounge			</h2>
+			<p class="text fs--18">
+				La fursuit lounge n'est pas ouverte tout le temps. L'accès en est limité aux fursuiters et leurs accompagnants.			</p>
+			<div class="custom-table">
+				<div class="thead">
+					<div class="tr">
+						<div class="th">
+							<span>Jour</span>
+						</div>
+						<div class="th td--big">
+							<span>Heures d'ouverture</span>
+						</div>
+					</div>
+				</div>
+				<div class="tbody">
+					<div class="tr">
+						<div class="td">
+							<span><abbr title="Mercredi">Mer</abbr></span>
+						</div>
+						<div class="td td--big">
+							<span>13:00 - 01:00</span>
+						</div>
+					</div>
+					<div class="tr">
+						<div class="td">
+							<span><abbr title="Jeudi">Jeu</abbr></span>
+						</div>
+						<div class="td td--big">
+							<span>09:00 - 02:00</span>
+						</div>
+					</div>
+					<div class="tr">
+						<div class="td">
+							<span><abbr title="Vendredi">Ven</abbr></span>
+						</div>
+						<div class="td td--big">
+							<span>09:00 - 03:30</span>
+						</div>
+					</div>
+					<div class="tr">
+						<div class="td">
+							<span><abbr title="Sam">Sam</abbr></span>
+						</div>
+						<div class="td td--big">
+							<span>09:00 - 02:30</span>
+						</div>
+					</div>
+					<!--<div class="tr">
+						<div class="td">
+							<span><abbr title="Dimanche">Dim</abbr></span>
+						</div>
+						<div class="td td--big">
+							<span>11:00 PM - 12:00 AM</span>
+						</div>
+					</div>-->
+				</div>
+			</div>
+			<p class="text fs--18">
+				Le saviez vous? <a href="https://twitter.com/OrthankTauren" title="Orthank" target="_blank">Orthank</a>, un Tauren doué de ses mains, a fabriqué Garuda, le séchoir à fursuits.			</p>
+		</div>
+	</div>
+</section>
+<section class="section section--padding section--padding--small bar" id="bar">
+	<div class="flex-container">
+		<div class="flex-half">
+			<h2 class="title carter white fs--30">
+				Bar			</h2>
+			<p class="text white fs--18">
+				Le bar est le meilleur endroit pour discuter avec d'autres bricoleurs, un verre à la main.			</p>
+			<div class="custom-table">
+				<div class="thead">
+					<div class="tr">
+						<div class="th">
+							<span>Jour</span>
+						</div>
+						<div class="th td--big">
+							<span>Heures d'ouverture</span>
+						</div>
+					</div>
+				</div>
+				<div class="tbody">
+					<div class="tbody">
+						<div class="tr">
+							<div class="td">
+								<span>Tue</span>
+							</div>
+							<div class="td td--big">
+								<span>19:30 - 00:00</span>
+							</div>
+						</div>
+						<div class="tr">
+							<div class="td">
+								<span><abbr title="Mercredi">Mer</abbr></span>
+							</div>
+							<div class="td td--big">
+								<span>12:00 - 18:00<br/>19:30 - 00:00</span>
+							</div>
+						</div>
+						<div class="tr">
+							<div class="td">
+								<span><abbr title="Jeudi">Jeu</abbr></span>
+							</div>
+							<div class="td td--big">
+								<span>12:00 - 18:00<br/>19:30 - 01:00</span>
+							</div>
+						</div>
+						<div class="tr">
+							<div class="td">
+								<span><abbr title="Vendredi">Ven</abbr></span>
+							</div>
+							<div class="td td--big">
+								<span>12:00 - 18:00<br/>19:30 - 03:00</span>
+							</div>
+						</div>
+						<div class="tr">
+							<div class="td">
+								<span><abbr title="Sam">Sam</abbr></span>
+							</div>
+							<div class="td td--big">
+								<span>12:00 - 18:00<br/>19:30 - 01:00</span>
+							</div>
+						</div>
+						<div class="tr">
+							<div class="td">
+								<span><abbr title="Dimanche">Dim</abbr></span>
+							</div>
+							<div class="td td--big">
+								<span>12:00 - 18:00 <br/>19:30 - 01:00</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<p class="text white fs--18">
+				Amaroq et son équipe prendrons grand soin d'étancher votre soif.			</p>
+		</div>
+	</div>
+</section>
+<section class="section section--padding section--padding--small dealersden" id="dd">
+	<div class="flex-container">
+		<div class="flex-half">
+			<h2 class="title carter blue fs--30">
+				Dealers' Den			</h2>
+			<p class="text fs--18">
+				C'est au Dealers's Den que vous devez aller si vous compter ramener de superbes œuvres d'arts produites par des artistes talentueux.			</p>
+			<div class="custom-table">
+				<div class="thead">
+					<div class="tr">
+						<div class="th">
+							<span>Jour</span>
+						</div>
+						<div class="th td--big">
+							<span>Heures d'ouverture</span>
+						</div>
+					</div>
+				</div>
+				<div class="tbody">
+					<div class="tr">
+						<div class="td">
+							<span><abbr title="Jeudi">Jeu</abbr></span>
+						</div>
+						<div class="td td--big">
+							<span>10:30 - 12:30<br/>15:30 - 17:30</span>
+						</div>
+					</div>
+					<div class="tr">
+						<div class="td">
+							<span><abbr title="Vendredi">Ven</abbr></span>
+						</div>
+						<div class="td td--big">
+							<span>10:30 - 12:30<br/>15:30 - 17:30</span>
+						</div>
+					</div>
+					<div class="tr">
+						<div class="td">
+							<span><abbr title="Sam">Sam</abbr></span>
+						</div>
+						<div class="td td--big">
+							<span>10:30 - 12:30</span>
+						</div>
+					</div>
+				</div>
+			</div>
+			<p class="text fs--18">
+				Zepto et ses serpents s'occupent à faire tourner le Dealers's Den. Il se tiendra prêt à aider les artistes et les participants à trouver ce qu'ils cherchent.			</p>
+		</div>
+	</div>
+</section>
+		</main>
+		<footer class="footer">
+			<div class="footer__upper">
+				<div class="bannerslider-wrapper">
+				<div class="bannerslider">
+					
+					<a href="https://eurofurence.org" target="_blank" title="Eurofurence">
+						<img class="bannerslider__item" src="https://2019.fluufff.org/website/assets/images/exchange/eurofurence.gif" alt="0">
+					</a>
+
+					
+					<a href="https://furvester.org" target="_blank" title="Furvester">
+						<img class="bannerslider__item" src="https://2019.fluufff.org/website/assets/images/exchange/furvester.svg" alt="1">
+					</a>
+
+					
+					<a href="https://gdakon.org" target="_blank" title="Gdakon">
+						<img class="bannerslider__item" src="https://2019.fluufff.org/website/assets/images/exchange/gdakon.jpg" alt="2">
+					</a>
+
+					
+					<a href="https://www.furrnion.org/" target="_blank" title="Furnion">
+						<img class="bannerslider__item" src="https://2019.fluufff.org/website/assets/images/exchange/furnion.gif" alt="3">
+					</a>
+
+					
+					<a href="https://animus.finfur.net/" target="_blank" title="Finfur Animus">
+						<img class="bannerslider__item" src="https://2019.fluufff.org/website/assets/images/exchange/finfur.png" alt="4">
+					</a>
+
+					
+				</div>
+				</div>
+				<!-- <div class="footer__flex">
+					<a class="title" title="Back to homepage" href="https://2019.fluufff.org/">
+						<img height="60px" width="130px" alt="Flüüfff" src="https://2019.fluufff.org/website/assets/images/logos/logo-light.svg" />
+					</a>
+
+				</div> -->
+					<div class="bannerContainer">
+					<!-- Tach was here
+						<div id="slider">
+							<div id="mask">
+								<ul>
+									<li id="slidr0" class="animate0">
+										<a href="https://eurofurence.org" target="_blank">
+											<img class="bannersize" src="https://2019.fluufff.org/website/assets/images/exchange/eurofurence.gif" alt="0">
+										</a>
+										<div class="tooltip">
+											<a href="https://eurofurence.org" target="_blank">
+												<div class="imageboxx">
+													0												</div>
+											</a>
+										</div>
+									</li>
+									<li id="slidr1" class="animate1">
+										<a href="https://furvester.org" target="_blank">
+											<img class="bannersize" src="https://2019.fluufff.org/website/assets/images/exchange/furvester.svg" alt="1">
+										</a>
+										<div class="tooltip">
+											<a href="https://furvester.org" target="_blank">
+												<div class="imageboxx">
+													1												</div>
+											</a>
+										</div>
+									</li>
+									<li id="slidr2" class="animate2">
+										<a href="https://gdakon.org" target="_blank">
+											<img class="bannersize" src="https://2019.fluufff.org/website/assets/images/exchange/gdakon.jpg" alt="2">
+										</a>
+										<div class="tooltip">
+											<a href="https://gdakon.org" target="_blank">
+												<div class="imageboxx">
+													2												</div>
+											</a>
+										</div>
+									</li>
+									<li id="slidr3" class="animate3">
+										<a href="https://www.furrnion.org/" target="_blank">
+											<img class="bannersize" src="https://2019.fluufff.org/website/assets/images/exchange/furnion.gif" alt="3">
+										</a>
+										<div class="tooltip">
+											<a href="https://www.furrnion.org/" target="_blank">
+												<div class="imageboxx">
+													3												</div>
+											</a>
+										</div>
+									</li>
+									<li id="slidr4" class="animate4">
+										<a href="https://animus.finfur.net/" target="_blank">
+											<img class="bannersize" src="https://2019.fluufff.org/website/assets/images/exchange/finfur.png" alt="4">
+										</a>
+										<div class="tooltip">
+											<a href="https://animus.finfur.net/" target="_blank">
+												<div class="imageboxx">
+													4												</div>
+											</a>
+										</div>
+									</li>
+								</ul>
+							</div>
+							<div class="progress-bar"></div>
+						</div>
+					-->
+					</div>
+					<div class="footer-nav">
+						<div class="footer-nav--left">
+							<a target="_blank" href="https://twitter.com/FluufffCon" class="resetlink white fs--14 link" title="Twitter">
+								<i class="fab fa-twitter"></i> Twitter
+							</a>
+							<a target="_blank" href="http://www.furaffinity.net/user/fluufff/" class="resetlink white fs--14 link" title="Furaffinity">
+								<i class="fas fa-paw"></i> Furaffinity
+							</a>
+							<a target="_blank" href="https://www.facebook.com/fluufff/" class="resetlink white fs--14 link" title="Facebook">
+								<i class="fab fa-facebook-f"></i> Facebook
+							</a>
+							<a target="_blank" href="https://beta.furrynetwork.com/fluufff/" class="resetlink white fs--14 link" title="Furry Network">
+								<i class="fas fa-paw"></i> Furry Network
+							</a>
+							<a target="_blank" href="https://web.telegram.org/#/im?p=@fluufff_announcements" class="resetlink white fs--14 link" title="Telegram">
+								<i class="fab fa-telegram-plane"></i> Telegram
+							</a>
+						</div>
+						<div class="footer-nav--right">
+							<a href="https://2019.fluufff.org/events" class="resetlink white fs--14 link" title="Programme">
+								Programme							</a>
+							<a href="https://2019.fluufff.org/countdown" class="resetlink white fs--14 link" title="Compte à rebours">
+								Compte à rebours							</a>
+							<a href="https://2019.fluufff.org/register/terms" class="resetlink white fs--14 link" title="Règlement">
+								Règlement							</a>
+						<!-- <a href="https://2019.fluufff.org/othercons" class="resetlink white fs--14 link" title="Autres conventions">
+							Autres conventions						</a>
+						<a href="https://2019.fluufff.org/credits" class="resetlink white fs--14 link" title="Crédits">
+							Crédits						</a> -->
+						<a href="https://2018.fluufff.org" class="resetlink white fs--14 link" title="Site web de 2018">
+							Flüüfff 2018						</a>
+						<a href="https://2017.fluufff.org" class="resetlink white fs--14 link" title="Site web de 2017">
+							Flüüfff 2017						</a>
+					</div>
+				</div>
+			</div>
+			<div class="footer__lower">
+				<span class=" white">
+					&copy;2024 - Flüüfff ABSL - Tous droits réservés. | <a href="https://2019.fluufff.org/register/terms#privacy" target="_blank" class="resetlink text--white">Vie privée</a>					| <a href="https://2019.fluufff.org/register/terms#terms" target="_blank" class="resetlink text--white">Termes et conditions</a>					| <a href="https://2019.fluufff.org/profile/contact" class="resetlink text--white">Nous contacter</a>				</span>
+				<span class=" white text--right">
+					Design par <a target="_blank" href="https://twitter.com/HypiTheFox" title="Hypi The Fox">Hypi</a> et castors réalisés par <a target="_blank" href="https://twitter.com/DiscordianD" title="Zepto">Zepto</a>.<br/>
+				</span>
+			</div>
+
+		</footer>
+		<script src="https://2019.fluufff.org/website/assets/scripts/app.js"></script>
+	</body>
+	</html>
