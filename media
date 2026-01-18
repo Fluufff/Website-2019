@@ -7,13 +7,13 @@
 	<meta property="og:title" content="Flüüfff 2019 - Wow, It's Made!" />
 	<meta property="og:type" content="website" />
 	<meta property="og:description" content="Welcome to the Flüüfff construction zone! Join us in the 3th edition of Belgium's Furry Convention, a convention dedicated to anthropomorphic characters!" />
-	<meta property="og:url" content="https://2019.fluufff.org/media" />
+	<meta property="og:url" content="/media" />
 	<meta property="og:site_name" content="Flüüfff 2019 - Wow, It's Made!" />
-	<meta property="og:image" content="https://2019.fluufff.org/website/assets/images/og/open-graph.jpg">
+	<meta property="og:image" content="/website/assets/images/og/open-graph.jpg">
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:title" content="Flüüfff 2019 - Wow, It's Made!" />
 	<meta name="twitter:description" content="Welcome to the Flüüfff construction zone! Join us in the 3th edition of Belgium's Furry Convention, a convention dedicated to anthropomorphic characters!" />
-	<meta name="twitter:image" content="https://2019.fluufff.org/website/assets/images/og/open-graph.jpg" />
+	<meta name="twitter:image" content="/website/assets/images/og/open-graph.jpg" />
 	<meta itemprop="name" content="Flüüfff 2019 - Wow, It's Made!" />
 	<meta itemprop="description" content="Welcome to the Flüüfff construction zone! Join us in the 3th edition of Belgium's Furry Convention, a convention dedicated to anthropomorphic characters!" />
 	<meta name="robots" content="index,follow,noodp,noydir" />
@@ -28,32 +28,32 @@
 	<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" />
 	<link href="https://fonts.googleapis.com/css?family=Lato|Muli|Carter+One" rel="stylesheet">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
-	<link rel="stylesheet" href="https://2019.fluufff.org/website/assets/css/reset.css" type="text/css" media="all" />
-	<link rel="stylesheet" href="https://2019.fluufff.org/website/assets/css/style.css" type="text/css" media="all" />
-	<link rel="stylesheet" href="https://2019.fluufff.org/website/assets/css/aos.css" type="text/css" media="all" />
-	<link rel="stylesheet" href="https://2019.fluufff.org/website/assets/css/tiny-slider.css" type="text/css" media="all" />
-	<link rel="apple-touch-icon" sizes="180x180" href="https://2019.fluufff.org/website/assets/images/favicons/apple-touch-icon.png">
-	<link rel="icon" type="image/png" sizes="32x32" href="https://2019.fluufff.org/website/assets/images/favicons/favicon-32x32.png">
-	<link rel="icon" type="image/png" sizes="16x16" href="https://2019.fluufff.org/website/assets/images/favicons/favicon-16x16.png">
-	<link rel="manifest" href="https://2019.fluufff.org/website/assets/images/favicons/site.webmanifest">
-	<link rel="mask-icon" href="https://2019.fluufff.org/website/assets/images/favicons/safari-pinned-tab.svg" color="#5bbad5">
-	<link rel="shortcut icon" href="https://2019.fluufff.org/website/assets/images/favicons/favicon.ico">
+	<link rel="stylesheet" href="/website/assets/css/reset.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="/website/assets/css/style.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="/website/assets/css/aos.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="/website/assets/css/tiny-slider.css" type="text/css" media="all" />
+	<link rel="apple-touch-icon" sizes="180x180" href="/website/assets/images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/website/assets/images/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/website/assets/images/favicons/favicon-16x16.png">
+	<link rel="manifest" href="/website/assets/images/favicons/site.webmanifest">
+	<link rel="mask-icon" href="/website/assets/images/favicons/safari-pinned-tab.svg" color="#5bbad5">
+	<link rel="shortcut icon" href="/website/assets/images/favicons/favicon.ico">
 	<meta name="apple-mobile-web-app-title" content="Flüüfff 2019 - Wow, It's Made!">
 	<meta name="application-name" content="Flüüfff 2019 - Wow, It's Made!">
-	<meta name="msapplication-config" content="https://2019.fluufff.org/website/assets/images/favicons/browserconfig.xml">
+	<meta name="msapplication-config" content="/website/assets/images/favicons/browserconfig.xml">
 	<meta name="theme-color" content="#1d2435">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-	<!-- <script src="https://2019.fluufff.org/website/assets/scripts/masonry.pkgd.min.js"></script> -->
-	<script src="https://2019.fluufff.org/website/assets/scripts/lazysizes.min.js" async=""></script>
-	<!-- <script src="https://2019.fluufff.org/website/assets/scripts/tweenmax.min.js"></script> -->
-	<script src="https://2019.fluufff.org/website/assets/scripts/tiny-slider.js"></script>
-	<script src="https://2019.fluufff.org/website/assets/scripts/smooth-scroll.js"></script>
-	<!-- <script src="https://2019.fluufff.org/website/assets/scripts/aos.js"></script> -->
+	<!-- <script src="/website/assets/scripts/masonry.pkgd.min.js"></script> -->
+	<script src="/website/assets/scripts/lazysizes.min.js" async=""></script>
+	<!-- <script src="/website/assets/scripts/tweenmax.min.js"></script> -->
+	<script src="/website/assets/scripts/tiny-slider.js"></script>
+	<script src="/website/assets/scripts/smooth-scroll.js"></script>
+	<!-- <script src="/website/assets/scripts/aos.js"></script> -->
 </head>
 <body>
 	<header class="header ">
-		<a href="https://2019.fluufff.org/" title="Back to homepage" class="resetlink logo">
-			<img src="https://2019.fluufff.org/website/assets/images/logos/logo-light.svg" alt="">
+		<a href="/" title="Back to homepage" class="resetlink logo">
+			<img src="/website/assets/images/logos/logo-light.svg" alt="">
 		</a>
 		<div class="hamburger" onclick="hamburgerToggle(this)">
 			<div class="bar1"></div>
@@ -63,35 +63,35 @@
 		<nav>
 			<ul class="nav">
 				<li class="nav__item">
-					<a href="https://2019.fluufff.org/about" title="About" class="resetlink text white uppercase fs--16">
+					<a href="/about" title="About" class="resetlink text white uppercase fs--16">
 						About					</a>
 				</li>
 				<li class="nav__item">
-					<a href="https://2019.fluufff.org/events" title="Events" class="resetlink text white uppercase fs--16">
+					<a href="/events" title="Events" class="resetlink text white uppercase fs--16">
 						Events					</a>
 				</li>
 				<li class="nav__item">
-					<a href="https://2019.fluufff.org/venue" title="Venue" class="resetlink text white uppercase fs--16">
+					<a href="/venue" title="Venue" class="resetlink text white uppercase fs--16">
 						Venue					</a>
 				</li>
 				<li class="nav__item">
-					<a href="https://2019.fluufff.org/tickets" title="Prices" class="resetlink text white uppercase fs--16">
+					<a href="/tickets" title="Prices" class="resetlink text white uppercase fs--16">
 						Tickets					</a>
 				</li>
 				<li class="nav__item">
-					<a href="https://2019.fluufff.org/faq" title="FAQ" class="resetlink text white uppercase fs--16">
+					<a href="/faq" title="FAQ" class="resetlink text white uppercase fs--16">
 						FAQ					</a>
 				</li>
 				<li class="nav__item">
-					<a href="https://2019.fluufff.org/media" title="Media" class="resetlink text white uppercase fs--16">
+					<a href="/media" title="Media" class="resetlink text white uppercase fs--16">
 						Media					</a>
 				</li>
 				<!-- <li class="nav__item nav__item--special">
-					<a href="https://2019.fluufff.org/register" title="Register" class="resetlink text blue bold uppercase fs--16">
+					<a href="/register" title="Register" class="resetlink text blue bold uppercase fs--16">
 						Register					</a>
 				</li> -->
 				<li class="nav__item">
-					<a href="https://2019.fluufff.org/profile/login?from=register" title="Login" class="resetlink text white uppercase fs--16">
+					<a href="/profile/login?from=register" title="Login" class="resetlink text white uppercase fs--16">
 						Login					</a>
 				</li>
 				<li class="nav__item nav__item--language">
@@ -100,11 +100,11 @@
 							<i class="fas fa-globe"></i> <span>EN</span>
 						</div>
 						<div class="language-popup">
-							<a href="https://2019.fluufff.org/media?lang=nl_BE" title="Nederlands (Be)" class="language-popup__item">NL</a>							<a href="https://2019.fluufff.org/media?lang=fr_FR" title="Français" class="language-popup__item">FR</a>						</div>
+							<a href="/media?lang=nl_BE" title="Nederlands (Be)" class="language-popup__item">NL</a>							<a href="/media?lang=fr_FR" title="Français" class="language-popup__item">FR</a>						</div>
 					</div>
 				</li>
 				<li class="nav__item nav__item--language--mobile white">
-<a href="https://2019.fluufff.org/media?lang=en_GB" title="English" class="resetlink">EN</a>|<a href="https://2019.fluufff.org/media?lang=nl_BE" title="Nederlands (Be)" class="resetlink">NL</a>|<a href="https://2019.fluufff.org/media?lang=fr_FR" title="Français" class="resetlink">FR</a>				</li>
+<a href="/media?lang=en_GB" title="English" class="resetlink">EN</a>|<a href="/media?lang=nl_BE" title="Nederlands (Be)" class="resetlink">NL</a>|<a href="/media?lang=fr_FR" title="Français" class="resetlink">FR</a>				</li>
 			</ul>
 		</nav>
 	</header>
@@ -129,7 +129,7 @@
 			<div class="gallery__item ">
 				<div class="gallery__item-inner">
 					<a target="_blank" href="https://www.youtube.com/watch?v=5bxykh1dhi4" class="resetlink" title="Watch video on Youtube">
-						<img src="https://2019.fluufff.org/website/assets/images/media/video1.jpg" alt="" class="gallery-image">
+						<img src="/website/assets/images/media/video1.jpg" alt="" class="gallery-image">
 					</a>
 					<div class="gallery-info">
 						<span class="block title fs--18">
@@ -141,7 +141,7 @@
 			</div>
 			<div class="gallery__item ">
 				<div class="gallery__item-inner">
-					<img src="https://2019.fluufff.org/website/assets/images/media/media1.jpg" alt="" class="gallery-image">
+					<img src="/website/assets/images/media/media1.jpg" alt="" class="gallery-image">
 					<div class="gallery-info">
 						<span class="block title fs--18">
 							Bar - Bless this beer!						</span>
@@ -152,7 +152,7 @@
 			</div>
 			<div class="gallery__item ">
 				<div class="gallery__item-inner">
-					<img src="https://2019.fluufff.org/website/assets/images/media/media6.jpg" alt="" class="gallery-image">
+					<img src="/website/assets/images/media/media6.jpg" alt="" class="gallery-image">
 					<div class="gallery-info">
 						<span class="block title fs--18">
 							Snack Exchange!						</span>
@@ -163,7 +163,7 @@
 			</div>
 			<div class="gallery__item ">
 				<div class="gallery__item-inner">
-					<img src="https://2019.fluufff.org/website/assets/images/media/media13.jpg" alt="" class="gallery-image">
+					<img src="/website/assets/images/media/media13.jpg" alt="" class="gallery-image">
 					<div class="gallery-info">
 						<span class="block title fs--18">
 							Let's hack!						</span>
@@ -174,7 +174,7 @@
 			</div>
 			<div class="gallery__item ">
 				<div class="gallery__item-inner">
-					<img src="https://2019.fluufff.org/website/assets/images/media/media21.jpg" alt="" class="gallery-image">
+					<img src="/website/assets/images/media/media21.jpg" alt="" class="gallery-image">
 					<div class="gallery-info">
 						<span class="block title fs--18">
 							This floof is in heaven!						</span>
@@ -185,7 +185,7 @@
 			</div>
 			<div class="gallery__item ">
 				<div class="gallery__item-inner">
-					<img src="https://2019.fluufff.org/website/assets/images/media/media24.jpg" alt="" class="gallery-image">
+					<img src="/website/assets/images/media/media24.jpg" alt="" class="gallery-image">
 					<div class="gallery-info">
 						<span class="block title fs--18">
 							Who knew snakes could play guitar!						</span>
@@ -199,7 +199,7 @@
 			<div class="gallery__item ">
 				<div class="gallery__item-inner">
 					<a target="_blank" href="https://www.youtube.com/watch?v=NRaYlZka7lk" class="resetlink" title="Watch video on Youtube">
-						<img src="https://2019.fluufff.org/website/assets/images/media/video2.jpg" alt="" class="gallery-image">
+						<img src="/website/assets/images/media/video2.jpg" alt="" class="gallery-image">
 					</a>
 					<div class="gallery-info">
 						<span class="block title fs--18">
@@ -211,7 +211,7 @@
 			</div>
 			<div class="gallery__item ">
 				<div class="gallery__item-inner">
-					<img src="https://2019.fluufff.org/website/assets/images/media/media4.jpg" alt="" class="gallery-image">
+					<img src="/website/assets/images/media/media4.jpg" alt="" class="gallery-image">
 					<div class="gallery-info">
 						<span class="block title fs--18">
 							Motor meet!						</span>
@@ -222,7 +222,7 @@
 			</div>
 			<div class="gallery__item ">
 				<div class="gallery__item-inner">
-					<img src="https://2019.fluufff.org/website/assets/images/media/media20.jpg" alt="" class="gallery-image">
+					<img src="/website/assets/images/media/media20.jpg" alt="" class="gallery-image">
 					<div class="gallery-info">
 						<span class="block title fs--18">
 							Birb and the DJ!						</span>
@@ -233,7 +233,7 @@
 			</div>
 			<div class="gallery__item ">
 				<div class="gallery__item-inner">
-					<img src="https://2019.fluufff.org/website/assets/images/media/media17.jpg" alt="" class="gallery-image">
+					<img src="/website/assets/images/media/media17.jpg" alt="" class="gallery-image">
 					<div class="gallery-info">
 						<span class="block title fs--18">
 							Do you like my car?						</span>
@@ -244,7 +244,7 @@
 			</div>
 			<div class="gallery__item ">
 				<div class="gallery__item-inner">
-					<img src="https://2019.fluufff.org/website/assets/images/media/media12.jpg" alt="" class="gallery-image">
+					<img src="/website/assets/images/media/media12.jpg" alt="" class="gallery-image">
 					<div class="gallery-info">
 						<span class="block title fs--18">
 							Fursuit love during the walk!						</span>
@@ -256,7 +256,7 @@
 
 			<div class="gallery__item ">
 				<div class="gallery__item-inner">
-					<img src="https://2019.fluufff.org/website/assets/images/media/media19.jpg" alt="" class="gallery-image">
+					<img src="/website/assets/images/media/media19.jpg" alt="" class="gallery-image">
 					<div class="gallery-info">
 						<span class="block title fs--18">
 							Busy bar!						</span>
@@ -267,7 +267,7 @@
 			</div>
 			<div class="gallery__item ">
 				<div class="gallery__item-inner">
-					<img src="https://2019.fluufff.org/website/assets/images/media/media23.jpg" alt="" class="gallery-image">
+					<img src="/website/assets/images/media/media23.jpg" alt="" class="gallery-image">
 					<div class="gallery-info">
 						<span class="block title fs--18">
 							We're not a cult, mom!						</span>
@@ -282,7 +282,7 @@
 				
 				<div class="gallery__item-inner">
 					<a target="_blank" href="https://www.youtube.com/watch?v=iAiEBWS6-oI" class="resetlink" title="Watch video on Youtube">
-						<img src="https://2019.fluufff.org/website/assets/images/media/video3.jpg" alt="" class="gallery-image">
+						<img src="/website/assets/images/media/video3.jpg" alt="" class="gallery-image">
 					</a>
 					<div class="gallery-info">
 						<span class="block title fs--18">
@@ -294,7 +294,7 @@
 			</div>
 			<div class="gallery__item ">
 				<div class="gallery__item-inner">
-					<img src="https://2019.fluufff.org/website/assets/images/media/media15.jpg" alt="" class="gallery-image">
+					<img src="/website/assets/images/media/media15.jpg" alt="" class="gallery-image">
 					<div class="gallery-info">
 						<span class="block title fs--18">
 							Creativity of the attendees!						</span>
@@ -305,7 +305,7 @@
 			</div>
 			<div class="gallery__item ">
 				<div class="gallery__item-inner">
-					<img src="https://2019.fluufff.org/website/assets/images/media/media16.jpg" alt="" class="gallery-image">
+					<img src="/website/assets/images/media/media16.jpg" alt="" class="gallery-image">
 					<div class="gallery-info">
 						<span class="block title fs--18">
 							Stumbled upon some pizza and fish!						</span>
@@ -316,7 +316,7 @@
 			</div>
 			<div class="gallery__item ">
 				<div class="gallery__item-inner">
-					<img src="https://2019.fluufff.org/website/assets/images/media/media18.jpg" alt="" class="gallery-image">
+					<img src="/website/assets/images/media/media18.jpg" alt="" class="gallery-image">
 					<div class="gallery-info">
 						<span class="block title fs--18">
 							Animal vs Furry!						</span>
@@ -327,7 +327,7 @@
 			</div>
 			<div class="gallery__item ">
 				<div class="gallery__item-inner">
-					<img src="https://2019.fluufff.org/website/assets/images/media/media22.jpg" alt="" class="gallery-image">
+					<img src="/website/assets/images/media/media22.jpg" alt="" class="gallery-image">
 					<div class="gallery-info">
 						<span class="block title fs--18">
 							An angel voice!						</span>
@@ -338,7 +338,7 @@
 			</div>
 			<div class="gallery__item ">
 				<div class="gallery__item-inner">
-					<img src="https://2019.fluufff.org/website/assets/images/media/media25.jpg" alt="" class="gallery-image">
+					<img src="/website/assets/images/media/media25.jpg" alt="" class="gallery-image">
 					<div class="gallery-info">
 						<span class="block title fs--18">
 							We are ready for Flüüfff 2019!						</span>
@@ -357,35 +357,35 @@
 				<div class="bannerslider">
 					
 					<a href="https://eurofurence.org" target="_blank" title="Eurofurence">
-						<img class="bannerslider__item" src="https://2019.fluufff.org/website/assets/images/exchange/eurofurence.gif" alt="0">
+						<img class="bannerslider__item" src="/website/assets/images/exchange/eurofurence.gif" alt="0">
 					</a>
 
 					
 					<a href="https://gdakon.org" target="_blank" title="Gdakon">
-						<img class="bannerslider__item" src="https://2019.fluufff.org/website/assets/images/exchange/gdakon.jpg" alt="1">
+						<img class="bannerslider__item" src="/website/assets/images/exchange/gdakon.jpg" alt="1">
 					</a>
 
 					
 					<a href="https://www.furrnion.org/" target="_blank" title="Furnion">
-						<img class="bannerslider__item" src="https://2019.fluufff.org/website/assets/images/exchange/furnion.gif" alt="2">
+						<img class="bannerslider__item" src="/website/assets/images/exchange/furnion.gif" alt="2">
 					</a>
 
 					
 					<a href="https://animus.finfur.net/" target="_blank" title="Finfur Animus">
-						<img class="bannerslider__item" src="https://2019.fluufff.org/website/assets/images/exchange/finfur.png" alt="3">
+						<img class="bannerslider__item" src="/website/assets/images/exchange/finfur.png" alt="3">
 					</a>
 
 					
 					<a href="https://furvester.org" target="_blank" title="Furvester">
-						<img class="bannerslider__item" src="https://2019.fluufff.org/website/assets/images/exchange/furvester.svg" alt="4">
+						<img class="bannerslider__item" src="/website/assets/images/exchange/furvester.svg" alt="4">
 					</a>
 
 					
 				</div>
 				</div>
 				<!-- <div class="footer__flex">
-					<a class="title" title="Back to homepage" href="https://2019.fluufff.org/">
-						<img height="60px" width="130px" alt="Flüüfff" src="https://2019.fluufff.org/website/assets/images/logos/logo-light.svg" />
+					<a class="title" title="Back to homepage" href="/">
+						<img height="60px" width="130px" alt="Flüüfff" src="/website/assets/images/logos/logo-light.svg" />
 					</a>
 
 				</div> -->
@@ -396,7 +396,7 @@
 								<ul>
 									<li id="slidr0" class="animate0">
 										<a href="https://eurofurence.org" target="_blank">
-											<img class="bannersize" src="https://2019.fluufff.org/website/assets/images/exchange/eurofurence.gif" alt="0">
+											<img class="bannersize" src="/website/assets/images/exchange/eurofurence.gif" alt="0">
 										</a>
 										<div class="tooltip">
 											<a href="https://eurofurence.org" target="_blank">
@@ -407,7 +407,7 @@
 									</li>
 									<li id="slidr1" class="animate1">
 										<a href="https://gdakon.org" target="_blank">
-											<img class="bannersize" src="https://2019.fluufff.org/website/assets/images/exchange/gdakon.jpg" alt="1">
+											<img class="bannersize" src="/website/assets/images/exchange/gdakon.jpg" alt="1">
 										</a>
 										<div class="tooltip">
 											<a href="https://gdakon.org" target="_blank">
@@ -418,7 +418,7 @@
 									</li>
 									<li id="slidr2" class="animate2">
 										<a href="https://www.furrnion.org/" target="_blank">
-											<img class="bannersize" src="https://2019.fluufff.org/website/assets/images/exchange/furnion.gif" alt="2">
+											<img class="bannersize" src="/website/assets/images/exchange/furnion.gif" alt="2">
 										</a>
 										<div class="tooltip">
 											<a href="https://www.furrnion.org/" target="_blank">
@@ -429,7 +429,7 @@
 									</li>
 									<li id="slidr3" class="animate3">
 										<a href="https://animus.finfur.net/" target="_blank">
-											<img class="bannersize" src="https://2019.fluufff.org/website/assets/images/exchange/finfur.png" alt="3">
+											<img class="bannersize" src="/website/assets/images/exchange/finfur.png" alt="3">
 										</a>
 										<div class="tooltip">
 											<a href="https://animus.finfur.net/" target="_blank">
@@ -440,7 +440,7 @@
 									</li>
 									<li id="slidr4" class="animate4">
 										<a href="https://furvester.org" target="_blank">
-											<img class="bannersize" src="https://2019.fluufff.org/website/assets/images/exchange/furvester.svg" alt="4">
+											<img class="bannersize" src="/website/assets/images/exchange/furvester.svg" alt="4">
 										</a>
 										<div class="tooltip">
 											<a href="https://furvester.org" target="_blank">
@@ -474,15 +474,15 @@
 							</a>
 						</div>
 						<div class="footer-nav--right">
-							<a href="https://2019.fluufff.org/events" class="resetlink white fs--14 link" title="Events">
+							<a href="/events" class="resetlink white fs--14 link" title="Events">
 								Events							</a>
-							<a href="https://2019.fluufff.org/countdown" class="resetlink white fs--14 link" title="Countdown">
+							<a href="/countdown" class="resetlink white fs--14 link" title="Countdown">
 								Countdown							</a>
-							<a href="https://2019.fluufff.org/register/terms" class="resetlink white fs--14 link" title="Policies">
+							<a href="/register/terms" class="resetlink white fs--14 link" title="Policies">
 								Policies							</a>
-						<!-- <a href="https://2019.fluufff.org/othercons" class="resetlink white fs--14 link" title="Other cons">
+						<!-- <a href="/othercons" class="resetlink white fs--14 link" title="Other cons">
 							Other cons						</a>
-						<a href="https://2019.fluufff.org/credits" class="resetlink white fs--14 link" title="Credits">
+						<a href="/credits" class="resetlink white fs--14 link" title="Credits">
 							Credits						</a> -->
 						<a href="https://2018.fluufff.org" class="resetlink white fs--14 link" title="2018 website">
 							Flüüfff 2018						</a>
@@ -493,13 +493,13 @@
 			</div>
 			<div class="footer__lower">
 				<span class=" white">
-					&copy;2024 - Flüüfff ABSL - All rights reserved. | <a href="https://2019.fluufff.org/register/terms#privacy" target="_blank" class="resetlink text--white">Privacy</a>					| <a href="https://2019.fluufff.org/register/terms#terms" target="_blank" class="resetlink text--white">Terms and Conditions</a>					| <a href="https://2019.fluufff.org/profile/contact" class="resetlink text--white">Contact us</a>				</span>
+					&copy;2024 - Flüüfff ABSL - All rights reserved. | <a href="/register/terms#privacy" target="_blank" class="resetlink text--white">Privacy</a>					| <a href="/register/terms#terms" target="_blank" class="resetlink text--white">Terms and Conditions</a>					| <a href="/profile/contact" class="resetlink text--white">Contact us</a>				</span>
 				<span class=" white text--right">
 					Design by <a target="_blank" href="https://twitter.com/HypiTheFox" title="Hypi The Fox">Hypi</a> and beavers by <a target="_blank" href="https://twitter.com/DiscordianD" title="Zepto">Zepto</a>.<br/>
 				</span>
 			</div>
 
 		</footer>
-		<script src="https://2019.fluufff.org/website/assets/scripts/app.js"></script>
+		<script src="/website/assets/scripts/app.js"></script>
 	</body>
 	</html>

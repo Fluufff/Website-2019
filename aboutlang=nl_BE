@@ -7,13 +7,13 @@
 	<meta property="og:title" content="Flüüfff 2019 - Wow, It's Made!" />
 	<meta property="og:type" content="website" />
 	<meta property="og:description" content="Welcome to the Flüüfff construction zone! Join us in the 3th edition of Belgium's Furry Convention, a convention dedicated to anthropomorphic characters!" />
-	<meta property="og:url" content="https://2019.fluufff.org/about?lang=nl_BE" />
+	<meta property="og:url" content="/about?lang=nl_BE" />
 	<meta property="og:site_name" content="Flüüfff 2019 - Wow, It's Made!" />
-	<meta property="og:image" content="https://2019.fluufff.org/website/assets/images/og/open-graph.jpg">
+	<meta property="og:image" content="/website/assets/images/og/open-graph.jpg">
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:title" content="Flüüfff 2019 - Wow, It's Made!" />
 	<meta name="twitter:description" content="Welcome to the Flüüfff construction zone! Join us in the 3th edition of Belgium's Furry Convention, a convention dedicated to anthropomorphic characters!" />
-	<meta name="twitter:image" content="https://2019.fluufff.org/website/assets/images/og/open-graph.jpg" />
+	<meta name="twitter:image" content="/website/assets/images/og/open-graph.jpg" />
 	<meta itemprop="name" content="Flüüfff 2019 - Wow, It's Made!" />
 	<meta itemprop="description" content="Welcome to the Flüüfff construction zone! Join us in the 3th edition of Belgium's Furry Convention, a convention dedicated to anthropomorphic characters!" />
 	<meta name="robots" content="index,follow,noodp,noydir" />
@@ -28,32 +28,32 @@
 	<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" />
 	<link href="https://fonts.googleapis.com/css?family=Lato|Muli|Carter+One" rel="stylesheet">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
-	<link rel="stylesheet" href="https://2019.fluufff.org/website/assets/css/reset.css" type="text/css" media="all" />
-	<link rel="stylesheet" href="https://2019.fluufff.org/website/assets/css/style.css" type="text/css" media="all" />
-	<link rel="stylesheet" href="https://2019.fluufff.org/website/assets/css/aos.css" type="text/css" media="all" />
-	<link rel="stylesheet" href="https://2019.fluufff.org/website/assets/css/tiny-slider.css" type="text/css" media="all" />
-	<link rel="apple-touch-icon" sizes="180x180" href="https://2019.fluufff.org/website/assets/images/favicons/apple-touch-icon.png">
-	<link rel="icon" type="image/png" sizes="32x32" href="https://2019.fluufff.org/website/assets/images/favicons/favicon-32x32.png">
-	<link rel="icon" type="image/png" sizes="16x16" href="https://2019.fluufff.org/website/assets/images/favicons/favicon-16x16.png">
-	<link rel="manifest" href="https://2019.fluufff.org/website/assets/images/favicons/site.webmanifest">
-	<link rel="mask-icon" href="https://2019.fluufff.org/website/assets/images/favicons/safari-pinned-tab.svg" color="#5bbad5">
-	<link rel="shortcut icon" href="https://2019.fluufff.org/website/assets/images/favicons/favicon.ico">
+	<link rel="stylesheet" href="/website/assets/css/reset.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="/website/assets/css/style.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="/website/assets/css/aos.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="/website/assets/css/tiny-slider.css" type="text/css" media="all" />
+	<link rel="apple-touch-icon" sizes="180x180" href="/website/assets/images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/website/assets/images/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/website/assets/images/favicons/favicon-16x16.png">
+	<link rel="manifest" href="/website/assets/images/favicons/site.webmanifest">
+	<link rel="mask-icon" href="/website/assets/images/favicons/safari-pinned-tab.svg" color="#5bbad5">
+	<link rel="shortcut icon" href="/website/assets/images/favicons/favicon.ico">
 	<meta name="apple-mobile-web-app-title" content="Flüüfff 2019 - Wow, It's Made!">
 	<meta name="application-name" content="Flüüfff 2019 - Wow, It's Made!">
-	<meta name="msapplication-config" content="https://2019.fluufff.org/website/assets/images/favicons/browserconfig.xml">
+	<meta name="msapplication-config" content="/website/assets/images/favicons/browserconfig.xml">
 	<meta name="theme-color" content="#1d2435">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-	<!-- <script src="https://2019.fluufff.org/website/assets/scripts/masonry.pkgd.min.js"></script> -->
-	<script src="https://2019.fluufff.org/website/assets/scripts/lazysizes.min.js" async=""></script>
-	<!-- <script src="https://2019.fluufff.org/website/assets/scripts/tweenmax.min.js"></script> -->
-	<script src="https://2019.fluufff.org/website/assets/scripts/tiny-slider.js"></script>
-	<script src="https://2019.fluufff.org/website/assets/scripts/smooth-scroll.js"></script>
-	<!-- <script src="https://2019.fluufff.org/website/assets/scripts/aos.js"></script> -->
+	<!-- <script src="/website/assets/scripts/masonry.pkgd.min.js"></script> -->
+	<script src="/website/assets/scripts/lazysizes.min.js" async=""></script>
+	<!-- <script src="/website/assets/scripts/tweenmax.min.js"></script> -->
+	<script src="/website/assets/scripts/tiny-slider.js"></script>
+	<script src="/website/assets/scripts/smooth-scroll.js"></script>
+	<!-- <script src="/website/assets/scripts/aos.js"></script> -->
 </head>
 <body>
 	<header class="header ">
-		<a href="https://2019.fluufff.org/" title="Back to homepage" class="resetlink logo">
-			<img src="https://2019.fluufff.org/website/assets/images/logos/logo-light.svg" alt="">
+		<a href="/" title="Back to homepage" class="resetlink logo">
+			<img src="/website/assets/images/logos/logo-light.svg" alt="">
 		</a>
 		<div class="hamburger" onclick="hamburgerToggle(this)">
 			<div class="bar1"></div>
@@ -63,35 +63,35 @@
 		<nav>
 			<ul class="nav">
 				<li class="nav__item">
-					<a href="https://2019.fluufff.org/about" title="Over Flüüfff" class="resetlink text white uppercase fs--16">
+					<a href="/about" title="Over Flüüfff" class="resetlink text white uppercase fs--16">
 						Over Flüüfff					</a>
 				</li>
 				<li class="nav__item">
-					<a href="https://2019.fluufff.org/events" title="Evenementen" class="resetlink text white uppercase fs--16">
+					<a href="/events" title="Evenementen" class="resetlink text white uppercase fs--16">
 						Evenementen					</a>
 				</li>
 				<li class="nav__item">
-					<a href="https://2019.fluufff.org/venue" title="Locatie" class="resetlink text white uppercase fs--16">
+					<a href="/venue" title="Locatie" class="resetlink text white uppercase fs--16">
 						Locatie					</a>
 				</li>
 				<li class="nav__item">
-					<a href="https://2019.fluufff.org/tickets" title="Prijzen" class="resetlink text white uppercase fs--16">
+					<a href="/tickets" title="Prijzen" class="resetlink text white uppercase fs--16">
 						Tickets					</a>
 				</li>
 				<li class="nav__item">
-					<a href="https://2019.fluufff.org/faq" title="FAQ" class="resetlink text white uppercase fs--16">
+					<a href="/faq" title="FAQ" class="resetlink text white uppercase fs--16">
 						FAQ					</a>
 				</li>
 				<li class="nav__item">
-					<a href="https://2019.fluufff.org/media" title="Media" class="resetlink text white uppercase fs--16">
+					<a href="/media" title="Media" class="resetlink text white uppercase fs--16">
 						Media					</a>
 				</li>
 				<!-- <li class="nav__item nav__item--special">
-					<a href="https://2019.fluufff.org/register" title="Register" class="resetlink text blue bold uppercase fs--16">
+					<a href="/register" title="Register" class="resetlink text blue bold uppercase fs--16">
 						Registreren					</a>
 				</li> -->
 				<li class="nav__item">
-					<a href="https://2019.fluufff.org/profile/login?from=register" title="Inloggen" class="resetlink text white uppercase fs--16">
+					<a href="/profile/login?from=register" title="Inloggen" class="resetlink text white uppercase fs--16">
 						Inloggen					</a>
 				</li>
 				<li class="nav__item nav__item--language">
@@ -100,11 +100,11 @@
 							<i class="fas fa-globe"></i> <span>NL</span>
 						</div>
 						<div class="language-popup">
-							<a href="https://2019.fluufff.org/about?lang=en_GB" title="English" class="language-popup__item">EN</a>							<a href="https://2019.fluufff.org/about?lang=fr_FR" title="Français" class="language-popup__item">FR</a>						</div>
+							<a href="/about?lang=en_GB" title="English" class="language-popup__item">EN</a>							<a href="/about?lang=fr_FR" title="Français" class="language-popup__item">FR</a>						</div>
 					</div>
 				</li>
 				<li class="nav__item nav__item--language--mobile white">
-<a href="https://2019.fluufff.org/about?lang=en_GB" title="English" class="resetlink">EN</a>|<a href="https://2019.fluufff.org/about?lang=nl_BE" title="Nederlands (Be)" class="resetlink">NL</a>|<a href="https://2019.fluufff.org/about?lang=fr_FR" title="Français" class="resetlink">FR</a>				</li>
+<a href="/about?lang=en_GB" title="English" class="resetlink">EN</a>|<a href="/about?lang=nl_BE" title="Nederlands (Be)" class="resetlink">NL</a>|<a href="/about?lang=fr_FR" title="Français" class="resetlink">FR</a>				</li>
 			</ul>
 		</nav>
 	</header>
@@ -197,7 +197,7 @@ De inkomsten van dit evenement zullen enkel gebruikt worden voor de aankoop van 
 
 		</div>
 		<div class="section-sidebar">
-			<a href="https://2019.fluufff.org/faq" class="teaser-button" title="Check out the events!" style="background-image: url('https://2019.fluufff.org//website/assets/images/about/faq-teaser.png')">
+			<a href="/faq" class="teaser-button" title="Check out the events!" style="background-image: url('//website/assets/images/about/faq-teaser.png')">
 				<span class="overlay">
 					<span class="overlay-text">
 						Veelgestelde vragen					</span>
@@ -216,9 +216,9 @@ De inkomsten van dit evenement zullen enkel gebruikt worden voor de aankoop van 
 			<p>
 				Ongeacht welke materialen we hem geven, hij zal zich voluit inzetten om er iets moois mee te maken.
 			</p>				</p>
-				<img src="https://2019.fluufff.org/website/assets/images/about/beaver.png" alt="" class="image beaver-image">
+				<img src="/website/assets/images/about/beaver.png" alt="" class="image beaver-image">
 			</div>
-			<a href="https://2019.fluufff.org/events" class="teaser-button" title="Check out the events!" style="background-image: url('https://2019.fluufff.org/website/assets/images/about/events-teaser.png')">
+			<a href="/events" class="teaser-button" title="Check out the events!" style="background-image: url('/website/assets/images/about/events-teaser.png')">
 				<span class="overlay">
 					<span class="overlay-text">
 						Check de evenementen!					</span>
@@ -229,8 +229,8 @@ De inkomsten van dit evenement zullen enkel gebruikt worden voor de aankoop van 
 	</div>
 </section>
 
-<div class="atmos-banner atmos-banner--button atmos-banner--16-9" style="background-image: url('https://2019.fluufff.org/website/assets/images/about/about-atmos.jpg');">
-		<a href="https://2019.fluufff.org/media" class="resetlink link-button link-button--white fs--16 m-t-24" title="Countdown">
+<div class="atmos-banner atmos-banner--button atmos-banner--16-9" style="background-image: url('/website/assets/images/about/about-atmos.jpg');">
+		<a href="/media" class="resetlink link-button link-button--white fs--16 m-t-24" title="Countdown">
 			<span>Kijk ook eens naar het vorig jaar</span><i class="fas fa-arrow-right"></i>
 		</a>
 </div>
@@ -246,7 +246,7 @@ De inkomsten van dit evenement zullen enkel gebruikt worden voor de aankoop van 
 			Board Member		</h3>
 		<div class="staff-overview">
 		<div class="staff-overview__item staff-overview__item--StanLuckBun">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver12.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver12.png');" >
 			</div>
 			<div class="tag">
 				<span class="text fs--18">
@@ -256,7 +256,7 @@ De inkomsten van dit evenement zullen enkel gebruikt worden voor de aankoop van 
 			</div>
 		</div>
 		<div class="staff-overview__item staff-overview__item--Faelan">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver33.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver33.png');" >
 				<div class="bio">
 					<p class="text white fs--14">
 						I also showed up					</p>
@@ -270,7 +270,7 @@ De inkomsten van dit evenement zullen enkel gebruikt worden voor de aankoop van 
 			</div>
 		</div>
 		<div class="staff-overview__item staff-overview__item--Tach">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver32.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver32.png');" >
 				<div class="bio">
 					<p class="text white fs--14">
 						What are you looking at? I just live here!					</p>
@@ -284,7 +284,7 @@ De inkomsten van dit evenement zullen enkel gebruikt worden voor de aankoop van 
 			</div>
 		</div>
 		<div class="staff-overview__item staff-overview__item--Gigi">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver55.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver55.png');" >
 			</div>
 			<div class="tag">
 				<span class="text fs--18">
@@ -294,7 +294,7 @@ De inkomsten van dit evenement zullen enkel gebruikt worden voor de aankoop van 
 			</div>
 		</div>
 		<div class="staff-overview__item staff-overview__item--Laddian">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver35.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver35.png');" >
 			</div>
 			<div class="tag">
 				<span class="text fs--18">
@@ -310,7 +310,7 @@ De inkomsten van dit evenement zullen enkel gebruikt worden voor de aankoop van 
 			Website		</h3>
 		<div class="staff-overview">
 		<div class="staff-overview__item staff-overview__item--Tach">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver32.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver32.png');" >
 				<div class="bio">
 					<p class="text white fs--14">
 						What are you looking at? I just live here!					</p>
@@ -324,7 +324,7 @@ De inkomsten van dit evenement zullen enkel gebruikt worden voor de aankoop van 
 			</div>
 		</div>
 		<div class="staff-overview__item staff-overview__item--Niki">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver83.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver83.png');" >
 			</div>
 			<div class="tag">
 				<span class="text fs--18">
@@ -334,7 +334,7 @@ De inkomsten van dit evenement zullen enkel gebruikt worden voor de aankoop van 
 			</div>
 		</div>
 		<div class="staff-overview__item staff-overview__item--Hypi The Fox">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver36.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver36.png');" >
 			</div>
 			<div class="tag">
 				<span class="text fs--18">
@@ -344,7 +344,7 @@ De inkomsten van dit evenement zullen enkel gebruikt worden voor de aankoop van 
 			</div>
 		</div>
 		<div class="staff-overview__item staff-overview__item--Kasil">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver52.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver52.png');" >
 			</div>
 			<div class="tag">
 				<span class="text fs--18">
@@ -354,7 +354,7 @@ De inkomsten van dit evenement zullen enkel gebruikt worden voor de aankoop van 
 			</div>
 		</div>
 		<div class="staff-overview__item staff-overview__item--Furexa">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver1.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver1.png');" >
 			</div>
 			<div class="tag">
 				<span class="text fs--18">
@@ -370,7 +370,7 @@ De inkomsten van dit evenement zullen enkel gebruikt worden voor de aankoop van 
 			ConOps		</h3>
 		<div class="staff-overview">
 		<div class="staff-overview__item staff-overview__item--Tach">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver32.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver32.png');" >
 				<div class="bio">
 					<p class="text white fs--14">
 						What are you looking at? I just live here!					</p>
@@ -384,7 +384,7 @@ De inkomsten van dit evenement zullen enkel gebruikt worden voor de aankoop van 
 			</div>
 		</div>
 		<div class="staff-overview__item staff-overview__item--SkyFox">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver82.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver82.png');" >
 			</div>
 			<div class="tag">
 				<span class="text fs--18">
@@ -394,7 +394,7 @@ De inkomsten van dit evenement zullen enkel gebruikt worden voor de aankoop van 
 			</div>
 		</div>
 		<div class="staff-overview__item staff-overview__item--Narf">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver66.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver66.png');" >
 			</div>
 			<div class="tag">
 				<span class="text fs--18">
@@ -404,7 +404,7 @@ De inkomsten van dit evenement zullen enkel gebruikt worden voor de aankoop van 
 			</div>
 		</div>
 		<div class="staff-overview__item staff-overview__item--keeba">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver119.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver119.png');" >
 			</div>
 			<div class="tag">
 				<span class="text fs--18">
@@ -414,7 +414,7 @@ De inkomsten van dit evenement zullen enkel gebruikt worden voor de aankoop van 
 			</div>
 		</div>
 		<div class="staff-overview__item staff-overview__item--Youna">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver116.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver116.png');" >
 			</div>
 			<div class="tag">
 				<span class="text fs--18">
@@ -424,7 +424,7 @@ De inkomsten van dit evenement zullen enkel gebruikt worden voor de aankoop van 
 			</div>
 		</div>
 		<div class="staff-overview__item staff-overview__item--Jaxhusky">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver118.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver118.png');" >
 			</div>
 			<div class="tag">
 				<span class="text fs--18">
@@ -434,7 +434,7 @@ De inkomsten van dit evenement zullen enkel gebruikt worden voor de aankoop van 
 			</div>
 		</div>
 		<div class="staff-overview__item staff-overview__item--DD">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver76.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver76.png');" >
 			</div>
 			<div class="tag">
 				<span class="text fs--18">
@@ -444,7 +444,7 @@ De inkomsten van dit evenement zullen enkel gebruikt worden voor de aankoop van 
 			</div>
 		</div>
 		<div class="staff-overview__item staff-overview__item--Leith">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver1.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver1.png');" >
 			</div>
 			<div class="tag">
 				<span class="text fs--18">
@@ -454,7 +454,7 @@ De inkomsten van dit evenement zullen enkel gebruikt worden voor de aankoop van 
 			</div>
 		</div>
 		<div class="staff-overview__item staff-overview__item--Alexei (Mr. samoyed)">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver1.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver1.png');" >
 			</div>
 			<div class="tag">
 				<span class="text fs--18">
@@ -470,7 +470,7 @@ De inkomsten van dit evenement zullen enkel gebruikt worden voor de aankoop van 
 			Entertainment		</h3>
 		<div class="staff-overview">
 		<div class="staff-overview__item staff-overview__item--StanLuckBun">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver12.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver12.png');" >
 			</div>
 			<div class="tag">
 				<span class="text fs--18">
@@ -480,7 +480,7 @@ De inkomsten van dit evenement zullen enkel gebruikt worden voor de aankoop van 
 			</div>
 		</div>
 		<div class="staff-overview__item staff-overview__item--Vex">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver56.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver56.png');" >
 			</div>
 			<div class="tag">
 				<span class="text fs--18">
@@ -490,7 +490,7 @@ De inkomsten van dit evenement zullen enkel gebruikt worden voor de aankoop van 
 			</div>
 		</div>
 		<div class="staff-overview__item staff-overview__item--Tach">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver32.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver32.png');" >
 				<div class="bio">
 					<p class="text white fs--14">
 						What are you looking at? I just live here!					</p>
@@ -504,7 +504,7 @@ De inkomsten van dit evenement zullen enkel gebruikt worden voor de aankoop van 
 			</div>
 		</div>
 		<div class="staff-overview__item staff-overview__item--Jules">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver115.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver115.png');" >
 			</div>
 			<div class="tag">
 				<span class="text fs--18">
@@ -514,7 +514,7 @@ De inkomsten van dit evenement zullen enkel gebruikt worden voor de aankoop van 
 			</div>
 		</div>
 		<div class="staff-overview__item staff-overview__item--Kasil">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver52.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver52.png');" >
 			</div>
 			<div class="tag">
 				<span class="text fs--18">
@@ -524,7 +524,7 @@ De inkomsten van dit evenement zullen enkel gebruikt worden voor de aankoop van 
 			</div>
 		</div>
 		<div class="staff-overview__item staff-overview__item--Nimalen">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver0.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver0.png');" >
 			</div>
 			<div class="tag">
 				<span class="text fs--18">
@@ -534,7 +534,7 @@ De inkomsten van dit evenement zullen enkel gebruikt worden voor de aankoop van 
 			</div>
 		</div>
 		<div class="staff-overview__item staff-overview__item--Kanosint">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver50.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver50.png');" >
 			</div>
 			<div class="tag">
 				<span class="text fs--18">
@@ -544,7 +544,7 @@ De inkomsten van dit evenement zullen enkel gebruikt worden voor de aankoop van 
 			</div>
 		</div>
 		<div class="staff-overview__item staff-overview__item--Oreo">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver127.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver127.png');" >
 			</div>
 			<div class="tag">
 				<span class="text fs--18">
@@ -560,7 +560,7 @@ De inkomsten van dit evenement zullen enkel gebruikt worden voor de aankoop van 
 			Registration		</h3>
 		<div class="staff-overview">
 		<div class="staff-overview__item staff-overview__item--Faelan">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver33.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver33.png');" >
 				<div class="bio">
 					<p class="text white fs--14">
 						I also showed up					</p>
@@ -574,7 +574,7 @@ De inkomsten van dit evenement zullen enkel gebruikt worden voor de aankoop van 
 			</div>
 		</div>
 		<div class="staff-overview__item staff-overview__item--Akylian">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver58.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver58.png');" >
 				<div class="bio">
 					<p class="text white fs--14">
 						Greetings! 
@@ -592,7 +592,7 @@ Only on occasion obviously.					</p>
 			</div>
 		</div>
 		<div class="staff-overview__item staff-overview__item--Tach">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver32.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver32.png');" >
 				<div class="bio">
 					<p class="text white fs--14">
 						What are you looking at? I just live here!					</p>
@@ -606,7 +606,7 @@ Only on occasion obviously.					</p>
 			</div>
 		</div>
 		<div class="staff-overview__item staff-overview__item--Tanuki">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver120.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver120.png');" >
 			</div>
 			<div class="tag">
 				<span class="text fs--18">
@@ -616,7 +616,7 @@ Only on occasion obviously.					</p>
 			</div>
 		</div>
 		<div class="staff-overview__item staff-overview__item--Jenky">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver37.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver37.png');" >
 			</div>
 			<div class="tag">
 				<span class="text fs--18">
@@ -632,7 +632,7 @@ Only on occasion obviously.					</p>
 			Fursuit Affairs		</h3>
 		<div class="staff-overview">
 		<div class="staff-overview__item staff-overview__item--Orthank">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver48.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver48.png');" >
 			</div>
 			<div class="tag">
 				<span class="text fs--18">
@@ -642,7 +642,7 @@ Only on occasion obviously.					</p>
 			</div>
 		</div>
 		<div class="staff-overview__item staff-overview__item--Hell Charm">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver41.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver41.png');" >
 			</div>
 			<div class="tag">
 				<span class="text fs--18">
@@ -658,7 +658,7 @@ Only on occasion obviously.					</p>
 			Photo		</h3>
 		<div class="staff-overview">
 		<div class="staff-overview__item staff-overview__item--MakiboX">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver51.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver51.png');" >
 			</div>
 			<div class="tag">
 				<span class="text fs--18">
@@ -668,7 +668,7 @@ Only on occasion obviously.					</p>
 			</div>
 		</div>
 		<div class="staff-overview__item staff-overview__item--Auroz">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver93.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver93.png');" >
 			</div>
 			<div class="tag">
 				<span class="text fs--18">
@@ -678,7 +678,7 @@ Only on occasion obviously.					</p>
 			</div>
 		</div>
 		<div class="staff-overview__item staff-overview__item--Peachy">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver117.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver117.png');" >
 			</div>
 			<div class="tag">
 				<span class="text fs--18">
@@ -688,7 +688,7 @@ Only on occasion obviously.					</p>
 			</div>
 		</div>
 		<div class="staff-overview__item staff-overview__item--VulcanWolfy">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver111.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver111.png');" >
 			</div>
 			<div class="tag">
 				<span class="text fs--18">
@@ -698,7 +698,7 @@ Only on occasion obviously.					</p>
 			</div>
 		</div>
 		<div class="staff-overview__item staff-overview__item--FoxiesCuties">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver91.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver91.png');" >
 			</div>
 			<div class="tag">
 				<span class="text fs--18">
@@ -708,7 +708,7 @@ Only on occasion obviously.					</p>
 			</div>
 		</div>
 		<div class="staff-overview__item staff-overview__item--Skygejager">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver1.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver1.png');" >
 			</div>
 			<div class="tag">
 				<span class="text fs--18">
@@ -724,7 +724,7 @@ Only on occasion obviously.					</p>
 			Bar		</h3>
 		<div class="staff-overview">
 		<div class="staff-overview__item staff-overview__item--Amaroq">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver69.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver69.png');" >
 			</div>
 			<div class="tag">
 				<span class="text fs--18">
@@ -734,7 +734,7 @@ Only on occasion obviously.					</p>
 			</div>
 		</div>
 		<div class="staff-overview__item staff-overview__item--Tanuki">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver120.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver120.png');" >
 			</div>
 			<div class="tag">
 				<span class="text fs--18">
@@ -744,7 +744,7 @@ Only on occasion obviously.					</p>
 			</div>
 		</div>
 		<div class="staff-overview__item staff-overview__item--Hell Charm">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver41.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver41.png');" >
 			</div>
 			<div class="tag">
 				<span class="text fs--18">
@@ -754,7 +754,7 @@ Only on occasion obviously.					</p>
 			</div>
 		</div>
 		<div class="staff-overview__item staff-overview__item--Nimalen">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver0.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver0.png');" >
 			</div>
 			<div class="tag">
 				<span class="text fs--18">
@@ -764,7 +764,7 @@ Only on occasion obviously.					</p>
 			</div>
 		</div>
 		<div class="staff-overview__item staff-overview__item--Vrydi">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver1.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver1.png');" >
 			</div>
 			<div class="tag">
 				<span class="text fs--18">
@@ -774,7 +774,7 @@ Only on occasion obviously.					</p>
 			</div>
 		</div>
 		<div class="staff-overview__item staff-overview__item--Zannak">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver0.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver0.png');" >
 			</div>
 			<div class="tag">
 				<span class="text fs--18">
@@ -784,7 +784,7 @@ Only on occasion obviously.					</p>
 			</div>
 		</div>
 		<div class="staff-overview__item staff-overview__item--DD">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver76.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver76.png');" >
 			</div>
 			<div class="tag">
 				<span class="text fs--18">
@@ -794,7 +794,7 @@ Only on occasion obviously.					</p>
 			</div>
 		</div>
 		<div class="staff-overview__item staff-overview__item--Kanosint">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver50.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver50.png');" >
 			</div>
 			<div class="tag">
 				<span class="text fs--18">
@@ -804,7 +804,7 @@ Only on occasion obviously.					</p>
 			</div>
 		</div>
 		<div class="staff-overview__item staff-overview__item--Fill">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver1.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver1.png');" >
 			</div>
 			<div class="tag">
 				<span class="text fs--18">
@@ -814,7 +814,7 @@ Only on occasion obviously.					</p>
 			</div>
 		</div>
 		<div class="staff-overview__item staff-overview__item--Damien LeBlanc">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver1.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver1.png');" >
 			</div>
 			<div class="tag">
 				<span class="text fs--18">
@@ -824,7 +824,7 @@ Only on occasion obviously.					</p>
 			</div>
 		</div>
 		<div class="staff-overview__item staff-overview__item--Vexare">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver110.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver110.png');" >
 			</div>
 			<div class="tag">
 				<span class="text fs--18">
@@ -834,7 +834,7 @@ Only on occasion obviously.					</p>
 			</div>
 		</div>
 		<div class="staff-overview__item staff-overview__item--Yacóron">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver125.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver125.png');" >
 			</div>
 			<div class="tag">
 				<span class="text fs--18">
@@ -844,7 +844,7 @@ Only on occasion obviously.					</p>
 			</div>
 		</div>
 		<div class="staff-overview__item staff-overview__item--Wikke">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver1.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver1.png');" >
 			</div>
 			<div class="tag">
 				<span class="text fs--18">
@@ -860,7 +860,7 @@ Only on occasion obviously.					</p>
 			Stage crew		</h3>
 		<div class="staff-overview">
 		<div class="staff-overview__item staff-overview__item--StarFoxCoon">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver64.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver64.png');" >
 			</div>
 			<div class="tag">
 				<span class="text fs--18">
@@ -870,7 +870,7 @@ Only on occasion obviously.					</p>
 			</div>
 		</div>
 		<div class="staff-overview__item staff-overview__item--Tanuki">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver120.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver120.png');" >
 			</div>
 			<div class="tag">
 				<span class="text fs--18">
@@ -880,7 +880,7 @@ Only on occasion obviously.					</p>
 			</div>
 		</div>
 		<div class="staff-overview__item staff-overview__item--Kanso">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver47.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver47.png');" >
 			</div>
 			<div class="tag">
 				<span class="text fs--18">
@@ -890,7 +890,7 @@ Only on occasion obviously.					</p>
 			</div>
 		</div>
 		<div class="staff-overview__item staff-overview__item--Tinker">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver54.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver54.png');" >
 			</div>
 			<div class="tag">
 				<span class="text fs--18">
@@ -906,7 +906,7 @@ Only on occasion obviously.					</p>
 			Decoration		</h3>
 		<div class="staff-overview">
 		<div class="staff-overview__item staff-overview__item--Laddian">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver35.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver35.png');" >
 			</div>
 			<div class="tag">
 				<span class="text fs--18">
@@ -916,7 +916,7 @@ Only on occasion obviously.					</p>
 			</div>
 		</div>
 		<div class="staff-overview__item staff-overview__item--Jenky">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver37.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver37.png');" >
 			</div>
 			<div class="tag">
 				<span class="text fs--18">
@@ -926,7 +926,7 @@ Only on occasion obviously.					</p>
 			</div>
 		</div>
 		<div class="staff-overview__item staff-overview__item--Dawn">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver27.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver27.png');" >
 			</div>
 			<div class="tag">
 				<span class="text fs--18">
@@ -936,7 +936,7 @@ Only on occasion obviously.					</p>
 			</div>
 		</div>
 		<div class="staff-overview__item staff-overview__item--Kanosint">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver50.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver50.png');" >
 			</div>
 			<div class="tag">
 				<span class="text fs--18">
@@ -946,7 +946,7 @@ Only on occasion obviously.					</p>
 			</div>
 		</div>
 		<div class="staff-overview__item staff-overview__item--Zepto">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver13.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver13.png');" >
 			</div>
 			<div class="tag">
 				<span class="text fs--18">
@@ -962,7 +962,7 @@ Only on occasion obviously.					</p>
 			Dealers' Den		</h3>
 		<div class="staff-overview">
 		<div class="staff-overview__item staff-overview__item--Zepto">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver13.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver13.png');" >
 			</div>
 			<div class="tag">
 				<span class="text fs--18">
@@ -972,7 +972,7 @@ Only on occasion obviously.					</p>
 			</div>
 		</div>
 		<div class="staff-overview__item staff-overview__item--Vexare">
-			<div class="image" style="background-image: url('https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver110.png');" >
+			<div class="image" style="background-image: url('/website/assets/images/beavers/FluufffWiMBeaver110.png');" >
 			</div>
 			<div class="tag">
 				<span class="text fs--18">
@@ -986,10 +986,10 @@ Only on occasion obviously.					</p>
 </section>
 
 
-<div class="atmos-banner atmos-banner--button atmos-banner--16-9" id="staff-join" style="background-image: url('https://2019.fluufff.org/website/assets/images/sections/about/atmos-banner.jpg');">
+<div class="atmos-banner atmos-banner--button atmos-banner--16-9" id="staff-join" style="background-image: url('/website/assets/images/sections/about/atmos-banner.jpg');">
 		<p class="text fs--18 white center">
 			Ooit gedacht aan barman, veiligheidsagent of deel van de podiumcrew te worden? Wordt lid van onze groep vrijwilligers!		</p>
-		<a href="https://2019.fluufff.org/media" class="resetlink link-button link-button--white fs--16 m-t-24" title="Wordt vrijwilliger">
+		<a href="/media" class="resetlink link-button link-button--white fs--16 m-t-24" title="Wordt vrijwilliger">
 			<span>Wordt vrijwilliger</span><i class="fas fa-arrow-right"></i>
 		</a>
 </div>
@@ -1000,35 +1000,35 @@ Only on occasion obviously.					</p>
 				<div class="bannerslider">
 					
 					<a href="https://furvester.org" target="_blank" title="Furvester">
-						<img class="bannerslider__item" src="https://2019.fluufff.org/website/assets/images/exchange/furvester.svg" alt="0">
+						<img class="bannerslider__item" src="/website/assets/images/exchange/furvester.svg" alt="0">
 					</a>
 
 					
 					<a href="https://gdakon.org" target="_blank" title="Gdakon">
-						<img class="bannerslider__item" src="https://2019.fluufff.org/website/assets/images/exchange/gdakon.jpg" alt="1">
+						<img class="bannerslider__item" src="/website/assets/images/exchange/gdakon.jpg" alt="1">
 					</a>
 
 					
 					<a href="https://eurofurence.org" target="_blank" title="Eurofurence">
-						<img class="bannerslider__item" src="https://2019.fluufff.org/website/assets/images/exchange/eurofurence.gif" alt="2">
+						<img class="bannerslider__item" src="/website/assets/images/exchange/eurofurence.gif" alt="2">
 					</a>
 
 					
 					<a href="https://animus.finfur.net/" target="_blank" title="Finfur Animus">
-						<img class="bannerslider__item" src="https://2019.fluufff.org/website/assets/images/exchange/finfur.png" alt="3">
+						<img class="bannerslider__item" src="/website/assets/images/exchange/finfur.png" alt="3">
 					</a>
 
 					
 					<a href="https://www.furrnion.org/" target="_blank" title="Furnion">
-						<img class="bannerslider__item" src="https://2019.fluufff.org/website/assets/images/exchange/furnion.gif" alt="4">
+						<img class="bannerslider__item" src="/website/assets/images/exchange/furnion.gif" alt="4">
 					</a>
 
 					
 				</div>
 				</div>
 				<!-- <div class="footer__flex">
-					<a class="title" title="Back to homepage" href="https://2019.fluufff.org/">
-						<img height="60px" width="130px" alt="Flüüfff" src="https://2019.fluufff.org/website/assets/images/logos/logo-light.svg" />
+					<a class="title" title="Back to homepage" href="/">
+						<img height="60px" width="130px" alt="Flüüfff" src="/website/assets/images/logos/logo-light.svg" />
 					</a>
 
 				</div> -->
@@ -1039,7 +1039,7 @@ Only on occasion obviously.					</p>
 								<ul>
 									<li id="slidr0" class="animate0">
 										<a href="https://furvester.org" target="_blank">
-											<img class="bannersize" src="https://2019.fluufff.org/website/assets/images/exchange/furvester.svg" alt="0">
+											<img class="bannersize" src="/website/assets/images/exchange/furvester.svg" alt="0">
 										</a>
 										<div class="tooltip">
 											<a href="https://furvester.org" target="_blank">
@@ -1050,7 +1050,7 @@ Only on occasion obviously.					</p>
 									</li>
 									<li id="slidr1" class="animate1">
 										<a href="https://gdakon.org" target="_blank">
-											<img class="bannersize" src="https://2019.fluufff.org/website/assets/images/exchange/gdakon.jpg" alt="1">
+											<img class="bannersize" src="/website/assets/images/exchange/gdakon.jpg" alt="1">
 										</a>
 										<div class="tooltip">
 											<a href="https://gdakon.org" target="_blank">
@@ -1061,7 +1061,7 @@ Only on occasion obviously.					</p>
 									</li>
 									<li id="slidr2" class="animate2">
 										<a href="https://eurofurence.org" target="_blank">
-											<img class="bannersize" src="https://2019.fluufff.org/website/assets/images/exchange/eurofurence.gif" alt="2">
+											<img class="bannersize" src="/website/assets/images/exchange/eurofurence.gif" alt="2">
 										</a>
 										<div class="tooltip">
 											<a href="https://eurofurence.org" target="_blank">
@@ -1072,7 +1072,7 @@ Only on occasion obviously.					</p>
 									</li>
 									<li id="slidr3" class="animate3">
 										<a href="https://animus.finfur.net/" target="_blank">
-											<img class="bannersize" src="https://2019.fluufff.org/website/assets/images/exchange/finfur.png" alt="3">
+											<img class="bannersize" src="/website/assets/images/exchange/finfur.png" alt="3">
 										</a>
 										<div class="tooltip">
 											<a href="https://animus.finfur.net/" target="_blank">
@@ -1083,7 +1083,7 @@ Only on occasion obviously.					</p>
 									</li>
 									<li id="slidr4" class="animate4">
 										<a href="https://www.furrnion.org/" target="_blank">
-											<img class="bannersize" src="https://2019.fluufff.org/website/assets/images/exchange/furnion.gif" alt="4">
+											<img class="bannersize" src="/website/assets/images/exchange/furnion.gif" alt="4">
 										</a>
 										<div class="tooltip">
 											<a href="https://www.furrnion.org/" target="_blank">
@@ -1117,15 +1117,15 @@ Only on occasion obviously.					</p>
 							</a>
 						</div>
 						<div class="footer-nav--right">
-							<a href="https://2019.fluufff.org/events" class="resetlink white fs--14 link" title="Evenementen">
+							<a href="/events" class="resetlink white fs--14 link" title="Evenementen">
 								Evenementen							</a>
-							<a href="https://2019.fluufff.org/countdown" class="resetlink white fs--14 link" title="Countdown">
+							<a href="/countdown" class="resetlink white fs--14 link" title="Countdown">
 								Countdown							</a>
-							<a href="https://2019.fluufff.org/register/terms" class="resetlink white fs--14 link" title="Beleid">
+							<a href="/register/terms" class="resetlink white fs--14 link" title="Beleid">
 								Beleid							</a>
-						<!-- <a href="https://2019.fluufff.org/othercons" class="resetlink white fs--14 link" title="Andere cons">
+						<!-- <a href="/othercons" class="resetlink white fs--14 link" title="Andere cons">
 							Andere cons						</a>
-						<a href="https://2019.fluufff.org/credits" class="resetlink white fs--14 link" title="Credits">
+						<a href="/credits" class="resetlink white fs--14 link" title="Credits">
 							Credits						</a> -->
 						<a href="https://2018.fluufff.org" class="resetlink white fs--14 link" title="2018 website">
 							Flüüfff 2018						</a>
@@ -1136,13 +1136,13 @@ Only on occasion obviously.					</p>
 			</div>
 			<div class="footer__lower">
 				<span class=" white">
-					&copy;2024 - Flüüfff ABSL - Alle rechten voorbehouden. | <a href="https://2019.fluufff.org/register/terms#privacy" target="_blank" class="resetlink text--white">Privacy</a>					| <a href="https://2019.fluufff.org/register/terms#terms" target="_blank" class="resetlink text--white">Terms and Conditions</a>					| <a href="https://2019.fluufff.org/profile/contact" class="resetlink text--white">Contact us</a>				</span>
+					&copy;2024 - Flüüfff ABSL - Alle rechten voorbehouden. | <a href="/register/terms#privacy" target="_blank" class="resetlink text--white">Privacy</a>					| <a href="/register/terms#terms" target="_blank" class="resetlink text--white">Terms and Conditions</a>					| <a href="/profile/contact" class="resetlink text--white">Contact us</a>				</span>
 				<span class=" white text--right">
 					Design by <a target="_blank" href="https://twitter.com/HypiTheFox" title="Hypi The Fox">Hypi</a> and beavers by <a target="_blank" href="https://twitter.com/DiscordianD" title="Zepto">Zepto</a>.<br/>
 				</span>
 			</div>
 
 		</footer>
-		<script src="https://2019.fluufff.org/website/assets/scripts/app.js"></script>
+		<script src="/website/assets/scripts/app.js"></script>
 	</body>
 	</html>

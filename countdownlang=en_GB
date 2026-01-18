@@ -7,13 +7,13 @@
 	<meta property="og:title" content="Flüüfff 2019 - Wow, It's Made!" />
 	<meta property="og:type" content="website" />
 	<meta property="og:description" content="Welcome to the Flüüfff construction zone! Join us in the 3th edition of Belgium's Furry Convention, a convention dedicated to anthropomorphic characters!" />
-	<meta property="og:url" content="https://2019.fluufff.org/countdown?lang=en_GB" />
+	<meta property="og:url" content="/countdown?lang=en_GB" />
 	<meta property="og:site_name" content="Flüüfff 2019 - Wow, It's Made!" />
-	<meta property="og:image" content="https://2019.fluufff.org/website/assets/images/og/open-graph.jpg">
+	<meta property="og:image" content="/website/assets/images/og/open-graph.jpg">
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:title" content="Flüüfff 2019 - Wow, It's Made!" />
 	<meta name="twitter:description" content="Welcome to the Flüüfff construction zone! Join us in the 3th edition of Belgium's Furry Convention, a convention dedicated to anthropomorphic characters!" />
-	<meta name="twitter:image" content="https://2019.fluufff.org/website/assets/images/og/open-graph.jpg" />
+	<meta name="twitter:image" content="/website/assets/images/og/open-graph.jpg" />
 	<meta itemprop="name" content="Flüüfff 2019 - Wow, It's Made!" />
 	<meta itemprop="description" content="Welcome to the Flüüfff construction zone! Join us in the 3th edition of Belgium's Furry Convention, a convention dedicated to anthropomorphic characters!" />
 	<meta name="robots" content="index,follow,noodp,noydir" />
@@ -28,32 +28,32 @@
 	<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" />
 	<link href="https://fonts.googleapis.com/css?family=Lato|Muli|Carter+One" rel="stylesheet">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
-	<link rel="stylesheet" href="https://2019.fluufff.org/website/assets/css/reset.css" type="text/css" media="all" />
-	<link rel="stylesheet" href="https://2019.fluufff.org/website/assets/css/style.css" type="text/css" media="all" />
-	<link rel="stylesheet" href="https://2019.fluufff.org/website/assets/css/aos.css" type="text/css" media="all" />
-	<link rel="stylesheet" href="https://2019.fluufff.org/website/assets/css/tiny-slider.css" type="text/css" media="all" />
-	<link rel="apple-touch-icon" sizes="180x180" href="https://2019.fluufff.org/website/assets/images/favicons/apple-touch-icon.png">
-	<link rel="icon" type="image/png" sizes="32x32" href="https://2019.fluufff.org/website/assets/images/favicons/favicon-32x32.png">
-	<link rel="icon" type="image/png" sizes="16x16" href="https://2019.fluufff.org/website/assets/images/favicons/favicon-16x16.png">
-	<link rel="manifest" href="https://2019.fluufff.org/website/assets/images/favicons/site.webmanifest">
-	<link rel="mask-icon" href="https://2019.fluufff.org/website/assets/images/favicons/safari-pinned-tab.svg" color="#5bbad5">
-	<link rel="shortcut icon" href="https://2019.fluufff.org/website/assets/images/favicons/favicon.ico">
+	<link rel="stylesheet" href="/website/assets/css/reset.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="/website/assets/css/style.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="/website/assets/css/aos.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="/website/assets/css/tiny-slider.css" type="text/css" media="all" />
+	<link rel="apple-touch-icon" sizes="180x180" href="/website/assets/images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/website/assets/images/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/website/assets/images/favicons/favicon-16x16.png">
+	<link rel="manifest" href="/website/assets/images/favicons/site.webmanifest">
+	<link rel="mask-icon" href="/website/assets/images/favicons/safari-pinned-tab.svg" color="#5bbad5">
+	<link rel="shortcut icon" href="/website/assets/images/favicons/favicon.ico">
 	<meta name="apple-mobile-web-app-title" content="Flüüfff 2019 - Wow, It's Made!">
 	<meta name="application-name" content="Flüüfff 2019 - Wow, It's Made!">
-	<meta name="msapplication-config" content="https://2019.fluufff.org/website/assets/images/favicons/browserconfig.xml">
+	<meta name="msapplication-config" content="/website/assets/images/favicons/browserconfig.xml">
 	<meta name="theme-color" content="#1d2435">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-	<!-- <script src="https://2019.fluufff.org/website/assets/scripts/masonry.pkgd.min.js"></script> -->
-	<script src="https://2019.fluufff.org/website/assets/scripts/lazysizes.min.js" async=""></script>
-	<!-- <script src="https://2019.fluufff.org/website/assets/scripts/tweenmax.min.js"></script> -->
-	<script src="https://2019.fluufff.org/website/assets/scripts/tiny-slider.js"></script>
-	<script src="https://2019.fluufff.org/website/assets/scripts/smooth-scroll.js"></script>
-	<!-- <script src="https://2019.fluufff.org/website/assets/scripts/aos.js"></script> -->
+	<!-- <script src="/website/assets/scripts/masonry.pkgd.min.js"></script> -->
+	<script src="/website/assets/scripts/lazysizes.min.js" async=""></script>
+	<!-- <script src="/website/assets/scripts/tweenmax.min.js"></script> -->
+	<script src="/website/assets/scripts/tiny-slider.js"></script>
+	<script src="/website/assets/scripts/smooth-scroll.js"></script>
+	<!-- <script src="/website/assets/scripts/aos.js"></script> -->
 </head>
 <body>
 	<header class="header ">
-		<a href="https://2019.fluufff.org/" title="Back to homepage" class="resetlink logo">
-			<img src="https://2019.fluufff.org/website/assets/images/logos/logo-light.svg" alt="">
+		<a href="/" title="Back to homepage" class="resetlink logo">
+			<img src="/website/assets/images/logos/logo-light.svg" alt="">
 		</a>
 		<div class="hamburger" onclick="hamburgerToggle(this)">
 			<div class="bar1"></div>
@@ -63,35 +63,35 @@
 		<nav>
 			<ul class="nav">
 				<li class="nav__item">
-					<a href="https://2019.fluufff.org/about" title="About" class="resetlink text white uppercase fs--16">
+					<a href="/about" title="About" class="resetlink text white uppercase fs--16">
 						About					</a>
 				</li>
 				<li class="nav__item">
-					<a href="https://2019.fluufff.org/events" title="Events" class="resetlink text white uppercase fs--16">
+					<a href="/events" title="Events" class="resetlink text white uppercase fs--16">
 						Events					</a>
 				</li>
 				<li class="nav__item">
-					<a href="https://2019.fluufff.org/venue" title="Venue" class="resetlink text white uppercase fs--16">
+					<a href="/venue" title="Venue" class="resetlink text white uppercase fs--16">
 						Venue					</a>
 				</li>
 				<li class="nav__item">
-					<a href="https://2019.fluufff.org/tickets" title="Prices" class="resetlink text white uppercase fs--16">
+					<a href="/tickets" title="Prices" class="resetlink text white uppercase fs--16">
 						Tickets					</a>
 				</li>
 				<li class="nav__item">
-					<a href="https://2019.fluufff.org/faq" title="FAQ" class="resetlink text white uppercase fs--16">
+					<a href="/faq" title="FAQ" class="resetlink text white uppercase fs--16">
 						FAQ					</a>
 				</li>
 				<li class="nav__item">
-					<a href="https://2019.fluufff.org/media" title="Media" class="resetlink text white uppercase fs--16">
+					<a href="/media" title="Media" class="resetlink text white uppercase fs--16">
 						Media					</a>
 				</li>
 				<!-- <li class="nav__item nav__item--special">
-					<a href="https://2019.fluufff.org/register" title="Register" class="resetlink text blue bold uppercase fs--16">
+					<a href="/register" title="Register" class="resetlink text blue bold uppercase fs--16">
 						Register					</a>
 				</li> -->
 				<li class="nav__item">
-					<a href="https://2019.fluufff.org/profile/login?from=register" title="Login" class="resetlink text white uppercase fs--16">
+					<a href="/profile/login?from=register" title="Login" class="resetlink text white uppercase fs--16">
 						Login					</a>
 				</li>
 				<li class="nav__item nav__item--language">
@@ -100,11 +100,11 @@
 							<i class="fas fa-globe"></i> <span>EN</span>
 						</div>
 						<div class="language-popup">
-							<a href="https://2019.fluufff.org/countdown?lang=nl_BE" title="Nederlands (Be)" class="language-popup__item">NL</a>							<a href="https://2019.fluufff.org/countdown?lang=fr_FR" title="Français" class="language-popup__item">FR</a>						</div>
+							<a href="/countdown?lang=nl_BE" title="Nederlands (Be)" class="language-popup__item">NL</a>							<a href="/countdown?lang=fr_FR" title="Français" class="language-popup__item">FR</a>						</div>
 					</div>
 				</li>
 				<li class="nav__item nav__item--language--mobile white">
-<a href="https://2019.fluufff.org/countdown?lang=en_GB" title="English" class="resetlink">EN</a>|<a href="https://2019.fluufff.org/countdown?lang=nl_BE" title="Nederlands (Be)" class="resetlink">NL</a>|<a href="https://2019.fluufff.org/countdown?lang=fr_FR" title="Français" class="resetlink">FR</a>				</li>
+<a href="/countdown?lang=en_GB" title="English" class="resetlink">EN</a>|<a href="/countdown?lang=nl_BE" title="Nederlands (Be)" class="resetlink">NL</a>|<a href="/countdown?lang=fr_FR" title="Français" class="resetlink">FR</a>				</li>
 			</ul>
 		</nav>
 	</header>
@@ -119,135 +119,135 @@
   </p>
   <div class="countdown-gallery">
     <div class="beaverslider">
-              <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver31.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver122.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver105.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver33.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver18.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver26.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver27.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver17.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver2.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver14.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver61.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver72.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver82.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver70.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver10.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver41.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver65.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver115.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver37.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver81.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver21.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver73.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver9.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver63.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver127.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver100.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver32.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver34.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver12.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver83.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver28.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver124.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver49.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver46.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver22.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver69.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver84.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver52.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver59.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver75.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver89.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver107.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver54.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver98.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver40.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver15.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver48.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver120.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver78.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver57.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver112.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver25.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver7.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver101.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver38.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver94.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver93.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver0.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver117.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver106.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver113.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver121.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver29.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver90.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver39.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver116.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver88.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver45.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver126.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver36.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver6.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver3.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver103.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver20.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver99.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver51.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver58.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver42.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver16.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver11.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver8.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver68.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver67.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver110.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver24.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver50.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver55.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver1.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver85.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver114.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver97.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver77.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver111.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver108.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver47.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver123.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver60.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver53.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver87.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver76.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver86.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver119.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver23.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver13.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver80.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver66.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver104.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver44.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver128.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver64.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver118.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver4.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver5.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver74.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver96.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver19.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver30.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver91.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver95.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver43.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver35.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver79.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver71.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver92.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver62.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver102.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver109.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver125.png" class="lazyload" />
-                <img data-src="https://2019.fluufff.org/website/assets/images/beavers/FluufffWiMBeaver56.png" class="lazyload" />
+              <img data-src="/website/assets/images/beavers/FluufffWiMBeaver31.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver122.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver105.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver33.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver18.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver26.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver27.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver17.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver2.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver14.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver61.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver72.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver82.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver70.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver10.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver41.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver65.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver115.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver37.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver81.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver21.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver73.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver9.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver63.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver127.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver100.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver32.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver34.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver12.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver83.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver28.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver124.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver49.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver46.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver22.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver69.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver84.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver52.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver59.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver75.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver89.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver107.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver54.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver98.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver40.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver15.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver48.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver120.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver78.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver57.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver112.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver25.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver7.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver101.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver38.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver94.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver93.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver0.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver117.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver106.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver113.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver121.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver29.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver90.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver39.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver116.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver88.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver45.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver126.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver36.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver6.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver3.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver103.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver20.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver99.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver51.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver58.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver42.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver16.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver11.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver8.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver68.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver67.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver110.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver24.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver50.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver55.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver1.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver85.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver114.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver97.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver77.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver111.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver108.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver47.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver123.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver60.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver53.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver87.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver76.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver86.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver119.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver23.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver13.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver80.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver66.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver104.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver44.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver128.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver64.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver118.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver4.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver5.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver74.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver96.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver19.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver30.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver91.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver95.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver43.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver35.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver79.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver71.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver92.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver62.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver102.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver109.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver125.png" class="lazyload" />
+                <img data-src="/website/assets/images/beavers/FluufffWiMBeaver56.png" class="lazyload" />
             </div>
   </div>
 </section>
@@ -292,35 +292,35 @@ function countdownClock(){
 				<div class="bannerslider">
 					
 					<a href="https://gdakon.org" target="_blank" title="Gdakon">
-						<img class="bannerslider__item" src="https://2019.fluufff.org/website/assets/images/exchange/gdakon.jpg" alt="0">
+						<img class="bannerslider__item" src="/website/assets/images/exchange/gdakon.jpg" alt="0">
 					</a>
 
 					
 					<a href="https://animus.finfur.net/" target="_blank" title="Finfur Animus">
-						<img class="bannerslider__item" src="https://2019.fluufff.org/website/assets/images/exchange/finfur.png" alt="1">
+						<img class="bannerslider__item" src="/website/assets/images/exchange/finfur.png" alt="1">
 					</a>
 
 					
 					<a href="https://www.furrnion.org/" target="_blank" title="Furnion">
-						<img class="bannerslider__item" src="https://2019.fluufff.org/website/assets/images/exchange/furnion.gif" alt="2">
+						<img class="bannerslider__item" src="/website/assets/images/exchange/furnion.gif" alt="2">
 					</a>
 
 					
 					<a href="https://eurofurence.org" target="_blank" title="Eurofurence">
-						<img class="bannerslider__item" src="https://2019.fluufff.org/website/assets/images/exchange/eurofurence.gif" alt="3">
+						<img class="bannerslider__item" src="/website/assets/images/exchange/eurofurence.gif" alt="3">
 					</a>
 
 					
 					<a href="https://furvester.org" target="_blank" title="Furvester">
-						<img class="bannerslider__item" src="https://2019.fluufff.org/website/assets/images/exchange/furvester.svg" alt="4">
+						<img class="bannerslider__item" src="/website/assets/images/exchange/furvester.svg" alt="4">
 					</a>
 
 					
 				</div>
 				</div>
 				<!-- <div class="footer__flex">
-					<a class="title" title="Back to homepage" href="https://2019.fluufff.org/">
-						<img height="60px" width="130px" alt="Flüüfff" src="https://2019.fluufff.org/website/assets/images/logos/logo-light.svg" />
+					<a class="title" title="Back to homepage" href="/">
+						<img height="60px" width="130px" alt="Flüüfff" src="/website/assets/images/logos/logo-light.svg" />
 					</a>
 
 				</div> -->
@@ -331,7 +331,7 @@ function countdownClock(){
 								<ul>
 									<li id="slidr0" class="animate0">
 										<a href="https://gdakon.org" target="_blank">
-											<img class="bannersize" src="https://2019.fluufff.org/website/assets/images/exchange/gdakon.jpg" alt="0">
+											<img class="bannersize" src="/website/assets/images/exchange/gdakon.jpg" alt="0">
 										</a>
 										<div class="tooltip">
 											<a href="https://gdakon.org" target="_blank">
@@ -342,7 +342,7 @@ function countdownClock(){
 									</li>
 									<li id="slidr1" class="animate1">
 										<a href="https://animus.finfur.net/" target="_blank">
-											<img class="bannersize" src="https://2019.fluufff.org/website/assets/images/exchange/finfur.png" alt="1">
+											<img class="bannersize" src="/website/assets/images/exchange/finfur.png" alt="1">
 										</a>
 										<div class="tooltip">
 											<a href="https://animus.finfur.net/" target="_blank">
@@ -353,7 +353,7 @@ function countdownClock(){
 									</li>
 									<li id="slidr2" class="animate2">
 										<a href="https://www.furrnion.org/" target="_blank">
-											<img class="bannersize" src="https://2019.fluufff.org/website/assets/images/exchange/furnion.gif" alt="2">
+											<img class="bannersize" src="/website/assets/images/exchange/furnion.gif" alt="2">
 										</a>
 										<div class="tooltip">
 											<a href="https://www.furrnion.org/" target="_blank">
@@ -364,7 +364,7 @@ function countdownClock(){
 									</li>
 									<li id="slidr3" class="animate3">
 										<a href="https://eurofurence.org" target="_blank">
-											<img class="bannersize" src="https://2019.fluufff.org/website/assets/images/exchange/eurofurence.gif" alt="3">
+											<img class="bannersize" src="/website/assets/images/exchange/eurofurence.gif" alt="3">
 										</a>
 										<div class="tooltip">
 											<a href="https://eurofurence.org" target="_blank">
@@ -375,7 +375,7 @@ function countdownClock(){
 									</li>
 									<li id="slidr4" class="animate4">
 										<a href="https://furvester.org" target="_blank">
-											<img class="bannersize" src="https://2019.fluufff.org/website/assets/images/exchange/furvester.svg" alt="4">
+											<img class="bannersize" src="/website/assets/images/exchange/furvester.svg" alt="4">
 										</a>
 										<div class="tooltip">
 											<a href="https://furvester.org" target="_blank">
@@ -409,15 +409,15 @@ function countdownClock(){
 							</a>
 						</div>
 						<div class="footer-nav--right">
-							<a href="https://2019.fluufff.org/events" class="resetlink white fs--14 link" title="Events">
+							<a href="/events" class="resetlink white fs--14 link" title="Events">
 								Events							</a>
-							<a href="https://2019.fluufff.org/countdown" class="resetlink white fs--14 link" title="Countdown">
+							<a href="/countdown" class="resetlink white fs--14 link" title="Countdown">
 								Countdown							</a>
-							<a href="https://2019.fluufff.org/register/terms" class="resetlink white fs--14 link" title="Policies">
+							<a href="/register/terms" class="resetlink white fs--14 link" title="Policies">
 								Policies							</a>
-						<!-- <a href="https://2019.fluufff.org/othercons" class="resetlink white fs--14 link" title="Other cons">
+						<!-- <a href="/othercons" class="resetlink white fs--14 link" title="Other cons">
 							Other cons						</a>
-						<a href="https://2019.fluufff.org/credits" class="resetlink white fs--14 link" title="Credits">
+						<a href="/credits" class="resetlink white fs--14 link" title="Credits">
 							Credits						</a> -->
 						<a href="https://2018.fluufff.org" class="resetlink white fs--14 link" title="2018 website">
 							Flüüfff 2018						</a>
@@ -428,13 +428,13 @@ function countdownClock(){
 			</div>
 			<div class="footer__lower">
 				<span class=" white">
-					&copy;2024 - Flüüfff ABSL - All rights reserved. | <a href="https://2019.fluufff.org/register/terms#privacy" target="_blank" class="resetlink text--white">Privacy</a>					| <a href="https://2019.fluufff.org/register/terms#terms" target="_blank" class="resetlink text--white">Terms and Conditions</a>					| <a href="https://2019.fluufff.org/profile/contact" class="resetlink text--white">Contact us</a>				</span>
+					&copy;2024 - Flüüfff ABSL - All rights reserved. | <a href="/register/terms#privacy" target="_blank" class="resetlink text--white">Privacy</a>					| <a href="/register/terms#terms" target="_blank" class="resetlink text--white">Terms and Conditions</a>					| <a href="/profile/contact" class="resetlink text--white">Contact us</a>				</span>
 				<span class=" white text--right">
 					Design by <a target="_blank" href="https://twitter.com/HypiTheFox" title="Hypi The Fox">Hypi</a> and beavers by <a target="_blank" href="https://twitter.com/DiscordianD" title="Zepto">Zepto</a>.<br/>
 				</span>
 			</div>
 
 		</footer>
-		<script src="https://2019.fluufff.org/website/assets/scripts/app.js"></script>
+		<script src="/website/assets/scripts/app.js"></script>
 	</body>
 	</html>
